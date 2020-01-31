@@ -1,0 +1,2146 @@
+The Project Gutenberg EBook of Pragmatism, by D.L. Murray
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Pragmatism
+
+Author: D.L. Murray
+
+Release Date: February 7, 2004 [EBook #10970]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PRAGMATISM ***
+
+
+
+
+Produced by Garrett Alley and the Online Distributed Proofreading Team
+
+
+
+
+PRAGMATISM
+
+By
+
+D.L. MURRAY
+
+WITH A PREFACE BY DR. F.C.S. SCHILLER
+
+
+PHILOSOPHIES ANCIENT AND MODERN
+
+PRAGMATISM
+
+
+
+
+CONTENTS
+
+  PREFACE BY DR. F.C.S. SCHILLER
+  I.    THE GENESIS OF PRAGMATISM
+  II.   THE NEW PSYCHOLOGY
+  III.  WILL IN COGNITION
+  IV.   THE DILEMMAS OF DOGMATISM
+  V.    THE PROBLEM OF TRUTH AND ERROR
+  VI.   THE FAILURE OF FORMAL LOGIC
+  VII.  THE BANKRUPTCY OF INTELLECTUALISM
+  VIII. THOUGHT AND LIFE
+  BIBLIOGRAPHY
+
+
+
+
+PREFACE
+
+
+Mr. Murray's youthful modesty insists that his study of Pragmatism needs
+a sponsor; this is not at all my own opinion, but I may take the
+opportunity of pointing out how singularly qualified he is to give a
+good account of it.
+
+In the first place he is young, and youth is an almost indispensable
+qualification for the appreciation of novelty; for the mind works more
+and more stiffly as it grows older, and becomes less and less capable of
+absorbing what is new. Hence, if our 'great authorities' lived for ever,
+they would become complete _Struldbrugs_. This is the justification of
+death from the standpoint of social progress. And as there is no subject
+in which _Struldbruggery_ is more rampant than in philosophy, a youthful
+and nimble mind is here particularly needed. It has given Mr. Murray an
+eye also to the varieties of Pragmatism and to their connections.
+
+Secondly, Mr. Murray has (like myself) enjoyed the advantage of a
+severely intellectualistic training in the classical philosophy of
+Oxford University, and in its premier college, Balliol. The aim of this
+training is to instil into the best minds the country produces an
+adamantine conviction that philosophy has made no progress since
+Aristotle. It costs about L50,000 a year, but on the whole it is
+singularly successful. Its effect upon capable minds possessed of common
+sense is to produce that contempt for pure intellect which distinguishes
+the British nation from all others, and ensures the practical success of
+administrators selected by an examination so gloriously irrelevant to
+their future duties that, since the lamentable demise of the Chinese
+system, it may boast to be the most antiquated in the world. In minds,
+however, which are more prone to theorizing, but at the same time
+clear-headed, this training produces a keenness of insight into the
+defects of intellectualism and a perception of the _intellectual
+necessity_ of Pragmatism which can probably be reached in no other way.
+Mr. Murray, therefore, is quite right in emphasizing, above all, the
+services of Pragmatism as a rigorously critical theory of knowledge, and
+in refuting the amiable delusion of many pedants that Pragmatism is
+merely an emotional revolt against the rigors of Logic. It is
+essentially a reform of Logic, which protests against a Logic that has
+become so formal as to abstract from meaning altogether.
+
+Thirdly, an elementary introduction to Pragmatism was greatly needed,
+less because the subject is inherently difficult than because it has
+become so deeply involved in philosophic controversy. Intrinsically it
+should be as easy to make philosophy intelligible as any other subject.
+The exposition of a truth is difficult only to those who have not
+understood it, or do not desire to reveal it. But British philosophy had
+long become almost as open as German to the (German) gibe that
+'philosophy is nothing but the systematic misuse of a terminology
+invented expressly for this purpose,' and Pragmatism, too, could obtain
+a hearing only by showing that it could parley with its foes in the
+technical language of Kant and Hegel.
+
+Hence it had no leisure to compose a fitting introduction to itself for
+students of philosophy. William James's _Pragmatism_, great as it is as
+a work of genius, brilliant as it is as a contribution to literature,
+was intended mainly for the man in the street. It is so lacking in the
+familiar philosophic catchwords that it may be doubted whether any
+professor has quite understood it. And moreover, it was written some
+years ago, and no longer covers the whole ground. The other writings of
+the pragmatists have all been too controversial and technical.
+
+The critics of Pragmatism have produced only caricatures so gross as to
+be unrecognizable, and so obscure as to be unintelligible. Mr. Murray's
+little book alone may claim to be (within its limits) a complete survey
+of the field, simply worded, and yet not unmindful of due technicality.
+It is also up to date, though in dealing with so progressive a subject
+it is impossible to say how long it is destined to remain so.
+
+F.C.S. SCHILLER.
+
+
+
+
+CHAPTER I
+
+
+THE GENESIS OF PRAGMATISM
+
+There is a curious impression to-day in the world of thought that
+Pragmatism is the most audacious of philosophic novelties, the most
+anarchical transvaluation of all respectable traditions. Sometimes it is
+pictured as an insurgence of emotion against logic, sometimes as an
+assault of theology upon the integrity of Pure Reason. One day it is
+described as the reckless theorizing of dilettanti whose knowledge of
+philosophy is too superficial to require refutation, the next as a
+transatlantic importation of the debasing slang of the Wild West. Abroad
+it is frequently denounced as an outbreak of the sordid commercialism of
+the Anglo-Saxon mind.
+
+All these ideas are mistaken. Pragmatism is neither a revolt against
+philosophy nor a revolution in philosophy, except in so far as it is an
+important evolution of philosophy. It is a collective name for the most
+modern solution of puzzles which have impeded philosophical progress
+from time immemorial, and it has arisen naturally in the course of
+philosophical reflection. It answers the big problems which are as
+familiar to the scientist and the theologian as to the metaphysician and
+epistemologist, and which are both intelligible and interesting to
+common sense.
+
+The following questions stand out: (1) Can the possibility of knowledge
+be maintained against Hume and other sceptics? Certainly, if it can be
+shown that 'The New Psychology' has antiquated the analysis of mind
+which Hume assumed and 'British Associationism' respectfully continued
+to uphold. (2) Seeing that inclination and volition indisputably play a
+part in the _acceptance_ of all beliefs, scientific and religious, what
+is the logical significance of this fact? This yields the problem 'The
+Will to Believe,' and more generally of 'the place of Will in
+cognition.' (3) Is there no criterion by which the divergent claims of
+rival creeds and philosophies--to be possessed of unconditional
+truth--can be scientifically tested? The sceptic's sneer, that the
+shifting systems of philosophy illustrate only the changing fashions of
+a great illusion about man's capacity for truth, plunges dogmatism into
+a 'Dilemma,' from which it can emerge only by finding a way of
+discriminating a 'truth' from an 'error,' and so solving the 'problem of
+Truth and Error.' The weird verbalism of the traditional Logic suggests
+a problem which strikes deeper even than the question, 'What _do_ you
+mean by truth?' viz.: 'Do you mean anything?' and so the 'problem of
+Meaning' is propounded by the failure of Formal Logic. Is Logic not
+concerned at all with _meaning_, is it only juggling with empty forms of
+words? Lastly, if from all this there springs up a conviction of 'The
+Bankruptcy of Intellectualism,' the question suggests itself whether the
+relation between abstract thinking and concrete experience, between
+'Thought' and 'Life,' has been rightly grasped. Is life worth living
+only for the sake of philosophic contemplation, or is thinking only
+worth doing to aid us in the struggle for life? Are 'theory' and
+'practice' two separate kingdoms with rigid frontiers, strictly guarded,
+or does it appear that theories which cannot be applied have, in the
+end, neither worth, nor truth, nor even meaning?
+
+It is plain from this catalogue of inquiries that Pragmatism makes no
+abrupt breach in tradition. It is not the _petroleuse_ of philosophy. It
+does not wipe out the history of speculation in order to announce a
+millennium of new ideas; it claims, on the contrary, to be the
+culmination and _denoument_ of that history. It cannot rightly be
+represented as trying either to sell new lamps for old, or to
+jerry-build a new metaphysical system on the ruins of all previous
+achievements. Its real task is singularly modest. It aims merely at
+instructing system-builders in the elementary laws which condition the
+stability of such structures and conduce to their conservation.
+
+It is therefore a grave mistake to regard it as a parochial
+eccentricity, as a specific Americanism. Nor is it the product of the
+misplaced ingenuity of individual paradox-mongers. It has come into
+being by the _convergence_ of distinct lines of thought pursued in
+different countries by different thinkers.
+
+1. One of the most interesting of these has originated in the scientific
+world. The immense growth of scientific knowledge during the last
+century was bound to react on human conceptions of scientific procedure.
+The enormous number of new facts brought to light by manipulating
+hypotheses could not but modify our view of scientific law. Laws no
+longer seem to scientists the immutable foundations of an eternal order,
+but are inevitably treated as man-made formulae for grouping and
+predicting the events which verify them. The labours of physicists like
+Mach, Duhem, and Ostwald, point to alternative formulations of new
+hypotheses for the best established laws. The physics of Newton are no
+longer final, and the notion of 'energy' is a dangerous rival to the
+older conception of 'matter.' It is, of course, indifferent to the
+philosopher whether the new physics are successful in superseding the
+old or not. What it concerns him to note is that dogmatic confidence in
+the finality of scientific laws has given place to a belief that our
+"laws" are only working formulae for scientific purposes, and that no
+science can truly boast of having read off the mind of the Deity. As Sir
+J.J. Thomson neatly puts it, a scientific theory, for the enlightened
+modern scientist, is a 'policy and not a creed.' Science has become
+content to be only 'a conceptual shorthand,' provided that its message
+be humanly intelligible. It no longer claims truth because abstractly
+and absolutely it 'corresponds with Nature,' but because it yields a
+convenient means of mastering the flux of events.
+
+Even mathematics, long the pattern of absolute knowledge, has not
+escaped the stigma of relativity. 'Metageometries' have been invented by
+Riemann and Lobatschewski as rivals to the assumptions of Euclid, and
+the brilliant writings of Poincare have explained the human devices on
+which mathematical concepts rest. Euclidean geometry is reduced to a
+useful interpretation of the data of experience; it is not theoretically
+the only one. Its superior validity is dependent upon its use when
+applied to the physical world. Even mathematics, therefore, lend
+themselves to the philosophic inference drawn by Henri Bergson and
+others, that all conceptual systems of the human mind have a merely
+conditional truth, depending on the circumstances of their application.
+
+2. Another fountain-head of Pragmatic philosophy has been Darwinism.
+Indeed, the Pragmatic is the only philosophizing which has completely
+assimilated Evolution. The insight into the real fluidity of natural
+species ought long ago to have toned down the artificial rigidity of
+logical classifications. To know reality man can no longer rest in a
+'timeless' contemplation of a static system; he must expand his thoughts
+so as to cope with a perpetually changing process. Since the world
+changes, his 'truths' must change to fit it. He is faced with the
+necessity of a continuous reconstruction of beliefs. This influence of
+Darwin has inspired the logical theories of Professor Dewey and the
+'Chicago School' of Pragmatists. Thought in their writings is
+essentially the instrument of this readjustment. Its function is to
+effect the necessary changes in beliefs as economically and usefully as
+possible. It is an evolving process which keeps pace with the evolution
+of reality and the changing situations of mortal life.
+
+3. It is not, however, entirely the reaction of science upon philosophy
+which has given birth to Pragmatism. Philosophy itself has been rent by
+internal convulsions. These have been emphasized in the work of Dr.
+F.C.S. Schiller, who has shown that already in the days of Plato the
+distinction between 'truth' and 'error' was baffling philosophy, that
+Plato's _Theaetetus_ has failed to establish it, and that the famous
+dictum of Protagoras, 'Man is the measure of all things,' distinctly
+foreshadows the 'Pragmatic,' or, as he calls it, the 'Humanist,'
+solution of the difficulty.
+
+Elsewhere Dr. Schiller has commented on the controversies raised by
+Hume's criticism of dogmatism. He has shown that Kant failed to answer
+Hume because he accepted Hume's psychology, and that no _a priori_
+philosophers have since been able to devise any consistent and tenable
+doctrine. The idealistic theories of the 'Absolute' reveal their
+futility by their want of application to the genuine problems of life,
+and by the theoretic agnosticism from which they cannot escape. Hence
+the need for a new Theory of Knowledge and a thorough reform of Logic.
+
+4. At this point he joins forces with Mr. Alfred Sidgwick, who has long
+been urging a radical criticism of the procedures of Formal Logic, and
+shown the gulf between them and the processes of concrete thought.
+Sidgwick has demonstrated that the belief in formal truth renders Logic
+merely verbal, and that the actual _meaning_ of assertions completely
+escapes it.
+
+5. The most sensational approach to Pragmatism, however, is that from
+the side of religion. The Pragmatic method of deciding religious
+problems, which asserts the legitimacy of a 'Faith' that precedes
+knowledge, has always been, more or less consciously, practised by the
+religious. It is brilliantly advocated in the _Thoughts_ of Pascal, and
+clearly and forcibly defended in that most remarkable essay in
+unprofessional philosophy, Cardinal Newman's _Grammar of Assent_. This
+line of reasoning, however, is most familiarly associated with the name
+of William James; he first illustrated the Pragmatic Method by a famous
+paper (for a theological audience) on _The Will to Believe,_ and founded
+the psychological study of religious experience in his Gifford Lectures
+on _The Varieties of Religious Experience_.
+
+6. This brings us to the last, and historically the most fertile, of the
+sources of Pragmatism, Psychology. The publication in 1890 of James's
+great _Principles of Psychology_ opened a new era in the history of that
+science. More than that, it was destined in the long run to work a
+transformation in philosophy as a whole, by introducing into it those
+biological and voluntaristic principles to which he afterwards applied
+the generic name of Pragmatism, or philosophy of action. We must pass,
+then, to consider the New Psychology of William James.
+
+
+
+
+CHAPTER II
+
+
+THE NEW PSYCHOLOGY
+
+Until the year 1890, when James's _Principles_ were published, the
+psychology of Hume reigned absolutely in philosophy.[A] All empiricists
+accepted it enthusiastically, as the sum of philosophic wisdom; all
+apriorists submitted to it, even in supplementing and modifying it by
+'transcendental' and metaphysical additions; in either case it remained
+uncontested _as psychology_, and, by propounding an utterly erroneous
+analysis of the mind and its experience, entangled philosophy in
+inextricable difficulties.
+
+
+
+Hume had, as philosophers commonly do, set out from the practically
+sufficient analysis of experience which all find ready-made in language.
+He accepted, therefore, from common sense the belief that physical
+reality is composed of a multitude of separate existences that act on
+one another, and tried to conceive mental life strictly on the same
+analogy. His theory of experience, therefore, closely parallels the
+atomistic theory of matter. Just as the physicist explains bodies as
+collections of discrete particles, so Hume reduced all the contents of
+the mind to a number of elementary sensations. Whether the mind was
+reflecting on its own internal ideas, or whether it was undergoing
+impressions which it supposed to come from an external source, all that
+was really happening was a succession of detached sensations. It seemed
+to Hume indisputable that every distinct perception (or 'impression')
+was a distinct existence, and that all 'ideas' were equally distinct,
+though fainter, copies of impressions. Beyond impressions and ideas it
+was unnecessary to look. Thus to look at a chessboard was to have a
+number of sensations of black and white arranged in a certain order, to
+listen to a piece of music was to experience a succession of loud and
+soft auditory sensations, to handle a stone was to receive a group of
+sensations of touch. To suppose that anything beyond these sensory units
+was ever really experienced was futile fiction. Experience was a mosaic,
+of which the stones were the detached sensations, and their washed-out
+copies, the ideas.
+
+If this analysis of the mind were correct--and its correctness was not
+disputed for more than a hundred years, for were not the sensations
+admitted to be the ultimate analysis of all that was perceived?--the
+common-sense belief that knowledge revealed a world outside the thinker
+was, of course, erroneous. For common sense could hardly treat 'things'
+as merely 'sensations' artificially grouped together in space, each
+'thing' being a complex of a number of sensations having relation to
+similar complexes. It held rather that the successive appearances of
+things were related in time, in such a way that they could be supposed
+to reveal a single object able to endure in spite of surface changes,
+and to manifest the identity of its sensory 'qualities.' Similarly, the
+succession of ideas within the mind was for it supported by the inward
+unity of the soul within which they arose. Moreover, Hume's analysis
+made havoc of all idea, of 'causation.' If every sensation was a
+separate being, how was it to be connected with any other in any regular
+or necessary connection? Two events related as 'cause' and 'effect' must
+be a myth.
+
+These subversive consequences of his theory Hume did not conceal, though
+he did not push his mental 'atomism' to its logical extreme. When he
+defined material objects as 'coloured points disposed in a certain
+order,' he was in fact admitting space as a relating factor; when he
+spoke of the succession of impressions and ideas in experience, he was
+tacitly assuming that what was apprehended was not a bare succession of
+sensations, but _also_ the fact that they were succeeding one another,
+and so allowing a sense of temporal relation. But further than this he
+refused to go. The idea of a continuous self was fantastic. There was
+nothing beneath the ideas to connect them. The notion of causal
+connection was equally chimerical. Each sensation was distinct and
+existed in its own right. It could therefore occur alone. There was
+nothing to link together the distinct impressions. Hence necessary
+connection in events could not be more than a fiction of the mind based
+on expectation of customary sequences; how the mind he had described as
+non-existent could form an expectation or observe a sequence was calmly
+left a mystery.
+
+Hume, then, seemed to leave to his successors in philosophy a task of
+synthesis. He had tumbled the soul off her high watch-tower, but how to
+combine her shattered fragments again into a working unity he declined
+to say. He saw the sceptical implications of his analysis, but professed
+himself unable to suggest a remedy.
+
+He had, however, made the embarrassments of the theory of knowledge
+sufficiently clear for Kant, his most important successor, to hit upon
+the most obvious palliative, and in the _Critique of Pure Reason_ Kant
+set himself to patch up Hume's analysis. Experience as it came through
+the channels of sense, he admitted Hume had analysed correctly; it was
+'a manifold,' a whirl of separate sensations. But these _per se_ could
+not yield knowledge. They must be made to cohere, and the way to do this
+he had found. The mind on to which they fell was equipped with a
+complicated apparatus of faculties which could organize the chaotic
+manifold of sense and turn it into the connected world which common
+sense and science recognize. First it views the data of sense in the
+light of its own 'pure intuitions,' and, lo! they are seen to be in
+Space and Time; then it solidifies them with its own 'categories,' which
+turn them into 'substances' and 'causes' and endow them with all the
+attributes required to sustain that status; finally it refers them all
+to a Transcendental Ego, which is not, indeed, a soul, but sufficiently
+like one to provide something that can admire the creative synthesis of
+'mind as such.'
+
+Had Hume lived to read Kant's _Critique_, he would probably have jeered
+at the vain complications of Kant's transcendental machinery, and made
+it clear that between the primary manifold of sensation and the first
+constructions of the intellect there still yawns a gulf which Kant's
+laboured explanations nowhere bridge.
+
+Why does the chaotic 'matter' of sensations submit itself so tamely to
+the forming of the mind? How can the _a priori_ necessities of thought,
+which are the 'presuppositions' of the complexities Kant loved, operate
+upon so alien a stuff as the sensations are assumed to be? And, after
+all, was not Kant a bit premature in proclaiming the _finality_ of his
+analysis and of his refutation of empiricism for all time? The searching
+question, Why should the future resemble the past? had received no
+answer, and so might not the mind itself, with all its categories, be
+susceptible to change? Was it certain that the miracle whereby the data
+presented to our faculties conformed to them would be a standing one?
+Had not Kant himself as good as admitted that our faculties might
+distort reality instead of making it intelligible?
+
+The truth is that at this point Kant is open to a charge against which
+the assumptions he shared with Hume admit of no defence. Hume had been
+the first to discover that we are in the habit of trying to rationalize
+our sense-data by putting ideal constructions upon them, though he had
+abstained from sanctifying the practice by a hideous jargon of technical
+terminology. But this way of eking out the facts only seemed to him to
+_falsify_ them. Truth in his view was to be reached by accepting with
+docility the sensations given from without. To set to work to 'imagine'
+connections between them, and to claim for them a higher truth, had
+seemed to him an outrage. What right, then, had Kant to legitimate the
+mind's impudence in tampering with sensations? Was not every _a priori_
+form an 'imagination,' and a vain one at that?
+
+To these objections the Kantian school have never found an answer. They
+have simply repeated Kant's phrases about the necessary
+'presuppositions' which were to be added to Hume's data. The English
+psychologists (the Mills, Bain, etc.) exhibited a similar fidelity. They
+never accepted the _a priori_, but relied on 'the association of ideas'
+to build up a mind out of isolated sensations. But was this expedient
+really thinkable? For if all 'sensations' or qualities are separate
+entities, how can the addition of more 'distinct existences' of the same
+sort really bind them together? If in 'the cat is upon the wall,' 'upon'
+is a distinct entity which has to relate 'cat' and 'wall,' what is to
+connect 'cat' with 'upon' and 'upon' with 'wall'? The atomizing method
+carried to its logical extreme demands that not only 'sensations' but
+also 'thoughts' should be essentially disconnected, and then, of course,
+_no_ thinking can cohere.
+
+Psychology, then, had worked itself to a breakdown by accepting the
+'sensationalistic' analysis offered by Hume, and dragged philosophy with
+it. Yet the escape was as easy as the egg of Columbus to the insight of
+genius. William James had merely to invert the problem. Instead of
+assuming with Hume that because some experiences seemed to attest the
+presence of distinct objects, all connections were illusory and all
+experience must ultimately consist of psychical atoms, James had merely
+to maintain that this separation was secondary and artificial, and that
+experience was initially a continuum. Once this is pointed out, the fact
+is obvious. The stream of experience no doubt contains what it is
+afterwards possible to single out as 'sensations,' but it presents them
+also as connected by 'relations.' Moreover, the 'sensations' or
+'qualities' and their 'relations' exhibit the immediate indiscerptible
+unity of a fluid rather than a succession of flashes. Temporal and
+spatial relations with all the connections they sustain are perceived
+just as directly as what we come to distinguish as the 'things' in them.
+'Consciousness,' James insists, 'does not appear to itself chopped up in
+bits,' and 'we ought to say a feeling of _and_, a feeling of _if_, a
+feeling of _but_, and a feeling of _by_, quite as readily as we say a
+feeling of _blue_ or a feeling of _cold_. All things in experience
+naturally 'compenetrate,' to use a phrase of Bergson's; they are
+distinct and they are united at the same time.
+
+The great crux in Hume is thus seen to be illusory. Immediate experience
+does not require 'synthesis': it calls for 'analysis.' It is not a
+jigsaw puzzle, to be pieced together without glue: it is a confused
+whole which has to be divided and set in order for clear thinking.
+Hume's mistake was to have started from experience _as partly analysed_
+by common sense, and not from the flux _as given_. His 'sensations' were
+the qualities already analysed out of the flux; he took these selections
+for the whole and neglected the other less obvious features in it--viz.,
+the relations which floated them.
+
+Thus the puzzle 'How do "relations" relate?' received its solution in
+this new account of experience. Philosophers are puzzled by this
+question because they confuse percepts with concepts. Percepts are
+_given_ in relation; but concepts, being ideal dissections of the
+perceptual flux, are discontinuous terms which have to be related by an
+act of thought, because they were made for this very purpose of
+distinction. Thus the eye sees cats sitting upon walls, as parts of a
+rural landscape, and without the sharp distinctions which exist between
+the concepts 'cat,' 'upon,' 'wall.' These ideas were _meant_ to
+disconnect 'the cat' in thought from the site it sat upon. Thought,
+then, has _made_ the 'atomism' it professed to find. It has only to
+unmake it, and to allow the distinctions it held apart to merge again
+into the stream of change.
+
+All Hume's problems, therefore, are unreal, and those of his apriorist
+critics are doubly removed from reality. The whole conception of
+philosophy as aiming at uniting disjointed data in a higher synthesis
+runs counter to the real movement, which aims at the analysis of a given
+whole. The real question about causation is not how events can be
+connected causally, but why are certain antecedents preferred and
+dissected out and entitled 'causes.' So the 'self' is not one
+(undiscoverable) item imagined to keep in order a host of other such
+items. Any given moment of a consciousness is just the mass of its
+'sensations,' but these are consciously the heirs of its history and
+connected with a past which is remembered. No Transcendental Ego could
+do more to support the process of experience than is achieved by 'a
+stream of consciousness which carries its own past along.' Here, then,
+is the straight way James desiderated, a critical philosophy which goes,
+not 'through' the complexities of Kantism, but leaves them on one side
+as superfluous 'curios.'
+
+But there remains an even more important deduction from the new
+psychology. Hume had been convicted of error in selecting those elements
+of the flux which served his purpose and neglecting the rest. But this
+mistake might reveal the important fact that all analysis was a choice,
+and inspired by volitions. A mind that analyses cannot but be _active_
+in handling its experience. It manipulates it to serve its ends. It
+emphasizes only those portions of the flux which seem to it important.
+In a better and fairer analysis than Hume's these features will persist.
+It, too, would be a product of selection, of a selection depending on
+its maker's preferences. As James showed, the distinction between
+'dreams' and 'realities,' between 'things' and 'illusions,' results only
+from the differential values we attach to the parts of the flux
+according as they seem important or interesting to us or not. The
+volitional contribution is all-pervasive in our thinking. And once this
+volitional interference with 'pure perception' is shown to be
+indispensable, it must be allowed to be legitimate. Nor can this
+approval of our interference be restricted to selections. It must be
+extended to _additions_. Just as we can select factors from 'the given'
+to construct 'reality,' we can add hypotheses to it to make it
+'intelligible.' We can claim the right of causal analysis, and assume
+that our dissections have laid bare the inner springs of the connection
+of events. Moreover, to the 'real world which our choice has built out
+of the chaos of 'appearances' we may hypothetically add 'infernal' and
+'heavenly' regions.[B] Both are transformations of 'the given' by the
+will, but, like the postulate of causal series, experience _may_ confirm
+them. Kant's _a priori_ activity of the mind may thus in a sense supply
+an answer to Hume--but only in a voluntaristic philosophy which would
+probably have seemed too bold both to him and to Hume.
+
+
+
+There can be no doubt that we do not approach the data of perception in
+an attitude of quiescent resignation. Our desires and needs equip us
+with assumptions and 'first principles,' which originate from within,
+not from without. But how precisely should this mental contribution to
+knowledge be conceived? In the last chapter of his _Psychology_ James
+suggested that the mind's organization is essentially biological. It has
+evolved according to sound Darwinian principles, and in so doing the
+fittest of its 'variations' have survived. But were these variations
+quite fortuitous? May they not have been purposive responses to the
+stimulation of environment? Can logic have been invented like saws and
+ships for purposes of human service? These are some of the stimulating
+questions which James's work in _Psychology_ has suggested.
+
+FOOTNOTES:
+
+[Footnote A: Not in Bradley's "Logic."]
+
+[Footnote B: This is the substance of the doctrine of 'The Will to
+Believe.']
+
+
+
+
+CHAPTER III
+
+
+WILL IN COGNITION
+
+The new psychology of James was bound to produce a new theory of
+knowledge, and though it did not actually explore this problem, it
+contained several valuable suggestions upon the subject. For instance,
+in a brief passage discussing 'The Relations of Belief and Will,' James
+pointed out that belief is essentially an attitude of the will towards
+an idea, adding that in order to acquire a belief 'we need only in cold
+blood act as if the thing in question were real, and keep acting as if
+it were real, and it will infallibly end by growing into such a
+connection with our life that it will become real' (ii., p. 321). This
+passage is an outline of the doctrine of 'The Will to Believe,' which he
+was afterwards to develop so forcibly.
+
+Again, in his last chapter, James criticized the doctrine of Spencer
+that all the principles of thought, all its general truths and axioms,
+were derived from impressions of the external world. He argued, on the
+other hand, that such ways of looking at phenomena must originate in the
+mind, and be prior to the experience which confirms them. Without
+digging further into the character of this mental contribution to
+knowledge, James contented himself with the suggestion that the use of
+these axiomatic principles might be construed in Darwinian style as a
+'variation' surviving by its fitness, thus introducing into his account
+of mental process the important idea that thinking might be tested by
+its vital value.
+
+What if knowledge be neither a dull submission to dictation from without
+nor an unexplained necessity of thought? What if it be a bold adventure,
+an experimental sally of a Will to live, to know and to control reality?
+What if its principles were frankly _risky_, and their truth had to be
+_desired_ before it was tested and assured? In a word, what if first
+principles were to begin with _postulates?_ Thus the way is paved from
+the new psychology to a new theory of knowledge. A third alternative to
+the banal dilemma of 'empiricism' or 'apriorism' suggests itself.
+
+The old _empiricist_ view, as typified by Mill, was that the mind had
+been impressed with all its principles, such as the truths of
+arithmetic, the axioms of geometry, and the law of causation, by an
+uncontradicted course of experience, until it generalized facts into
+'laws,' and was enabled to predict a similar future with certainty. But
+this theory had really been exploded in advance by Hume. Facts do not
+_appear_ as causally connected, nor, if they did, would this guarantee
+that they will continue to do so in the future. The continuum of
+experience, we may add, is not _given_ as a series of arithmetical units
+or geometrical equalities, unless we deliberately measure it out in
+accordance with mathematical principles. Empiricism thus gives no real
+account of the scientific rational order of the world.
+
+But does it follow from the failure of empiricism that apriorism is
+true? This has always been assumed, and held to dispense rationalist
+philosophers from giving any direct and positive proof that these
+principles are _a priori_ truths. But manifestly their procedure is
+logically far from cogent. If a third explanation can be thought of, it
+will _not_ follow that apriorism is true. All that follows is that
+_something_ has to be assumed before experience proves it. What that
+something is, and whence it comes, remains an open question. Moreover,
+apriorism has _not_ escaped from the empirical doubt about the future.
+Even granted that facts now conform to the necessities of our thoughts,
+why should they so comport themselves for ever?
+
+Let us, therefore, try a compromise, which ignores neither that which we
+bring to experience (like empiricism), nor that which we gain from
+experience (like apriorism). This compromise is effected by the doctrine
+of postulation. For though a postulate proceeds from us, and is meant to
+guide thought in anticipating facts, it yet allows the facts to test and
+mould it; so that its working modifies, expands, or restricts its
+demands, and fits it to meet the exigencies of experience, and permits,
+also, a certain reinterpretation of the previous 'facts' in order to
+conform them to the postulate.
+
+A postulate thus fully meets the demands of apriorism. It is 'universal'
+in claim, because it is convenient and economical to make a rule carry
+as far as it will go; and it is 'necessary,' because all fresh facts are
+on principle subjected to it, in the hope that they will support and
+illustrate it. Yet a postulate can never be accused of being a mere
+sophistication, or a bar to the progress of knowledge, because it is
+always willing to submit to verification in the course of fresh
+experience, and can always be reconstructed or abandoned, should it
+cease to edify. A long and successful course of service raises a
+postulate to the dignity of an 'axiom'--_i.e._, a principle which it is
+incredible anyone should think worth disputing--whereas repeated failure
+in application degrades it to the position of a prejudice--_i.e._, an _a
+priori_ opinion which is always belied by its consequences.
+
+A 'postulate' thus differs essentially from the '_a priori_ truth' by
+its dependence upon the will, by its being the product of a free choice.
+We have always to select the assumptions upon which we mean to act in
+our commerce with reality. We select the rules upon which we go, and we
+select the 'facts' by which we claim to support our rules, stripping
+them of all the 'irrelevant' details involved by their position in the
+flux of happenings. Thus we emphasize that side of things which fits in
+with our expectations, until the facts are 'faked' sufficiently to
+figure as 'cases' of our 'law.' Postulation and the verifying of
+postulates is thus a process of reciprocal discrimination and selection.
+The postulate once formulated, we seek in the flux for confirmations of
+it, and thus construct a system of 'facts' which are relative to it;
+that is how the postulate reacts upon experience. If, on the other hand,
+this process of selection is unfruitful, and the confirmations of our
+rule turn out infinitesimal, we alter the rule; and thus the 'facts' in
+the case reject the postulate.
+
+This continuous process of selection and rejection of 'principles' and
+'facts' has, as we have said, a thoroughly _biological_ tinge. The
+fitness of a postulate to survive is being continually tested. It
+springs in the first place from a human hope that events may be
+systematized in a certain way, and it endures so long as it enables men
+to deal with them in that way. If it fails, the formation of fresh
+ideals and fresh hypotheses is demanded; but that which causes one
+postulate to prevail over another is always the satisfaction which, if
+successful, it promises to some need or desire. Thus 'thought' is
+everywhere inspired by 'will.' It is an _instrument_, the most potent
+man has found, whereby he brings about a harmony with his environment.
+This harmony is always something of a compromise. We postulate
+conformity between Nature and one of our ideals. We usually desire more
+than we can get, but insist on all that Nature can concede.
+
+Causation serves as a good example. Experience as it first comes to us
+is a mere flood of happenings, with no distinction between causal and
+casual sequences. Clearly our whole ability to control our life, or even
+to continue it, demands that we should _predict_ what happens, and guide
+our actions accordingly. We therefore postulate a right to _dissect_
+the flux, to fit together selected series without reference to the
+rest. Thus, a systematic network of natural 'laws' is slowly knit
+together, and chaos visibly transforms itself into scientific order. The
+postulation of 'causes' is verified by its success. Moreover, it is to
+be noted that to this postulate there is no alternative. A belief that
+all events are casual would be scientifically worthless. So is a
+doctrine (still popular among philosophers) that the only true 'cause'
+is the total universe at one moment, the only true 'effect,' the whole
+of reality at the next. For that is merely to reinstate the given chaos
+science tried to analyse, and to forbid us to make selections from it.
+It would make prediction wholly vain, and entangle truth in a totality
+of things which is unique at every instant, and never can recur.
+
+The principles of mathematics are as clearly postulates. In Euclidean
+geometry we assume definitions of 'points,' 'lines,' 'surfaces,' etc.,
+which are never found in nature, but form the most convenient
+abstractions for measuring things. Both 'space' and 'time,' as defined
+for mathematical purposes, are ideal constructions drawn from empirical
+'space' (extension) and 'time' (succession) feelings, and purged of the
+subjective variations of these experiences. Nevertheless, geometry
+forms the handiest system for applying to experience and calculating
+shapes and motions. But, ideally, other systems might be used. The
+'metageometries' have constructed other ideal 'spaces' out of postulates
+differing from Euclid's, though when applied to real space their greater
+complexity destroys their value. The postulatory character of the
+arithmetical unit is quite as clear; for, in application, we always have
+to _agree_ as to what is to count as 'one'; if we agree to count apples,
+and count the two halves of an apple as each equalling one, we are said
+to be 'wrong,' though, if we were dividing the apple among two
+applicants, it would be quite right to treat each half as 'one' share.
+Again, though one penny added to another makes two, one drop of water
+added to another makes one, or a dozen, according as it is dropped.
+Common sense, therefore, admits that we may reckon variously, and that
+arithmetic does not _apply_ to _all_ things.
+
+Again, it is impossible to concede any meaning even to the central 'law
+of thought' itself--the Law of Identity ('A is A')--except as a
+postulate. Outside of Formal Logic and lunatic asylums no one wishes to
+assert that 'A is A.' All significant assertion takes the form 'A is B.'
+But A and B are _different_, and, indeed, no two 'A's' are ever _quite_
+the same. Hence, when we assert either the 'identity' of 'A' in two
+contexts, or that of 'A' and 'B,' in 'A is B,' we are clearly _ignoring
+differences which really exist--i.e._, we postulate that in spite of
+these differences A and B will for our purposes behave as if they were
+one ('identical'). And we should realize that this postulate is of our
+making, and involves a risk. It may be that experience refuses to
+confirm it, and convicts us instead of a 'mistaken identity.' In short,
+_every identity we reason from is made by our postulating an irrelevance
+of differences_.
+
+There is thus, perhaps, no fundamental procedure of thought in which we
+cannot trace some deliberately adopted attitude. We distinguish between
+'ourselves' and the 'external' world, perhaps because we have more
+control over our thoughts and limbs, and less, or none, over sticks and
+stones and mountains; fundamental as it is, it is a distinction _within_
+experience, and is not given ready-made, but elaborated in the course of
+our dealings with it. Similarly, in accordance with its varying degrees
+of vividness, continuity, and value, experience itself gets sorted into
+'realities,' 'dreams,' and 'hallucinations.' In short, when the
+processes of discriminating between 'dreams' and 'reality' are
+considered, all these distinctions will ultimately be found to be
+judgments of value.
+
+Nor is it only in the realm of scientific knowing that postulation
+reveals itself as a practicable and successful method of anticipating
+experience and consolidating fact. The same method has always been
+employed by man in reaching out towards the final syntheses which (in
+imagination) complete his vision of reality. The 'truths' of all
+religions originate in postulates. 'Gods' and 'devils,' 'heavens' and
+'hells,' are essentially demands for a moral order in experience which
+transcend the given. The value of the actual world is supplemented and
+enhanced by being conceived as projected and continued into a greater,
+and our postulates are verified by the salutary influence they exercise
+on our earthly life. Both postulation and verification, then, are
+applicable to the problems of religion as of science. This is the
+meaning of the Will to Believe. When James first defined and defended
+it, it provoked abundant protest, on the ground that it allowed everyone
+to believe whatever he pleased and to call it 'true.' The critics had
+simply failed to see that verification by experience is just as integral
+a part of voluntaristic procedure as experimental postulation, and that
+James himself had from the first asserted this. Indeed, that he had
+first given a theological illustration of the function of volition in
+knowing was merely an accident. But that the will to believe was capable
+of being generalized into a voluntarist theory of all knowledge was soon
+shown in Dr. Schiller's _Axioms as Postulates_.
+
+
+
+
+CHAPTER IV
+
+
+THE DILEMMAS OF DOGMATISM
+
+Every man, probably, is by instinct a dogmatist. He feels perfectly sure
+that he knows some things, and is right about them against the world.
+Whatever he believes in he does not doubt, but holds to be
+self-evidently or indisputably true. His naive dogmatism, moreover,
+spontaneously assumes that his truth is universal and shared by all
+others.
+
+If now he could live like a fakir, wholly wrapped in a cloud of his own
+imaginings, and nothing ever happened to disappoint his expectations, to
+jar upon his prejudices, and to convict him of error; if he never held
+converse with anyone who took a different view and controverted him, his
+dogmatism would be lifelong and incurable. But as he lives socially, he
+has in practice to outgrow it, and this lands him in a serious
+theoretical dilemma. He has to learn to live with others who differ from
+him in their dogmatizing. Social life plainly would become impossible
+if all rigidly insisted on the absolute rightness of their own beliefs
+and the absolute wrongness of all others.
+
+So compromises have to be made to get at a common 'truth.' It must be
+recognized that not everything which is believed to be 'knowledge' is
+knowledge. In fact, it is safer to assume that none have knowledge,
+though all think they have; to say fact, men only have 'opinions,' which
+may be nearer to or farther from 'the truth,' but are not of necessity
+as unquestionable as they seem to be. Out of this concession to the
+social life arise three problems. How are 'opinions' to be compared with
+each other, and how is the extent of their 'truth' or 'error' to be
+determined? How is the belief in absolute truth to be interpreted and
+discounted? How is the penitent dogmatist, once he has allowed doubt to
+corrupt his self-confidence, to be stopped from doubting all things and
+turning sceptic?
+
+As regards the first problem, the first question is whether we shall try
+to _test_ opinions and to arrive at a standard of value by which to
+measure them by comparing the opinions themselves with one another, or
+shall presume that there must be some absolute standard which alone is
+truly true, whether we are aware of it or not. The former view is
+_relativism_, the latter is _absolutism_, in the matter of truth.
+
+Now, there can be no doubt that absolutism is more congenial to our
+natural prejudices. Accordingly it is the method tried first; but it
+soon conducts dogmatism to an awkward series of dilemmas.
+
+1. If there is absolute truth, who has it? and who can use the absolute
+criterion of opinions it is supposed to form? Not, surely, everyone who
+_thinks_ he has. It will never do to let every dogmatist vote for
+himself and condemn all others. That way war and madness lie. Until
+there is absolute agreement, there cannot be absolute truth.
+
+2. But absolute truth may still be reverenced as an ideal, to save us
+from the scepticism to which a complete relativity of truth would lead.
+But would it save us? If it is admitted that no one can arrogate to
+himself its possession, what use is it to believe that it is an ideal?
+For if no one can assume that he has it, all _human_ truth is, in fact,
+such as the relativist asserted, and scepticism is just as inevitable as
+before. It makes no difference to the sceptical inference whether there
+is no absolute truth, or whether it is unattained by man, and human
+unattainable.
+
+3. It was a mistake, therefore, to admit that opinions cannot be
+compared together. Some are much more certain than others, and, indeed,
+'self-evident' and 'intuitive.' Let us therefore take these to be
+'truer.' If so, the thinker who feels most certain he is right is most
+likely to be right.
+
+4. This suggestion will be welcomed by all dogmatists--until they
+discover that it does not help them to agree together, because they are
+all as certain as can be. But a critically-minded man will urge against
+it that _'certainty' is a subjective and psychological criterion_, and
+that no one has been able to devise a method for distinguishing the
+alleged logical from the undeniable psychological certainty. He will
+hesitate to say, therefore, that because a belief seems certain it is
+true, and to trust the formal claim to infallibility which is made in
+every judgment. And when 'intuitions' are appealed to, he will ask how
+'true' intuitions are to be discriminated from 'false,' sound from
+insane, and inquire to what he is committing himself in admitting the
+truth of intuitions. He will demand, therefore, the publication of a
+list of the intuitions which are absolutely true. But he will not get
+it, and if he did, it may be predicted that he would not find a single
+one which has not been disputed by some eminent philosopher.
+
+5. Intuitions, therefore, are an embarrassment, rather than a help to
+Intellectualism. It has to maintain both that intuitions are the
+foundations of all truth and certitude, and also that not all are true.
+But our natural curiosity as to how these sorts are to be known apart is
+left unsatisfied. We must not ask which are true, and which not. No one
+can say in advance about what matters intuitive certainty is possible;
+what is, or is not, an intuition is revealed only to reflection after
+the event. Only if an intuition _has_ played us false, we may be sure it
+_was_ not infallible; it must either have been one of the fallible sort,
+or else no intuition at all.
+
+6. At this point universal scepticism begins to raise its hydra head,
+and to grin at the dogmatist's discomfiture. For in point of fact the
+history of thought reveals, not a steady accumulation of indubitable
+truth, but a continuous strife of opinions, in which the most widely
+accepted beliefs daily succumb to fresh criticism and fall into
+disrepute as the 'errors of the past.' Nothing, it seems, can guarantee
+a 'truth,' however firmly it may be believed for a time, from the
+corrosive force of new speculation and changed opinion; to survey the
+field of philosophic dispute, strewn with the remains of 'infallible'
+systems and 'absolute' certainties, is to be led irresistibly to a
+sceptical doubt as to the competence of human thought. If 'absolute
+truth' is our ideal and acquaintance with 'absolute reality' our aim,
+then, in view of the persistent illusions on both these points to which
+the human mind is liable, it seems necessary to recognize the
+hopelessness of our search. Thus the last dilemma of dogmatism is
+reached. In view of the diversity of human beliefs and the discredit
+which has historically fallen on the most axiomatic articles of faith,
+we must either admit scepticism to be the issue of the debate, or else,
+condemning our absolute view of truth, find some means of utilizing the
+relative truths which are all that humanity seems able to grasp. But to
+come to terms with relativism is to renounce the dogmatic attitude
+entirely, and to approach the problems of philosophy in a totally
+different spirit.
+
+
+
+
+CHAPTER V
+
+
+THE PROBLEM OF TRUTH AND ERROR
+
+It has been shown in the last chapter how urgent has become the problem
+of discriminating between the true and false among relative 'truths.'
+For absolute truth has become a chimera, self-evidence an illusion, and
+intuition untrustworthy. All three are psychologically very real to
+those who believe in them, but logically they succumb to the assaults of
+a scepticism which infers from the fact that no 'truths' are absolute
+that all may reasonably be overthrown.
+
+The only obstacle to its triumph lies in the existence of 'relative'
+truths which are _not_ absolute, and do not claim to be, and in the
+unexamined possibility that in a relativist interpretation of all truth
+a meaning may be found for the distinction between 'true' and 'false.'
+Now, not even a sceptic could deny that the size of an object is better
+measured by a yard-measure than by the eye, even though it may be
+meaningless to ask what its size may be absolutely; or that it is
+probable that bread will be found more nourishing than stone, even
+though it may not be a perfect elixir of life. Even if he denied this,
+the sceptic's _acts_ would convict his _words_ of insincerity, and
+_practically_, at any rate, no one has been or can be a sceptic,
+whatever the extent of his _theoretic_ doubts.
+
+This fact is construed by the pragmatist as a significant indication of
+the way out of the epistemological _impasse_. The 'relative' truths,
+which Intellectualism passed by with contempt, may differ in _practical
+value_ and lead to the conceptions of _practical truth_ and certainty
+which may be better adapted to the requirements of human life than the
+elusive and discredited ideals of absolute truth and certainty, and may
+enable us to justify the distinctions we make between the 'true' and the
+'false. At any rate, this suggestion seems worth following up.
+
+To begin with, we must radically disabuse our minds of the idea that
+thinking _starts from certainty._ Even the self-evident and
+self-confident 'intuitions' that impress the uncritical so much with
+their claim to infallibility are really the results of antecedent doubts
+and ponderings, and would never be enunciated unless there were thought
+to be a dispute about them. In real life thought starts from
+perplexities, from situations in which, as Professor Dewey says, beliefs
+have to be 'reconstructed,' and it aims at setting doubts at rest. It is
+psychologically impossible for a rational mind to assert what it knows
+to be true, and supposes everyone else to admit the truth of. This is
+why even a philosopher's conversation does not consist of a rehearsal of
+all the unchallenged truisms that he can remember.
+
+Being thus conditioned by a doubt, every judgment is a challenge. It
+claims truth, and backs its claims by the authority of its maker; but it
+would be folly to imagine that it thereby becomes _ipso facto_ true, or
+is meant to be universally accepted without testing. Its maker must know
+this as well as anyone, unless his dogmatism has quite blotted out his
+common sense. Indeed, he may himself have given preference to the
+judgment he made over the alternatives that occurred to him only after
+much debate and hesitation, and may propound it only as a basis for
+further discussion and testing.
+
+Initially, then, every judgment is a _truth-claim_, and this claim is
+merely _formal_. It does not _mean_ that the claim is absolutely true,
+and that it is impious to question it. On the contrary, it has still to
+be validated by others, and may work in such a way that its own maker
+withdraws it, and corrects it by a better. The intellectualist accounts
+of truth have all failed to make this vital distinction between
+'truth-claim' and validated truth. They rest on a _confusion of formal
+with absolute truth_, and it is on this account that they cannot
+distinguish between 'truth' and error. For false judgments also formally
+claim 'truth,' No judgment alleges that it is false.[C]
+
+
+
+On the other hand, if the distinction between truth-claims and validated
+truths is made, there ceases to be any _theoretic_ difficulty about the
+conception and correction of errors, however difficult it may be to
+detect them in practice. 'Truths' will be 'claims' which have worked
+well and maintained themselves; 'errors,' such as have been superseded
+by better ones. All 'truths' must be _tested_ by something more
+objective than their own self-assertiveness, and this testing by their
+working and the consequences to which they lead may go on indefinitely.
+In other words, however much a 'truth' has been validated, it is always
+possible to test it further. _I.e.,_ it is never theoretically
+'absolute,' however well it may practically be assured. For a
+confirmation of this doctrine Pragmatism appeals to the history of
+scientific truth, which has shown a continuous correction of 'truths,'
+which were re-valued as 'errors,' as better statements for them became
+available.
+
+It may also be confirmed negatively by the breakdown of the current
+definitions of truth, which all seem in the end to mean nothing.
+
+The oldest and commonest definition of a 'truth' which is given is that
+it is 'the correspondence of a thought to reality.' But Intellectualism
+never perceived the difficulties lurking in it. At first sight this
+seems a brave attempt to get outside the circle of thought in order to
+test its value and to control its vagaries. Unluckily, this theory can
+only assert, and neither explains nor proves, the connection between the
+thought and the reality it desiderates. For, granting that it is the
+intent of every thought to correspond with reality, we must yet inquire
+how the alleged correspondence is to be made out. Made out it must be;
+for as the criterion is quite formal and holds of all assertions, the
+claim to 'correspond' may be false. To prove the correspondence, then,
+the 'reality' would have somehow to be known apart from the truth-claim
+of the thought, in order that the two might be compared and found to
+agree. But if the reality were already known directly, what would be
+the need of asserting an idea of it and claiming 'truth' for this? How,
+moreover, could the claim be tested, if, as is admitted, the reality is
+not directly known? To assert the 'correspondence' must become a
+groundless postulate about something which is defined to transcend all
+knowledge. The correspondence theory, then, does not _test_ the
+truth-claim of the assertion; it only gives a fresh definition of it. A
+'true' thought, it says, is one which _claims to correspond_ with a
+'reality.' _But so does a false,_ and hence the theory leaves us as we
+were, puzzled to distinguish them.[D]
+
+
+
+Yet the theory is not wholly wrong. Many of our thoughts do claim to
+correspond with reality in ways that can be verified. If the judgment
+'There is a green carpet in my hall' is taken to mean 'If I enter my
+hall, I shall _see_ a green carpet,' perception tests whether the
+judgment 'corresponds' with the reality perceived, and so goes to
+validate or disprove the claim. But the limits within which this
+correspondence works are very strait. It applies only to such judgments
+as are anticipations of perception,[E] and will test a truth-claim only
+where there is willingness to act on it. It implies an experiment, and
+is not a wholly intellectual process.
+
+
+
+The superiority of the 'correspondence' theory over the belief in
+'intuitions' lies in its insistence that thought is not to audit its own
+accounts. Its success or failure depends upon factors external to it,
+which establish the truth or falsehood of its claims. No such guarantee
+is offered by the next theory, which is known as the 'consistence' or
+'coherence' theory. In order to avoid the difficulty which wrecked the
+'correspondence' theory, that of making the truth of an assertion reside
+in an inexperienceable relation to an unattainable reality, this view
+maintains that an idea is true if it is consistent with the rest of our
+thoughts, and so can be fitted with them into a coherent system. No
+doubt a coherence among our ideas is a convenience and a part of their
+'working,' but it is hardly a test of their objective truth. For a
+harmonious system of thoughts is conceivable which would either not
+apply to reality at all, or, if applied, would completely fail. On this
+theory systematic delusions, fictions, and dreams, might properly lay
+claim to truth. True, they might not be quite consistent: but neither
+are the systems of our sciences. If, then, this _absolute_ coherence be
+insisted on, this test condemns our whole knowledge; if not, it remains
+formal, and fails to recognize any distinctions of value in the claims
+which can be systematized.
+
+To avoid this _reductio ad absurdum_, it has been suggested that it is
+not the coherence of the idea in human, finite, minds which constitutes
+'truth,' but the perfect consistency of the experience of an Absolute
+Mind. The test, then, of our limited coherency will lie in its relation
+to this Absolute System. But here we have the correspondence doctrine
+once again in a fresh disguise; our human systems are now 'true' if they
+correspond with the Absolute's, But as there is no way for us of sharing
+the Absolute Experience, our test is again illusory, and productive of a
+depressing scepticism; and, again, we have only asserted that truth is
+what _claims_ to be part of the Absolute System.
+
+A word may be devoted to the simple refusal of intuitionists to give an
+account of Truth on the ground that it is 'indefinable.' Truth is taken
+to be an ultimate unanalyzable quality of certain propositions,
+intuitively felt, and incapable of description. Error, by the same
+token, should be equally indefinable and as immediately apprehended.
+How, then, can there be differences of opinion, and mistakes as to what
+is true and what false? How is it that a proposition which is felt to be
+'true' so often turns out to be erroneous? If all errors are felt to be
+true by those they deceive, is it not clear that immediate feeling is
+not a good enough test of a validated truth? Thus, once again, we find
+that an account of truth-claim is being foisted on us in place of a
+description of truth-testing.
+
+The intellectualist, then, being in every case unable to justify the
+vital distinction commonly made between the true and the false, we
+return to the pragmatist. He starts with no preconceptions as to what
+truth must mean, whether it exists or not; he is content to watch how
+_de facto_ claims to truth get themselves validated in experience. He
+observes that every question is intimately related to some scheme of
+human purposes. For it has to be _put_, in order to come into being.
+Hence every inquiry arises, and every question is asked, because of
+obstacles and problems which arise in the carrying out of human
+purposes. So soon as uncertainty arises in the course of fulfilling a
+purpose, an idea or belief is formulated _and acted on_, to fill the gap
+where immediate certitude has broken down. This engenders the
+truth-claim, which is necessarily a 'good' in its maker's eyes, because
+it has been selected by him and judged _preferable_ to any alternative
+that occurred to him.
+
+How, then, is it tested? Simply by the consequences which follow from
+adopting it and using it as an assumption upon which to work. If these
+consequences are satisfactory, if they promote the purpose in hand,
+instead of thwarting it, and thus have a valuable effect upon life, then
+the truth-claim maintains its 'truth,' and is so far validated. This is
+the universal method of testing assertions alike in the formation of
+mathematical laws, physical hypotheses, religious beliefs, and ethical
+postulates. Hence such pragmatic aphorisms as 'truth is useful' or
+'truth is a matter of practical consequences' mean essentially that all
+assertions must be _tested by being applied to a real problem of
+knowing._ What is signified by such statements is that no 'truth' must
+be accepted merely on account of the insistence of its claim, but that
+every idea must be tested by the consequences of its working. Its truth
+will then depend upon those consequences being fruitful for life in
+general, and in particular for the purpose behind the particular inquiry
+in which it arose. Truth is a _value_ and a satisfaction; but
+'intellectual satisfaction' is not a morbid delight in dialectical and
+verbal juggling: it is the satisfaction which rewards the hard labour of
+rationalizing experience and rendering it more conformable with human
+desires.
+
+It should be clear, though it is often misunderstood, that there is
+nothing arbitrary or 'subjective' in this method of testing beliefs. It
+does not mean that we are free to assert the truth of every idea which
+seems to us pretty or pleasant. The very term 'useful' was chosen by
+pragmatists as a protest against the common philosophic licence of
+alleging 'truths' which could never be applied or tested, and were
+supposed to be none the worse for being 'useless.' It is clear both that
+such 'truths' must be a monopoly of Intellectualism, and also that they
+do allow every man to believe whatever he wishes, provided only that he
+boldly claims 'self-evidence' for his idiosyncrasy. In this purely
+subjective sense, into which Intellectualism is driven, it is, however,
+clear that there can be no useless ideas. For any idea anyone decided to
+adopt, because it pleased or amused him, would be _ipso facto_ true.
+Pragmatism, therefore, by refuting 'useless' knowledge, shows that it
+does _not_ admit such merely subjective 'uses.' It insists that ideas
+must be more objectively useful--viz., by showing ability to cope with
+the situation they were devised to meet. If they fail to harmonize with
+the situation they are untrue, however attractive they may be. For ideas
+do not function in a void; they have to work in a world of fact, and to
+adapt themselves to all facts, though they may succeed in transforming
+them in the end.
+
+Nor has an idea to reckon only with facts: it has also to cohere with
+other ideas. It must be congruous with the mass of other beliefs held
+for good reasons by the thinker who accepts it. For no one can afford to
+have a stock of beliefs which conflict too violently with those of his
+fellows. If his 'intuitions' contrast too seriously with those of
+others, and he acts on them, he will be shut up as a lunatic. If, then,
+the 'useful' idea has to approve itself both to its maker and his
+fellows without developing limitations in its use, it is clear that a
+pragmatic truth is really far less arbitrary and subjective than the
+'truths' accepted as absolute, on the bare ground that they seem
+'self-evident' to a few intellectualists.
+
+If, however, it be urged that pragmatic truths never grow absolutely
+true at all, and that the most prolonged pragmatic tests do not exclude
+the possibility of an ultimate error in the idea, there is no difficulty
+about admitting this. The pragmatic test yields _practical_, and not
+'absolute,' certainty. The existence of absolute certainty is denied,
+and the demand for it, in a world which contains only the practical
+sort, merely plays into the hands of scepticism. The uncertainty of all
+our verificatory processes, however, is not the creation of the
+pragmatist, nor is he a god to abolish it. Abstractly, there is always a
+doubt about what transcends our immediate experience, and this is why it
+is so healthy to have to repudiate so many theoretic doubts in every act
+we do. For beliefs have to be acted on, and the results of the action
+rightly react on the beliefs. The pragmatic test is practically
+adequate, and is the only one available. That it brings out the risk of
+action only brings out its superiority to a theory which cannot get
+started at all until it is supplied with absolute certainty, and
+meantime can only idly rail at all existing human truths.
+
+We have in all this consistently referred the truth of ideas to
+individual experiences for verification. This evidently makes all truths
+in some sense dependent upon the personality of those who assert and
+accept them. Intellectualist logic, on the other hand, has always
+proclaimed that mental processes, if true, are 'independent' of the
+idiosyncrasies of particular minds. Ideas have a _fixed_ meaning, and
+cohere in bodies of 'universal' truth, quite irrespective of whether any
+particular mind harbours them or not. This is not only a contention
+fatal to the pragmatic claims, but also bound up with other assumptions
+of Formal Logic. So it becomes necessary to inquire whether this Logic
+is a success, and so can coherently abstract from the personality of the
+knower and the particular situations that incite him to know.
+
+FOOTNOTES:
+
+[Footnote C: Not even 'I lie,' which is meaningless as it stands, _Cf._
+Dr. Schiller's _Formal Logic_, p. 373.]
+
+[Footnote D: This same difficulty reappears in various forms, as _e.g._,
+in a recent theory which makes the truth of a judgment lie in its
+asserting a relation between different objects, and not in the existence
+of those objects themselves. This formula also applies as evidently to
+false judgments as to true. It, too, brings no independent evidence of
+the existence of the objects referred to, and might fall into error
+through asserting a relation between objects which did not exist. It is,
+moreover, incapable of showing that a relation corresponding to the idea
+we have of it really exists when we judge that it does.]
+
+[Footnote E: Each perception, however, contains much that is supplied by
+the mind, not 'given' to it.]
+
+
+
+
+CHAPTER VI
+
+
+THE FAILURE OF FORMAL LOGIC
+
+In order to escape the necessity of concerning itself with personality
+and particular circumstances in questions of truth and error,
+Intellectualism appeals to Logic, which it conceives as a purely formal
+science and its impregnable citadel. This appeal, however, rests on a
+number of questionable assumptions, and most of these are not avowed.
+
+1. It assumes that forms of thought can be treated in abstraction from
+their matter--in other words, that the general types of thinking are
+never affected by the particular context in which they occur. Now, this
+means that the question of real truth must not be raised; for, as we
+have seen (Chapter V.), real truth is always an affair of particular
+consequences. The result is, that as truth-claims are no longer tested,
+they _all pass as true_ for Logic, and are even raised to the rank of
+'absolute truths,' or are mistaken for them. For the notion of a really
+('materially') true judgment which someone has chosen, made, and tested,
+there is substituted that of a formally valid proposition, and in the
+end Logic gets so involved in the study of 'validity' that it puts aside
+altogether all real tests of truth, and becomes a game with verbal
+symbols which is entirely irrelevant to scientific thinking.
+
+2. Formal Logic assumes the right of abstracting from the whole process
+of making an assertion. It presumes that the assertion has already been
+made somehow. How, it does not inquire. Yet it is clear that in each
+case there were concrete reasons why just _that_ assertion was preferred
+to any other. These concrete reasons it makes bold to dismiss as
+'psychological,' and between 'logic' and 'psychology'[F] it decrees an
+absolute divorce. Where, when, why, by and to whom, an assertion was
+made, is taken to be irrelevant, and put aside as 'extralogical.'
+
+
+
+3. This convenient assumption, however, ultimately necessitates an
+abstraction from meaning, though Formal Logic does not avow this openly.
+Every assertion is meant to convey a certain meaning in a certain
+context, and therefore its verbal 'form' has to take on its own
+individual _nuance_ of meaning. What any particular form of words does
+in fact mean on any particular occasion always depends upon the use of
+the words in a particular context. Meaning, therefore, cannot be
+depersonalized; if meanings are depersonalized, they cease to be real,
+and become verbal.
+
+Formal Logic has, in fact, mistaken _words_, which are (within the same
+language) identical on all occasions, for the _thoughts_ they are
+intended to express, which are varied to suit each occasion. Words alone
+are tolerant of the abstract treatment Formal Logic demands. This
+'science,' therefore, finally reduces to mere verbalism, distracted by
+inconsistent relapses into 'psychology.'
+
+But will this conception of Logic either work out consistently in itself
+or lead to a tenable theory of scientific thinking? Emphatically not.
+What is the use of a logic which (1) cannot effect the capital
+distinction of all thought, that between the true and the false? (2) is
+debarred by its own principles from considering the _meaning_ of any
+real assertion? and (3) is thus tossed helplessly from horn to horn of
+the dilemma 'either verbalism or psychology'?
+
+We may select a few examples of this fatal dilemma.
+
+1. In dealing with what it calls 'the meaning' of terms, propositions,
+etc., Formal Logic has always to choose between the meaning of the
+_words_ and the meaning of the _man_. For it is clear that words which
+may be used ambiguously may on occasion leave no doubt as to their
+meaning, while conversely all may become 'ambiguous' in a context. If,
+therefore, the occasion is abstracted from, all forms must be treated
+verbally as ambiguous formulae, which may be used in different senses.
+If it is, nevertheless, attempted to deal with their actual meaning on
+any given occasion, what its maker meant the words to convey must be
+discovered, and the inquiry at once becomes 'psychological'--that is to
+say, 'extralogical.'
+
+2. If judgments are not to be verbal ('propositions'), but real
+assertions which are actually meant, they must proceed from personal
+selections, and must have been chosen from among alternative
+formulations because of their superior value for their maker's purpose.
+But all this is plainly an affair of psychology. So inevitable is this
+that a truly formal Ideal of 'Logic' would exclude all judgment whatever
+from the complete system of 'eternal' Truth. For from such a system no
+part could be rightly extracted to stand alone. Such a selection could
+be effected and justified only by the exigencies of a human thinker.
+
+The impotent verbalism of the formal treatment of judgment appears in
+another way when the question is raised _how_ a 'true' judgment is to be
+distinguished from a 'false.' For the logician, if his public will not
+accept either the relegation of this distinction to 'psychology' or the
+proper formal answer that _all_ judgments are (formally) 'true' and even
+'infallible,' can think of nothing better to say than that if the
+'judgment' is not true it was not a 'true judgment,' but a false
+'opinion' which may be abandoned to 'psychology.'[G] Apparently he is
+not concerned to help men to discriminate between 'judgments' and
+'opinions,' or even to show that true 'judgments' do in fact occur.
+
+
+
+3. Inference involves Formal Logic in a host of difficulties.
+
+_(a)_ If it is not to be a verbal manipulation of phrases whose coming
+together is not inquired into, it must be a connected train of thought.
+But such a connection of thoughts cannot be conceived or understood
+without reference to the purpose of a reasoner, who _selects_ what he
+requires from the totality of 'truths.' If, then, 'Logic' has merely to
+contemplate this eternal and immutable system of truth in its integrity,
+and forbids all selection from it for a merely human purpose, how can it
+either justify, or even understand, the drawing of any inference
+whatever?
+
+(_b_) Formal Logic clearly will not quail before the charge of
+uselessness. But on its own principles it ought to be consistent. But by
+this test also, when it is rigorously judged by it, it fails completely.
+Its inconsistencies are many and incurable. It cannot even be consistent
+in its theory of the simplest fundamentals. It is found upon some
+occasions to define judgment as that which may be _either_ true _or_
+false; and upon others as that which is 'true' (formally)--_i.e._, it
+cannot decide whether or not to ignore the existence of error.
+
+(_c_) The Formal view of inference regards it as a 'paradox.' An
+inference is required on the one hand to supply fresh information, and
+on the other to follow rigorously from its premisses; it must, in a
+word, exhibit both _novelty_ and _necessity_. It would seem, however,
+that if our inference genuinely had imparted new knowledge, the event
+must be merely psychological; for how can any process or event perturb,
+or add to, the completed totality of truth in itself? On the other hand,
+if the 'necessity' of the operation be taken seriously, the 'inference'
+becomes illusory; for if the conclusion inferred is already contained
+in the premisses, what sense is there in the purely verbal process of
+drawing it out?
+
+(_d_) Most glaringly inadequate of all, however, is the Formal doctrine
+of 'Proof' contained in its theory of the Syllogism. A Formal or verbal
+syllogism depends essentially on the ability of its Middle Term to
+connect the terms in its conclusion. If, however, the Middle Term has
+not _the same_ meaning in the two premisses, the syllogism breaks in
+two, and no 'valid' conclusion can be reached. Now, whether in fact any
+particular Middle Term bears the same meaning in any actual reasoning
+Formal Logic has debarred itself from inquiring, by deciding that actual
+meaning was 'psychological.' It has to be content, therefore, with an
+identity _in the word_ employed for its Middle, But this evidence may
+always fail; for when two premisses which are (in general) 'true' are
+brought together for the purpose of drawing a particular conclusion, a
+glaring falsehood may result. _E.g._, it would in general be granted
+that 'iron sinks in water,' yet it does not follow that because 'this
+ship is iron' it will 'sink in water,' Hence syllogistic 'proof' seems
+quite devoid of the 'cogency' it claimed. After a conclusion has been
+'demonstrated' _it has still to come true in fact_. This flaw in the
+Syllogism was first pointed out by Mr. Alfred Sidgwick.
+
+(_e_) The formal Syllogism, moreover, conceals another formal flaw. An
+infinite regress lurks in its bosom. For if its premisses are disputed,
+they must in turn be 'proved.' Four fresh premisses are needed, and if
+these again are challenged, the number of true premisses needed to prove
+the first conclusion goes on doubling at every step _ad infinitum_. The
+only way to stop the process that occurred to logicians was an appeal to
+the 'self-evident' truth of 'intuitions'; but this has been shown to be
+argumentatively worthless. From this difficulty the pragmatist alone
+escapes, by assuming his premisses _provisionally_ and arguing
+_forwards_, in order to test them by their consequences. If the deduced
+conclusion can be verified in fact, the premisses grow more assured.
+Thus every real inference is an experiment, and 'proof' is an affair of
+continuous trial and verification--not an infinite falling back upon an
+elusive 'certainty,' but an infinite reaching forwards towards a fuller
+consummation.
+
+(_f_) So long as the logician regards his premisses not as hypotheses to
+be tested, but as established truths, he must condemn the Syllogism as a
+formal fallacy. It is inevitably a _petitio principii_. If the argument
+'All men are mortal; Smith is a man, therefore Smith is mortal,' means
+that we know, before drawing our inference, that literally all men are
+mortal, we must already have discovered that Smith is mortal; if we did
+not know beforehand that Smith is mortal, we were not justified in
+stating that _all_ men are mortal. Nor is it an escape to interpret 'All
+men are mortal' to mean that immortals are excluded from 'man' by
+definition. For then the question is merely begged in the minor premiss.
+That 'Smith is a man' cannot be asserted without assuming that he is
+mortal. If, lastly, 'All men are mortal' be taken to state a law of
+nature conjoining inseparably mortality and humanity, the logician
+either already knows that Smith is rightly classed under the species
+'man,' and so subject to its mortality, or else he _assumes_ this. But
+how does he know Smith is not like Elijah or Tithonus, a peculiar case,
+to which for some reason the law does not apply? Will he declare it to
+be 'intuitively certain' that whatever is called, or looks like, a case
+of a 'law' _ipso facto_ becomes one?
+
+The logician's analysis of reasoning, then, breaks down. In whichever
+way he interprets the Syllogism it is revealed as either a superfluity
+or a fallacy: it is never a 'formally valid inference' that can compel
+assent. But common sense is undismayed by the pragmatist's discovery
+that if the Syllogism is to have any sense its premisses _must_ be taken
+as disputable; for, unlike Formal Logic, it has perceived that men do
+not reason about what they think they know for certain, but about
+matters in dispute.
+
+4. It is not necessary to dwell at length on the futility of the formal
+notion of Induction. Formal Induction presupposes that enough particular
+instances have been collected to establish a general rule; but in actual
+practice inductions always repose, not on indiscriminate observation,
+but on a _selection of relevant instances_, and never claim to be based
+upon an _exhaustive_ knowledge of particulars. Hence _in form_ the most
+satisfactory induction is always incomplete, and differs in no wise from
+a bad one. 'All bodies fall to the ground' is an induction which has
+worked. 'All swans are white' broke down when black swans were
+discovered in Australia. The validity of an induction, then, is not a
+question of form.
+
+The necessity for such selection no intellectualist theory of Induction
+has understood. All have aimed at exhaustiveness, and imagined that if
+it could be attained, inductive reasoning would be rendered sound, and
+not impossible. Their ideal 'cause' was the totality of reality,
+identified with its 'effect,' in a meaningless tautology. Nothing but
+voluntarism can enable logicians to see that our actual procedure in
+knowing is the reverse of this, that causal explanation is the
+_analysis_ of a continuum, and that 'phenomena,' 'events,' 'effects,'
+and 'causes' are all creations of our selective attention; that in
+selecting them we run a risk of analyzing falsely, and that if we do,
+our 'inductions' will be worthless. But whether they are right or wrong,
+valuable or not, real reasoning from 'facts' can never be a 'formally
+valid' process.
+
+We are thus brought to see the hollowness of the contention that 'Pure
+Reason' can ignore its psychological context and dehumanize itself. A
+thought, to be thought at all, must seem _worth_ thinking to someone, it
+must convey the meaning he intends, it must be true in his eyes and
+relevant to his purposes in the situation in which it arises--_i.e._, it
+must have a motive, a value, a meaning, a purpose, a context, and be
+selected from a greater whole for its relevance to these. None of these
+features does intellectualist logic deign to recognize. For if truth is
+absolute and not relative, it is all or nothing. Yet no actual thinking
+has such transcendent aims. It is content with selections relative to a
+concrete situation. If it were permissible to diversify a
+debate--_e.g._, about the authorship of the _Odyssey_--by an irruption
+of undisputed truths--_e.g._, a recitation of the multiplication
+table--how would it be possible to distinguish a philosopher from a
+lunatic?
+
+Formal Logic is either a perennial source of errors about real thinking,
+or at best an aimless dissection of a _caput mortuum--i.e._, of the
+verbal husks of dead thoughts, whose value Formal Logic could neither
+establish nor apprehend, A real Logic, therefore, would most anxiously
+avoid all the initial abstractions which have reduced Formal Logic to
+such impotence, and would abandon the insane attempt to eliminate the
+thinker from the theory of thought.
+
+FOOTNOTES:
+
+[Footnote F: The descriptive science of thought, in its concrete
+actuality in different minds.]
+
+[Footnote G: The most popular contribution which Oxford makes just now
+to the theory of Error is, 'A judgment which is erroneous is not really
+a judgment.' So when a professor 'judges' he is infallible--by
+definition!]
+
+
+
+
+CHAPTER VII
+
+
+THE BANKRUPTCY OF INTELLECTUALISM
+
+We have now struggled through the quagmires of intellectualist
+philosophy, and found that neither in its Psychology, which divided the
+mind's integrity into a heap of faculties, and comminuted it into a
+dust-cloud of sensations; nor in its Epistemology, which ignored the
+will to know and the value of knowing; nor in its Logic, which
+abstracted thought wholly from the thinking and the thinker, and so
+finally from, all meaning, could man find a practicable route of
+philosophic progress. But our struggles will not have been in vain if
+they have left us with a willingness to try the pragmatist alternative,
+and convinced us that it is not a wanton innovation, but the only path
+of salvation for the scientific spirit.
+
+But before we venture on it, it will be well to restore confidence in
+the solvency of human thought by analysing the causes of the bankruptcy
+of Intellectualism and exposing the extravagance of the assumptions
+which conducted to it.
+
+Was it not, after all, an unwarranted assumption that severed the
+intellect from its natural connection with human activity? No doubt it
+seemed to simplify the problem to suppose that the functioning of the
+intellect could be studied as a thing apart, and unrelated to the
+general context of the vital functions. Again, it was to simplify to
+assume that thought could be considered apart from the personality of
+the human thinker. But it should not have been forgotten that it is
+possible to pay too dearly for simplifications and abstractions, and
+that they all involve a risk, which the event may show should never have
+been taken. So it is in this case. Its rash assumptions confront
+Intellectualism with a host of problems it cannot attack. It can do
+nothing to assuage the conflict of opinions which all claim truth with
+equal confidence. It cannot understand the correction of error which is
+continually proceeding. Nor can it understand, either the existence of
+error or the meaning of truth, or the means of distinguishing between
+them. It has no means of testing and confuting even the wildest and
+maddest assertions. It cannot discriminate between the intuitions of the
+sage and of the lunatic. It is forced to view energy of will in knowing
+as a source merely of corruption, and when it finds that as a psychic
+fact willing is ineradicable, it must conclude that we are
+constitutionally incapable of that passive reflection of reality which
+it regards as the _sine qua non_ of truth. Hence, if disinterestedness
+is the condition of knowing, knowledge is impossible. And it is so
+entangled in its unintelligible theory of truth as a copying of reality
+that, rather than renounce it, when it finds that human knowing is _not_
+copying, it prefers a surrender to Scepticism.
+
+Yet is not its whole procedure a signal example of human arbitrariness
+and perversity? We professed to be impelled by logical necessity at
+every step, but were free to escape from all our perplexities by
+adopting the pragmatic inferences from them. The Pragmatic Method of
+observing the consequences readily suggests the means of discriminating
+between truth and error, of sifting values and of testing claims. And,
+though not infallible, it is adequate to all our needs. The pragmatic
+notion that _Truth is practical_ closes the artificial gulf between the
+theoretic and the practical side of life, and assigns to truth a
+biological function and vital value. The humanist contention that _Truth
+is human_ rescues man from the despondency in which his failure to grasp
+absolute truth had left him. The Protagorean dictum that _Man is the
+measure of all things_ assures him that _his_ knowledge may become
+adequate to _his_ reality, and that the value of truths and the
+differences between truth and error also are susceptible of estimation.
+
+True, this policy averts the bankruptcy of the intellect by scaling down
+the intolerable charges on it. True, practical knowledge is not
+absolute; but if it is enough to live by, is it not better to live by it
+than to be lured on to perish in the deserts of Scepticism by the
+_mirage_ of an absolute truth not humanly attainable? True, verification
+is not 'proof,' but as its conclusions are not incorrigible, its defects
+are not fatal, and its demands are not impracticable. True, no truth and
+no reality are wholly 'objective,' in the sense of wholly indifferent to
+our action; but to say that the human and 'subjective' factor in all
+knowledge must be taken into account does not preclude our apprehending
+and measuring an 'objective' world as real as, and more knowable than,
+any other theory can offer.
+
+Thus the proposals of Pragmatism for reconstructing the business of the
+intellect, and rescuing it from the bankruptcy of Intellectualism, are
+not unreasonable. They open out to it a prospect of recovering its
+credit and its usefulness by returning to the service of Life.
+
+
+
+
+CHAPTER VIII
+
+
+THOUGHT AND LIFE
+
+The mission of Pragmatism is to bring Philosophy into relation to real
+Life and Action. So far from regarding Thought as a self-centred,
+self-enclosed activity, Pragmatism insists upon replacing it in its
+context among the other functions of life, and in measuring its value by
+its effect upon them. So far, again, from regarding the abstract
+intellect as a vast Juggernaut machine which absorbs and crushes the
+individual thinker, it treats him individually as having his own
+constitution, _raison d'etre,_ and intrinsic interest, and credits him
+with a power to make new truths and to enrich the resources of thought.
+Each thinker has before him an individual situation, a system of aims
+and values, a stock of knowledge and of means from which he must select
+what is relevant to his ends, and so cannot escape in any judgment from
+the responsibilities of a personal decision.
+
+Thus, for Pragmatism _every thought is an act_ with a person behind it,
+who is responsible for launching it into the world of fact. The result
+of this change of attitude is immediate. In the first place, as has been
+shown in Chapter V., by bringing thought face to face with the whole
+experience upon which it claims to work, we are enabled to find a
+tangible rule for evaluating its assertions and distinguishing truth
+from error. And, secondly, by recognizing that the mind is not an
+apparatus which functions in a vacuum, but is a constituent of an
+individual organism, we see that thinking always depends upon a purpose;
+for it is the purpose of an inquiry which gives reflection its cue, and
+determines its scope and (most essential of all) its meaning.
+
+We are thus led from the narrower logical question, 'What constitutes
+the "truth" of a statement?' to a wider outlook, from which we can
+survey the place of knowing in human life at large. This may be called
+the transition from Pragmatism to Humanism. This last word was
+introduced into philosophic terminology by Dr. Schiller in order to
+describe his general philosophical position as distinct from the
+original question of the theory of knowledge, which had been treated by
+James under the name of Pragmatism.
+
+To the Humanist the best definition of life is one which displays it as
+throughout purposive, as a rational pursuit of ends. This raises the
+question of the validity of valuations. Valuation is a widespread human
+practice. In their most general aspect we classify all objects as 'good'
+and 'bad,' according as they are ends to be pursued or avoided, or means
+which further or frustrate the pursuit of ends. This general antithesis
+between the 'good' and the 'bad' has numerous specific forms, applicable
+to different departments of human activity. Thus, in conduct, actions
+are judged 'good' or 'evil' and 'right' or 'wrong'; in thinking, ideas
+are 'true' or 'false,' and 'relevant' or 'irrelevant'; for art, objects
+are 'beautiful' or 'ugly,' and so forth, for the modes of valuation in
+life are innumerable. Any one of these adjectives either denotes value
+or censures lack of worth, and each gets its meaning by reference to the
+specific purpose, moral, aesthetic, or intellectual, it appeals to. The
+_summum bonum_, or supreme good, will then be the ideal of the
+harmonious satisfaction of all purposes.
+
+What, then, from the standpoint of Humanism, is the function of
+'truth-values' in our life? They indicate a relation to the cognitive
+end. What is this end? Surely not self-sufficing? A truth that is merely
+true in itself has no interest for human life, and no human mind has an
+interest in discovering and affirming it. Truth, therefore, cannot
+stand aloof from life. It must somehow subserve our vital purposes. But
+how shall it do this? Only by becoming applicable to the reality we have
+to live with, by becoming useful for the changes we desire to effect in
+it. Whoever will not admit this, and renders truth inapplicable, does in
+fact render it unmeaning.
+
+The fact that thought essentially refers to a 'reality' external to it
+in no way diminishes its purposive character. Whether the mind is
+idealizing an aspect of reality (as in mathematics) or abstracting,
+classifying, and predicting (as in science), it is always the fact that
+a particular kind of reality is needed for some serious or trivial
+purpose which guides the operations of the thinker. A mind which craved
+to embrace all or 'any' reality need not _think_; it would do better to
+float without discrimination upon the flux of change. This procedure
+would be so absolutely antithetical to human knowing that it seems a
+wanton paradox on that account to treat it as the final goal of
+knowledge.
+
+Actually, of course, the philosophers who claim to be devoted to pure
+theory follow no such course. They deliberately choose their ideal of
+what is worth knowing--_e.g._, 'God,' or 'the unity of all things,' or
+'the laws of the universe'--and, disregarding all other existences,
+they pursue the kind of reality they desire because of its religious or
+moral or aesthetic value. For there could be no greater mistake than to
+suppose that the common antithesis between 'reality' and the 'un-real'
+usually means the same thing as the distinction between what 'exists'
+and what is absolutely non-existent. On the contrary, it is usually a
+judgment of value. We may say that the 'haunted' house is real and the
+'ghost' is not; but as an hallucination the ghost is real enough. Utopia
+is unreal for the politician, but exists as an ideal for the theorist.
+The Platonist treats our physical world of sight and touch, which we
+think the most real of all, as a mere illusion compared to the 'Ideas'
+of his metaphysical world. The thinker who declares he wants to know all
+about 'reality' does not mean that he wishes to investigate _everything_
+which in any sense exists, but that he wishes to know what _he_
+considers _best worth knowing_--and this, of course, implies a personal
+valuation, a purged and expurgated extract, which will not offend his
+taste. So all philosophies are, in fact, selective. Even the more
+conscientious rationalists show very little anxiety to include in their
+intellectual scheme a knowledge of their opponents' opinions--indeed,
+they seem to think that the existence of such facts may be made
+dependent wholly on their will to recognize them. An exposition of
+Pragmatism is for them a 'reality' which does not count: it is not worth
+knowing about. And this is only natural, after all. For 'reality,' the
+object of the mind's search, is always a selection, conceived after the
+likeness of the heart's desire, the product of a human purpose.
+
+To recognize this is to appreciate the wisdom of Humanism's refusal to
+treat the world, for good or bad, as a given and completed whole. For
+not only is what we call the real world always a selection from a larger
+whole from which we have ventured to exclude great masses of
+irrelevance, but every day brings fresh experience, and may bring fresh
+enlightenment. And since man has always an interest in improving his
+condition, is it not futile to forbid him to re-make his world as beat
+he can? Why prematurely claim to have reached finality, when unexpected
+novelties may shatter any system before it is even completed? Our world
+is plastic, it is most 'really' what we can make of it, and the process
+of our making is not ended. Whether a decree of Fate has fixed any
+ultimate limits to our efforts we have no means of knowing, and no
+occasion to assume. Is not our wisest course, then, to persist in
+trying? It is bad method ever to despair of knowing what we need.
+
+For good or ill, the world with which the Humanist contends is always a
+world that reveals itself to him. Reality, as it is assumed, presumed,
+or guessed to be 'in itself,' apart from our experience of it, is
+cancelled from his reckonings. For he cannot discover how he (or anyone)
+can get any 'knowledge' or 'intuition' which transcends all human
+faculties. The theories of metaphysicians on these lofty themes he
+regards as personal postulates which, in so far as they cannot be
+subjected to the pragmatic method, must remain open questions. Human
+experience does not warrant such gratuitous demands. It confirms neither
+the rigid system of unchanging fact which realism postulates (seeing
+that the only facts that science speaks of are ever changing in its
+progress), nor finds its problems, conflicts, and errors credible as a
+reflexion of any Universal Mind, unless Idealism ultimately repudiates
+the sanity of its Absolute.
+
+The superiority of Humanism, then, lies in this, that it does not
+discourage human enterprise by assuming that the real is completely
+rigid and eternally achieved without regard to human effort. In the
+drama that unrolls reality, every man, it teaches, has a duty and a
+power to play his humble but essential part. Humanism is neither an
+Optimism nor a Pessimism--both of which must consistently, in their
+extreme form, deny that reality can be improved--but concedes to man the
+right and duty to improve the world. It impresses us with the necessity
+of acting, it vindicates the procedure of acting on our hopes, it shows
+us how we may correct our errors, and so gives reasons for our faith in
+the possibility of Progress.
+
+
+
+
+BIBLIOGRAPHY
+
+
+  WILLIAM JAMES:
+    _The Principles of Psychology_, 1890.
+    _The Will to Believe, and Other Essays in Popular Philosophy_, 1897.
+    _The Varieties of Religious Experience_, 1902.
+    _Pragmatism, a New Name for Some Old Ways of Thinking_, 1907.
+    _A Pluralistic Universe_, 1909.
+    _The Meaning of Truth_, 1909.
+    _Some Problems of Philosophy_, 1911.
+    _Radical Empiricism_, 1912.
+
+  F.C.S. SCHILLER:
+    _Riddles of the Sphinx_, 1891 (revised edition, 1910).
+    _Axioms as Postulates_ (in _Personal Idealism_, ed. Henry
+      Sturt, 1902).
+    _Humanism: Philosophical Essays_, 1903.
+    _Studies in Humanism_, 1907.
+    _Formal Logic, a Scientific and Social Problem_, 1912.
+
+  HENRY STURT:
+    _Idola Theatri, a Criticism of Oxford Thought and Thinkers from the
+      Standpoint of Personal Idealism_, 1906.
+
+  J. DEWEY AND OTHERS:
+    _Studies in Logical Theory_, 1903.
+
+  J. DEWEY:
+    _The Influence of Darwinism, and Other Essays_, 1910.
+
+  H.V. KNOX:
+    _The Evolution of Truth_, Quarterly Review, No. 419. April, 1909.
+
+  A.W. MOORE:
+    _Pragmatism and its Critics_, 1911.
+
+  A. SIDGWICK:
+    _The Application of Logic_, 1910.
+
+
+
+
+
+End of the Project Gutenberg EBook of Pragmatism, by D.L. Murray
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PRAGMATISM ***
+
+***** This file should be named 10970.txt or 10970.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.net/1/0/9/7/10970/
+
+Produced by Garrett Alley and the Online Distributed Proofreading Team
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+     http://www.gutenberg.net/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+     http://www.gutenberg.net/1/0/2/3/10234
+
+or filename 24689 would be found at:
+     http://www.gutenberg.net/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+     http://www.gutenberg.net/GUTINDEX.ALL
+
+

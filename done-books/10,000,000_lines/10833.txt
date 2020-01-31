@@ -1,0 +1,3209 @@
+The Project Gutenberg eBook, The Essays of Arthur Schopenhauer; Religion,
+A Dialogue, Etc., by Arthur Schopenhauer, Translated by T. Bailey Saunders
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+
+
+
+Title: The Essays of Arthur Schopenhauer; Religion, A Dialogue, Etc.
+
+Author: Arthur Schopenhauer
+
+Release Date: January 25, 2004  [eBook #10833]
+
+Language: English
+
+Character set encoding: US-ASCII
+
+
+***START OF THE PROJECT GUTENBERG EBOOK THE ESSAYS OF ARTHUR SCHOPENHAUER;
+RELIGION, A DIALOGUE, ETC.***
+
+
+E-text prepared by Juliet Sutherland, David King, and the Project
+Gutenberg Online Distributed Proofreading Team
+
+
+
+THE ESSAYS OF ARTHUR  SCHOPENHAUER
+
+RELIGION: A DIALOGUE, ETC.
+
+TRANSLATED BY T. BAILEY SAUNDERS, M.A.
+
+
+
+
+
+
+
+CONTENTS.
+
+
+PREFATORY NOTE
+
+RELIGION: A DIALOGUE
+
+A FEW WORDS ON PANTHEISM
+
+ON BOOKS AND READING
+
+ON PHYSIOGNOMY
+
+PSYCHOLOGICAL OBSERVATIONS
+
+THE CHRISTIAN SYSTEM
+
+
+
+
+PREFATORY NOTE
+
+
+Schopenhauer is one of the few philosophers who can be generally
+understood without a commentary. All his theories claim to be drawn
+direct from the facts, to be suggested by observation, and to interpret
+the world as it is; and whatever view he takes, he is constant in his
+appeal to the experience of common life. This characteristic endows his
+style with a freshness and vigor which would be difficult to match in
+the philosophical writing of any country, and impossible in that of
+Germany. If it were asked whether there were any circumstances apart
+from heredity, to which he owed his mental habit, the answer might be
+found in the abnormal character of his early education, his acquaintance
+with the world rather than with books, the extensive travels of his
+boyhood, his ardent pursuit of knowledge for its own sake and without
+regard to the emoluments and endowments of learning. He was trained in
+realities even more than in ideas; and hence he is original, forcible,
+clear, an enemy of all philosophic indefiniteness and obscurity; so that
+it may well be said of him, in the words of a writer in the _Revue
+Contemporaine, ce n'est pas un philosophe comme les autres, c'est un
+philosophe qui a vu le monde_.
+
+It is not my purpose, nor would it be possible within the limits of a
+prefatory note, to attempt an account of Schopenhauer's philosophy, to
+indicate its sources, or to suggest or rebut the objections which may be
+taken to it. M. Ribot, in his excellent little book, [Footnote: _La
+Philosophie de Schopenhauer_, par Th. Ribot.] has done all that is
+necessary in this direction. But the essays here presented need a word
+of explanation. It should be observed, and Schopenhauer himself is at
+pains to point out, that his system is like a citadel with a hundred
+gates: at whatever point you take it up, wherever you make your
+entrance, you are on the road to the center. In this respect his
+writings resemble a series of essays composed in support of a single
+thesis; a circumstance which led him to insist, more emphatically even
+than most philosophers, that for a proper understanding of his system it
+was necessary to read every line he had written. Perhaps it would be
+more correct to describe _Die Welt als Wille und Vorstellung_ as his
+main thesis, and his other treatises as merely corollary to it. The
+essays in this volume form part of the corollary; they are taken from a
+collection published towards the close of Schopenhauer's life, and by
+him entitled _Parerga und Paralipomena_, as being in the nature of
+surplusage and illustrative of his main position. They are by far the
+most popular of his works, and since their first publication in 1851,
+they have done much to build up his fame. Written so as to be
+intelligible enough in themselves, the tendency of many of them is
+towards the fundamental idea on which his system is based. It may
+therefore be convenient to summarize that idea in a couple of sentences;
+more especially as Schopenhauer sometimes writes as if his advice had
+been followed and his readers were acquainted with the whole of his
+work.
+
+All philosophy is in some sense the endeavor to find a unifying
+principle, to discover the most general conception underlying the whole
+field of nature and of knowledge. By one of those bold generalizations
+which occasionally mark a real advance in Science, Schopenhauer
+conceived this unifying principle, this underlying unity, to consist in
+something analogous to that _will_ which self-consciousness reveals to
+us. _Will_ is, according to him, the fundamental reality of the world,
+the thing-in-itself; and its objectivation is what is presented in
+phenomena. The struggle of the will to realize itself evolves the
+organism, which in its turn evolves intelligence as the servant of the
+will. And in practical life the antagonism between the will and the
+intellect arises from the fact that the former is the metaphysical
+substance, the latter something accidental and secondary. And further,
+will is _desire_, that is to say, need of something; hence need and pain
+are what is positive in the world, and the only possible happiness is a
+negation, a renunciation of _the will to live_.
+
+It is instructive to note, as M. Ribot points out, that in finding the
+origin of all things, not in intelligence, as some of his predecessors
+in philosophy had done, but in will, or the force of nature, from which
+all phenomena have developed, Schopenhauer was anticipating something of
+the scientific spirit of the nineteenth century. To this it may be added
+that in combating the method of Fichte and Hegel, who spun a system out
+of abstract ideas, and in discarding it for one based on observation and
+experience, Schopenhauer can be said to have brought down philosophy
+from heaven to earth.
+
+In Schopenhauer's view the various forms of Religion are no less a
+product of human ingenuity than Art or Science. He holds, in effect,
+that all religions take their rise in the desire to explain the world;
+and that, in regard to truth and error, they differ, in the main, not by
+preaching monotheism polytheism or pantheism, but in so far as they
+recognize pessimism or optimism as the true description of life. Hence
+any religion which looked upon the world as being radically evil
+appealed to him as containing an indestructible element of truth. I have
+endeavored to present his view of two of the great religions of the
+world in the extract which concludes this volume, and to which I have
+given the title of _The Christian System_. The tenor of it is to show
+that, however little he may have been in sympathy with the supernatural
+element, he owed much to the moral doctrines of Christianity and of
+Buddhism, between which he traced great resemblance. In the following
+_Dialogue_ he applies himself to a discussion of the practical efficacy
+of religious forms; and though he was an enemy of clericalism, his
+choice of a method which allows both the affirmation and the denial of
+that efficacy to be presented with equal force may perhaps have been
+directed by the consciousness that he could not side with either view to
+the exclusion of the other. In any case his practical philosophy was
+touched with the spirit of Christianity. It was more than artistic
+enthusiasm which led him in profound admiration to the Madonna di San
+Sisto:
+
+  Sie traegt zur Welt ihn, und er schaut entsetzt
+  In ihrer Graeu'l chaotische Verwirrung,
+  In ihres Tobens wilde Raserei,
+  In ihres Treibens nie geheilte Thorheit,
+  In ihrer Quaalen nie gestillten Schmerz;
+  Entsetzt: doch strahlet Rub' and Zuversicht
+  Und Siegesglanz sein Aug', verkuendigend
+  Schon der Erloesung ewige gewissheit.
+
+Pessimism is commonly and erroneously supposed to be the distinguishing
+feature of Schopenhauer's system. It is right to remember that the same
+fundamental view of the world is presented by Christianity, to say
+nothing of Oriental religions.
+
+That Schopenhauer conceives life as an evil is a deduction, and possibly
+a mistaken deduction, from his metaphysical theory. Whether his scheme
+of things is correct or not--and it shares the common fate of all
+metaphysical systems in being unverifiable, and to that extent
+unprofitable--he will in the last resort have made good his claim to be
+read by his insight into the varied needs of human life. It may be that
+a future age will consign his metaphysics to the philosophical
+lumber-room; but he is a literary artist as well as a philosopher, and
+he can make a bid for fame in either capacity. What is remarked with
+much truth of many another writer, that he suggests more than he
+achieves, is in the highest degree applicable to Schopenhauer; and his
+_obiter dicta_, his sayings by the way, will always find an audience.
+
+T.B. SAUNDERS.
+
+
+
+
+RELIGION.
+
+A DIALOGUE.
+
+
+_Demopheles_. Between ourselves, my dear fellow, I don't care about the
+way you sometimes have of exhibiting your talent for philosophy; you
+make religion a subject for sarcastic remarks, and even for open
+ridicule. Every one thinks his religion sacred, and therefore you ought
+to respect it.
+
+_Philalethes_. That doesn't follow! I don't see why, because other
+people are simpletons, I should have any regard for a pack of lies. I
+respect truth everywhere, and so I can't respect what is opposed to it.
+My maxim is _Vigeat veritas et pereat mundus_, like the lawyers' _Fiat
+justitia et pereat mundus_. Every profession ought to have an analogous
+advice.
+
+_Demopheles_. Then I suppose doctors should say _Fiant pilulae et pereat
+mundus_,--there wouldn't be much difficulty about that!
+
+_Philalethes_. Heaven forbid! You must take everything _cum grano
+salis_.
+
+_Demopheles_. Exactly; that's why I want you to take religion _cum grano
+salis_. I want you to see that one must meet the requirements of the
+people according to the measure of their comprehension. Where you have
+masses of people of crude susceptibilities and clumsy intelligence,
+sordid in their pursuits and sunk in drudgery, religion provides the
+only means of proclaiming and making them feel the hight import of life.
+For the average man takes an interest, primarily, in nothing but what
+will satisfy his physical needs and hankerings, and beyond this, give
+him a little amusement and pastime. Founders of religion and
+philosophers come into the world to rouse him from his stupor and point
+to the lofty meaning of existence; philosophers for the few, the
+emancipated, founders of religion for the many, for humanity at large.
+For, as your friend Plato has said, the multitude can't be philosophers,
+and you shouldn't forget that. Religion is the metaphysics of the
+masses; by all means let them keep it: let it therefore command external
+respect, for to discredit it is to take it away. Just as they have
+popular poetry, and the popular wisdom of proverbs, so they must have
+popular metaphysics too: for mankind absolutely needs _an interpretation
+of life_; and this, again, must be suited to popular comprehension.
+Consequently, this interpretation is always an allegorical investiture
+of the truth: and in practical life and in its effects on the feelings,
+that is to say, as a rule of action and as a comfort and consolation in
+suffering and death, it accomplishes perhaps just as much as the truth
+itself could achieve if we possessed it. Don't take offense at its
+unkempt, grotesque and apparently absurd form; for with your education
+and learning, you have no idea of the roundabout ways by which people in
+their crude state have to receive their knowledge of deep truths. The
+various religions are only various forms in which the truth, which taken
+by itself is above their comprehension, is grasped and realized by the
+masses; and truth becomes inseparable from these forms. Therefore, my
+dear sir, don't take it amiss if I say that to make a mockery of these
+forms is both shallow and unjust.
+
+_Philalethes_. But isn't it every bit as shallow and unjust to demand
+that there shall be no other system of metaphysics but this one, cut out
+as it is to suit the requirements and comprehension of the masses? that
+its doctrine shall be the limit of human speculation, the standard of
+all thought, so that the metaphysics of the few, the emancipated, as you
+call them, must be devoted only to confirming, strengthening, and
+explaining the metaphysics of the masses? that the highest powers of
+human intelligence shall remain unused and undeveloped, even be nipped
+in the bud, in order that their activity may not thwart the popular
+metaphysics? And isn't this just the very claim which religion sets up?
+Isn't it a little too much to have tolerance and delicate forbearance
+preached by what is intolerance and cruelty itself? Think of the
+heretical tribunals, inquisitions, religious wars, crusades, Socrates'
+cup of poison, Bruno's and Vanini's death in the flames! Is all this
+to-day quite a thing of the past? How can genuine philosophical effort,
+sincere search after truth, the noblest calling of the noblest men, be
+let and hindered more completely than by a conventional system of
+metaphysics enjoying a State monopoly, the principles of which are
+impressed into every head in earliest youth, so earnestly, so deeply,
+and so firmly, that, unless the mind is miraculously elastic, they
+remain indelible. In this way the groundwork of all healthy reason is
+once for all deranged; that is to say, the capacity for original thought
+and unbiased judgment, which is weak enough in itself, is, in regard to
+those subjects to which it might be applied, for ever paralyzed and
+ruined.
+
+_Demopheles._ Which means, I suppose, that people have arrived at a
+conviction which they won't give up in order to embrace yours instead.
+
+_Philalethes_. Ah! if it were only a conviction based on insight. Then
+one could bring arguments to bear, and the battle would be fought with
+equal weapons. But religions admittedly appeal, not to conviction as the
+result of argument, but to belief as demanded by revelation. And as the
+capacity for believing is strongest in childhood, special care is taken
+to make sure of this tender age. This has much more to do with the
+doctrines of belief taking root than threats and reports of miracles.
+If, in early childhood, certain fundamental views and doctrines are
+paraded with unusual solemnity, and an air of the greatest earnestness
+never before visible in anything else; if, at the same time, the
+possibility of a doubt about them be completely passed over, or touched
+upon only to indicate that doubt is the first step to eternal perdition,
+the resulting impression will be so deep that, as a rule, that is, in
+almost every case, doubt about them will be almost as impossible as
+doubt about one's own existence. Hardly one in ten thousand will have
+the strength of mind to ask himself seriously and earnestly--is that
+true? To call such as can do it strong minds, _esprits forts_, is a
+description more apt than is generally supposed. But for the ordinary
+mind there is nothing so absurd or revolting but what, if inculcated in
+that way, the strongest belief in it will strike root. If, for example,
+the killing of a heretic or infidel were essential to the future
+salvation of his soul, almost every one would make it the chief event of
+his life, and in dying would draw consolation and strength from the
+remembrance that he had succeeded. As a matter of fact, almost every
+Spaniard in days gone by used to look upon an _auto da fe_ as the most
+pious of all acts and one most agreeable to God. A parallel to this may
+be found in the way in which the Thugs (a religious sect in India,
+suppressed a short time ago by the English, who executed numbers of
+them) express their sense of religion and their veneration for the
+goddess Kali; they take every opportunity of murdering their friends and
+traveling companions, with the object of getting possession of their
+goods, and in the serious conviction that they are thereby doing a
+praiseworthy action, conducive to their eternal welfare. [Footnote: Cf.
+Illustrations of the history and practice of the Thugs, London, 1837;
+also the _Edinburg Review_, Oct.-Jan., 1836-7.] The power of religious
+dogma, when inculcated early, is such as to stifle conscience,
+compassion, and finally every feeling of humanity. But if you want to
+see with your own eyes and close at hand what timely inoculation will
+accomplish, look at the English. Here is a nation favored before all
+others by nature; endowed, more than all others, with discernment,
+intelligence, power of judgment, strength of character; look at them,
+abased and made ridiculous, beyond all others, by their stupid
+ecclesiastical superstition, which appears amongst their other abilities
+like a fixed idea or monomania. For this they have to thank the
+circumstance that education is in the hands of the clergy, whose
+endeavor it is to impress all the articles of belief, at the earliest
+age, in a way that amounts to a kind of paralysis of the brain; this in
+its turn expresses itself all their life in an idiotic bigotry, which
+makes otherwise most sensible and intelligent people amongst them
+degrade themselves so that one can't make head or tail of them. If you
+consider how essential to such a masterpiece is inoculation in the
+tender age of childhood, the missionary system appears no longer only as
+the acme of human importunity, arrogance and impertinence, but also as
+an absurdity, if it doesn't confine itself to nations which are still in
+their infancy, like Caffirs, Hottentots, South Sea Islanders, etc.
+Amongst these races it is successful; but in India, the Brahmans treat
+the discourses of the missionaries with contemptuous smiles of
+approbation, or simply shrug their shoulders. And one may say generally
+that the proselytizing efforts of the missionaries in India, in spite of
+the most advantageous facilities, are, as a rule, a failure. An
+authentic report in the Vol. XXI. of the Asiatic Journal (1826) states
+that after so many years of missionary activity not more than three
+hundred living converts were to be found in the whole of India, where
+the population of the English possessions alone comes to one hundred and
+fifteen millions; and at the same time it is admitted that the Christian
+converts are distinguished for their extreme immorality. Three hundred
+venal and bribed souls out of so many millions! There is no evidence
+that things have gone better with Christianity in India since then, in
+spite of the fact that the missionaries are now trying, contrary to
+stipulation and in schools exclusively designed for secular English
+instruction, to work upon the children's minds as they please, in order
+to smuggle in Christianity; against which the Hindoos are most jealously
+on their guard. As I have said, childhood is the time to sow the seeds
+of belief, and not manhood; more especially where an earlier faith has
+taken root. An acquired conviction such as is feigned by adults is, as a
+rule, only the mask for some kind of personal interest. And it is the
+feeling that this is almost bound to be the case which makes a man who
+has changed his religion in mature years an object of contempt to most
+people everywhere; who thus show that they look upon religion, not as a
+matter of reasoned conviction, but merely as a belief inoculated in
+childhood, before any test can be applied. And that they are right in
+their view of religion is also obvious from the way in which not only
+the masses, who are blindly credulous, but also the clergy of every
+religion, who, as such, have faithfully and zealously studied its
+sources, foundations, dogmas and disputed points, cleave as a body to
+the religion of their particular country; consequently for a minister of
+one religion or confession to go over to another is the rarest thing in
+the world. The Catholic clergy, for example, are fully convinced of the
+truth of all the tenets of their Church, and so are the Protestant
+clergy of theirs, and both defend the principles of their creeds with
+like zeal. And yet the conviction is governed merely by the country
+native to each; to the South German ecclesiastic the truth of the
+Catholic dogma is quite obvious, to the North German, the Protestant. If
+then, these convictions are based on objective reasons, the reasons must
+be climatic, and thrive, like plants, some only here, some only there.
+The convictions of those who are thus locally convinced are taken on
+trust and believed by the masses everywhere.
+
+_Demopheles_. Well, no harm is done, and it doesn't make any real
+difference. As a fact, Protestantism is more suited to the North,
+Catholicism to the South.
+
+_Philalethes_. So it seems. Still I take a higher standpoint, and keep
+in view a more important object, the progress, namely, of the knowledge
+of truth among mankind. And from this point of view, it is a terrible
+thing that, wherever a man is born, certain propositions are inculcated
+in him in earliest youth, and he is assured that he may never have any
+doubts about them, under penalty of thereby forfeiting eternal
+salvation; propositions, I mean, which affect the foundation of all our
+other knowledge and accordingly determine for ever, and, if they are
+false, distort for ever, the point of view from which our knowledge
+starts; and as, further, the corollaries of these propositions touch the
+entire system of our intellectual attainments at every point, the whole
+of human knowledge is thoroughly adulterated by them. Evidence of this
+is afforded by every literature; the most striking by that of the Middle
+Age, but in a too considerable degree by that of the fifteenth and
+sixteenth centuries. Look at even the first minds of all those epochs;
+how paralyzed they are by false fundamental positions like these; how,
+more especially, all insight into the true constitution and working of
+nature is, as it were, blocked up. During the whole of the Christian
+period Theism lies like a mountain on all intellectual, and chiefly on
+all philosophical efforts, and arrests or stunts all progress. For the
+scientific men of these ages God, devil, angels, demons hid the whole of
+nature; no inquiry was followed to the end, nothing ever thoroughly
+examined; everything which went beyond the most obvious casual nexus was
+immediately set down to those personalities. "_It was at once explained
+by a reference to God, angels or demons_," as Pomponatius expressed
+himself when the matter was being discussed, "_and philosophers at any
+rate have nothing analogous_." There is, to be sure, a suspicion of
+irony in this statement of Pomponatius, as his perfidy in other matters
+is known; still, he is only giving expression to the general way of
+thinking of his age. And if, on the other hand, any one possessed the
+rare quality of an elastic mind, which alone could burst the bonds, his
+writings and he himself with them were burnt; as happened to Bruno and
+Vanini. How completely an ordinary mind is paralyzed by that early
+preparation in metaphysics is seen in the most vivid way and on its most
+ridiculous side, where such a one undertakes to criticise the doctrines
+of an alien creed. The efforts of the ordinary man are generally found
+to be directed to a careful exhibition of the incongruity of its dogmas
+with those of his own belief: he is at great pains to show that not only
+do they not say, but certainly do not mean, the same thing; and with
+that he thinks, in his simplicity, that he has demonstrated the
+falsehood of the alien creed. He really never dreams of putting the
+question which of the two may be right; his own articles of belief he
+looks upon as _a priori_ true and certain principles.
+
+_Demopheles_. So that's your higher point of view? I assure you there is
+a higher still. _First live, then philosophize_ is a maxim of more
+comprehensive import than appears at first sight. The first thing to do
+is to control the raw and evil dispositions of the masses, so as to keep
+them from pushing injustice to extremes, and from committing cruel,
+violent and disgraceful acts. If you were to wait until they had
+recognized and grasped the truth, you would undoubtedly come too late;
+and truth, supposing that it had been found, would surpass their powers
+of comprehension. In any case an allegorical investiture of it, a
+parable or myth, is all that would be of any service to them. As Kant
+said, there must be a public standard of Right and Virtue; it must
+always flutter high overhead. It is a matter of indifference what
+heraldic figures are inscribed on it, so long as they signify what is
+meant. Such an allegorical representation of truth is always and
+everywhere, for humanity at large, a serviceable substitute for a truth
+to which it can never attain,--for a philosophy which it can never
+grasp; let alone the fact that it is daily changing its shape, and has
+in no form as yet met with general acceptance. Practical aims, then, my
+good Philalethes, are in every respect superior to theoretical.
+
+_Philalethes_. What you say is very like the ancient advice of Timaeus
+of Locrus, the Pythagorean, _stop the mind with falsehood if you can't
+speed it with truth_. I almost suspect that your plan is the one which
+is so much in vogue just now, that you want to impress upon me that
+
+  The hour is nigh
+  When we may feast in quiet.
+
+You recommend us, in fact, to take timely precautions, so that the waves
+of the discontented raging masses mayn't disturb us at table. But the
+whole point of view is as false as it is now-a-days popular and
+commended; and so I make haste to enter a protest against it. It is
+_false_, that state, justice, law cannot be upheld without the
+assistance of religion and its dogmas; and that justice and public order
+need religion as a necessary complement, if legislative enactments are
+to be carried out. It is _false_, were it repeated a hundred times. An
+effective and striking argument to the contrary is afforded by the
+ancients, especially the Greeks. They had nothing at all of what we
+understand by religion. They had no sacred documents, no dogma to be
+learned and its acceptance furthered by every one, its principles to be
+inculcated early on the young. Just as little was moral doctrine
+preached by the ministers of religion, nor did the priests trouble
+themselves about morality or about what the people did or left undone.
+Not at all. The duty of the priests was confined to temple-ceremonial,
+prayers, hymns, sacrifices, processions, lustrations and the like, the
+object of which was anything but the moral improvement of the
+individual. What was called religion consisted, more especially in the
+cities, in giving temples here and there to some of the gods of the
+greater tribes, in which the worship described was carried on as a state
+matter, and was consequently, in fact, an affair of police. No one,
+except the functionaries performing, was in any way compelled to attend,
+or even to believe in it. In the whole of antiquity there is no trace of
+any obligation to believe in any particular dogma. Merely in the case of
+an open denial of the existence of the gods, or any other reviling of
+them, a penalty was imposed, and that on account of the insult offered
+to the state, which served those gods; beyond this it was free to
+everyone to think of them what he pleased. If anyone wanted to gain the
+favor of those gods privately, by prayer or sacrifice, it was open to
+him to do so at his own expense and at his own risk; if he didn't do it,
+no one made any objection, least of all the state. In the case of the
+Romans, everyone had his own Lares and Penates at home; they were,
+however, in reality, only the venerated busts of ancestors. Of the
+immortality of the soul and a life beyond the grave, the ancients had no
+firm, clear or, least of all, dogmatically fixed idea, but very loose,
+fluctuating, indefinite and problematical notions, everyone in his own
+way: and the ideas about the gods were just as varying, individual and
+vague. There was, therefore, really no _religion_, in our sense of the
+word, amongst the ancients. But did anarchy and lawlessness prevail
+amongst them on that account? Is not law and civil order, rather, so
+much their work, that it still forms the foundation of our own? Was
+there not complete protection for property, even though it consisted for
+the most part of slaves? And did not this state of things last for more
+than a thousand years? So that I can't recognize, I must even protest
+against the practical aims and the necessity of religion in the sense
+indicated by you, and so popular now-a-days, that is, as an
+indispensable foundation of all legislative arrangements. For, if you
+take that point of view, the pure and sacred endeavor after truth would,
+to say the least, appear quixotic, and even criminal, if it ventured, in
+its feeling of justice, to denounce the authoritative creed as a usurper
+who had taken possession of the throne of truth and maintained his
+position by keeping up the deception.
+
+_Demopheles_. But religion is not opposed to truth; it itself teaches
+truth. And as the range of its activity is not a narrow lecture room,
+but the world and humanity at large, religion must conform to the
+requirements and comprehension of an audience so numerous and so mixed.
+Religion must not let truth appear in its naked form; or, to use a
+medical simile, it must not exhibit it pure, but must employ a mythical
+vehicle, a medium, as it were. You can also compare truth in this
+respect to certain chemical stuffs which in themselves are gaseous, but
+which for medicinal uses, as also for preservation or transmission, must
+be bound to a stable, solid base, because they would otherwise
+volatilize. Chlorine gas, for example, is for all purposes applied only
+in the form of chlorides. But if truth, pure, abstract and free from all
+mythical alloy, is always to remain unattainable, even by philosophers,
+it might be compared to fluorine, which cannot even be isolated, but
+must always appear in combination with other elements. Or, to take a
+less scientific simile, truth, which is inexpressible except by means of
+myth and allegory, is like water, which can be carried about only in
+vessels; a philosopher who insists on obtaining it pure is like a man
+who breaks the jug in order to get the water by itself. This is,
+perhaps, an exact analogy. At any rate, religion is truth allegorically
+and mythically expressed, and so rendered attainable and digestible by
+mankind in general. Mankind couldn't possibly take it pure and unmixed,
+just as we can't breathe pure oxygen; we require an addition of four
+times its bulk in nitrogen. In plain language, the profound meaning, the
+high aim of life, can only be unfolded and presented to the masses
+symbolically, because they are incapable of grasping it in its true
+signification. Philosophy, on the other hand, should be like the
+Eleusinian mysteries, for the few, the _elite_.
+
+_Philalethes_. I understand. It comes, in short, to truth wearing the
+garment of falsehood. But in doing so it enters on a fatal alliance.
+What a dangerous weapon is put into the hands of those who are
+authorized to employ falsehood as the vehicle of truth! If it is as you
+say, I fear the damage caused by the falsehood will be greater than any
+advantage the truth could ever produce. Of course, if the allegory were
+admitted to be such, I should raise no objection; but with the admission
+it would rob itself of all respect, and consequently, of all utility.
+The allegory must, therefore, put in a claim to be true in the proper
+sense of the word, and maintain the claim; while, at the most, it is
+true only in an allegorical sense. Here lies the irreparable mischief,
+the permanent evil; and this is why religion has always been and always
+will be in conflict with the noble endeavor after pure truth.
+
+_Demopheles_. Oh no! that danger is guarded against. If religion mayn't
+exactly confess its allegorical nature, it gives sufficient indication
+of it.
+
+_Philalethes_. How so?
+
+_Demopheles_. In its mysteries. "Mystery," is in reality only a
+technical theological term for religious allegory. All religions have
+their mysteries. Properly speaking, a mystery is a dogma which is
+plainly absurd, but which, nevertheless, conceals in itself a lofty
+truth, and one which by itself would be completely incomprehensible to
+the ordinary understanding of the raw multitude. The multitude accepts
+it in this disguise on trust, and believes it, without being led astray
+by the absurdity of it, which even to its intelligence is obvious; and
+in this way it participates in the kernel of the matter so far as it is
+possible for it to do so. To explain what I mean, I may add that even in
+philosophy an attempt has been made to make use of a mystery. Pascal,
+for example, who was at once a pietist, a mathematician, and a
+philosopher, says in this threefold capacity: _God is everywhere center
+and nowhere periphery_. Malebranche has also the just remark: _Liberty
+is a mystery_. One could go a step further and maintain that in
+religions everything is mystery. For to impart truth, in the proper
+sense of the word, to the multitude in its raw state is absolutely
+impossible; all that can fall to its lot is to be enlightened by a
+mythological reflection of it. Naked truth is out of place before the
+eyes of the profane vulgar; it can only make its appearance thickly
+veiled. Hence, it is unreasonable to require of a religion that it shall
+be true in the proper sense of the word; and this, I may observe in
+passing, is now-a-days the absurd contention of Rationalists and
+Supernaturalists alike. Both start from the position that religion must
+be the real truth; and while the former demonstrate that it is not the
+truth, the latter obstinately maintain that it is; or rather, the former
+dress up and arrange the allegorical element in such a way, that, in the
+proper sense of the word, it could be true, but would be, in that case,
+a platitude; while the latter wish to maintain that it is true in the
+proper sense of the word, without any further dressing; a belief, which,
+as we ought to know is only to be enforced by inquisitions and the
+stake. As a fact, however, myth and allegory really form the proper
+element of religion; and under this indispensable condition, which is
+imposed by the intellectual limitation of the multitude, religion
+provides a sufficient satisfaction for those metaphysical requirements
+of mankind which are indestructible. It takes the place of that pure
+philosophical truth which is infinitely difficult and perhaps never
+attainable.
+
+_Philalethes_. Ah! just as a wooden leg takes the place of a natural
+one; it supplies what is lacking, barely does duty for it, claims to be
+regarded as a natural leg, and is more or less artfully put together.
+The only difference is that, whilst a natural leg as a rule preceded the
+wooden one, religion has everywhere got the start of philosophy.
+
+_Demopheles_. That may be, but still for a man who hasn't a natural leg,
+a wooden one is of great service. You must bear in mind that the
+metaphysical needs of mankind absolutely require satisfaction, because
+the horizon of men's thoughts must have a background and not remain
+unbounded. Man has, as a rule, no faculty for weighing reasons and
+discriminating between what is false and what is true; and besides, the
+labor which nature and the needs of nature impose upon him, leaves him
+no time for such enquiries, or for the education which they presuppose.
+In his case, therefore, it is no use talking of a reasoned conviction;
+he has to fall back on belief and authority. If a really true philosophy
+were to take the place of religion, nine-tenths at least of mankind
+would have to receive it on authority; that is to say, it too would be a
+matter of faith, for Plato's dictum, that the multitude can't be
+philosophers, will always remain true. Authority, however, is an affair
+of time and circumstance alone, and so it can't be bestowed on that
+which has only reason in its favor, it must accordingly be allowed to
+nothing but what has acquired it in the course of history, even if it is
+only an allegorical representation of truth. Truth in this form,
+supported by authority, appeals first of all to those elements in the
+human constitution which are strictly metaphysical, that is to say, to
+the need man feels of a theory in regard to the riddle of existence
+which forces itself upon his notice, a need arising from the
+consciousness that behind the physical in the world there is a
+metaphysical, something permanent as the foundation of constant change.
+Then it appeals to the will, to the fears and hopes of mortal beings
+living in constant struggle; for whom, accordingly, religion creates
+gods and demons whom they can cry to, appease and win over. Finally, it
+appeals to that moral consciousness which is undeniably present in man,
+lends to it that corroboration and support without which it would not
+easily maintain itself in the struggle against so many temptations. It
+is just from this side that religion affords an inexhaustible source of
+consolation and comfort in the innumerable trials of life, a comfort
+which does not leave men in death, but rather then only unfolds its full
+efficacy. So religion may be compared to one who takes a blind man by
+the hand and leads him, because he is unable to see for himself, whose
+concern it is to reach his destination, not to look at everything by the
+way.
+
+_Philalethes_. That is certainly the strong point of religion. If it is
+a fraud, it is a pious fraud; that is undeniable. But this makes priests
+something between deceivers and teachers of morality; they daren't teach
+the real truth, as you have quite rightly explained, even if they knew
+it, which is not the case. A true philosophy, then, can always exist,
+but not a true religion; true, I mean, in the proper understanding of
+the word, not merely in that flowery or allegorical sense which you have
+described; a sense in which all religions would be true, only in various
+degrees. It is quite in keeping with the inextricable mixture of weal
+and woe, honesty and deceit, good and evil, nobility and baseness, which
+is the average characteristic of the world everywhere, that the most
+important, the most lofty, the most sacred truths can make their
+appearance only in combination with a lie, can even borrow strength from
+a lie as from something that works more powerfully on mankind; and, as
+revelation, must be ushered in by a lie. This might, indeed, be regarded
+as the _cachet_ of the moral world. However, we won't give up the hope
+that mankind will eventually reach a point of maturity and education at
+which it can on the one side produce, and on the other receive, the true
+philosophy. _Simplex sigillum veri_: the naked truth must be so simple
+and intelligible that it can be imparted to all in its true form,
+without any admixture of myth and fable, without disguising it in the
+form of _religion_.
+
+_Demopheles_. You've no notion how stupid most people are.
+
+_Philalethes_. I am only expressing a hope which I can't give up. If it
+were fulfilled, truth in its simple and intelligible form would of
+course drive religion from the place it has so long occupied as its
+representative, and by that very means kept open for it. The time would
+have come when religion would have carried out her object and completed
+her course: the race she had brought to years of discretion she could
+dismiss, and herself depart in peace: that would be the _euthanasia_ of
+religion. But as long as she lives, she has two faces, one of truth, one
+of fraud. According as you look at one or the other, you will bear her
+favor or ill-will. Religion must be regarded as a necessary evil, its
+necessity resting on the pitiful imbecility of the great majority of
+mankind, incapable of grasping the truth, and therefore requiring, in
+its pressing need, something to take its place.
+
+_Demopheles_. Really, one would think that you philosophers had truth in
+a cupboard, and that all you had to do was to go and get it!
+
+_Philalethes_. Well, if we haven't got it, it is chiefly owing to the
+pressure put upon philosophy by religion at all times and in all places.
+People have tried to make the expression and communication of truth,
+even the contemplation and discovery of it, impossible, by putting
+children, in their earliest years, into the hands of priests to be
+manipulated; to have the lines, in which their fundamental thoughts are
+henceforth to run, laid down with such firmness as, in essential
+matters, to be fixed and determined for this whole life. When I take up
+the writings even of the best intellects of the sixteenth and
+seventeenth centuries, (more especially if I have been engaged in
+Oriental studies), I am sometimes shocked to see how they are paralyzed
+and hemmed in on all sides by Jewish ideas. How can anyone think out the
+true philosophy when he is prepared like this?
+
+_Demopheles_. Even if the true philosophy were to be discovered,
+religion wouldn't disappear from the world, as you seem to think. There
+can't be one system of metaphysics for everybody; that's rendered
+impossible by the natural differences of intellectual power between man
+and man, and the differences, too, which education makes. It is a
+necessity for the great majority of mankind to engage in that severe
+bodily labor which cannot be dispensed with if the ceaseless
+requirements of the whole race are to be satisfied. Not only does this
+leave the majority no time for education, for learning, for
+contemplation; but by virtue of the hard and fast antagonism between
+muscles and mind, the intelligence is blunted by so much exhausting
+bodily labor, and becomes heavy, clumsy, awkward, and consequently
+incapable of grasping any other than quite simple situations. At least
+nine-tenths of the human race falls under this category. But still the
+people require a system of metaphysics, that is, an account of the world
+and our existence, because such an account belongs to the most natural
+needs of mankind, they require a popular system; and to be popular it
+must combine many rare qualities. It must be easily understood, and at
+the same time possess, on the proper points, a certain amount of
+obscurity, even of impenetrability; then a correct and satisfactory
+system of morality must be bound up with its dogmas; above all, it must
+afford inexhaustible consolation in suffering and death; the consequence
+of all this is, that it can only be true in an allegorical and not in a
+real sense. Further, it must have the support of an authority which is
+impressive by its great age, by being universally recognized, by its
+documents, their tone and utterances; qualities which are so extremely
+difficult to combine that many a man wouldn't be so ready, if he
+considered the matter, to help to undermine a religion, but would
+reflect that what he is attacking is a people's most sacred treasure. If
+you want to form an opinion on religion, you should always bear in mind
+the character of the great multitude for which it is destined, and form
+a picture to yourself of its complete inferiority, moral and
+intellectual. It is incredible how far this inferiority goes, and how
+perseveringly a spark of truth will glimmer on even under the crudest
+covering of monstrous fable or grotesque ceremony, clinging
+indestructibly, like the odor of musk, to everything that has once come
+into contact with it. In illustration of this, consider the profound
+wisdom of the Upanishads, and then look at the mad idolatry in the India
+of to-day, with its pilgrimages, processions and festivities, or at the
+insane and ridiculous goings-on of the Saniassi. Still one can't deny
+that in all this insanity and nonsense there lies some obscure purpose
+which accords with, or is a reflection of the profound wisdom I
+mentioned. But for the brute multitude, it had to be dressed up in this
+form. In such a contrast as this we have the two poles of humanity, the
+wisdom of the individual and the bestiality of the many, both of which
+find their point of contact in the moral sphere. That saying from the
+Kurral must occur to everybody. _Base people look like men, but I have
+never seen their exact counterpart_. The man of education may, all the
+same, interpret religion to himself _cum grano salis_; the man of
+learning, the contemplative spirit may secretly exchange it for a
+philosophy. But here again one philosophy wouldn't suit everybody; by
+the laws of affinity every system would draw to itself that public to
+whose education and capacities it was most suited. So there is always an
+inferior metaphysical system of the schools for the educated multitude,
+and a higher one for the _elite_. Kant's lofty doctrine, for instance,
+had to be degraded to the level of the schools and ruined by such men as
+Fries, Krug and Salat. In short, here, if anywhere, Goethe's maxim is
+true, _One does not suit all_. Pure faith in revelation and pure
+metaphysics are for the two extremes, and for the intermediate steps
+mutual modifications of both in innumerable combinations and gradations.
+And this is rendered necessary by the immeasurable differences which
+nature and education have placed between man and man.
+
+_Philalethes_. The view you take reminds me seriously of the mysteries
+of the ancients, which you mentioned just now. Their fundamental purpose
+seems to have been to remedy the evil arising from the differences of
+intellectual capacity and education. The plan was, out of the great
+multitude utterly impervious to unveiled truth, to select certain
+persons who might have it revealed to them up to a given point; out of
+these, again, to choose others to whom more would be revealed, as being
+able to grasp more; and so on up to the Epopts. These grades correspond
+to the little, greater and greatest mysteries. The arrangement was
+founded on a correct estimate of the intellectual inequality of mankind.
+
+_Demopheles_. To some extent the education in our lower, middle and high
+schools corresponds to the varying grades of initiation into the
+mysteries.
+
+_Philalethes_. In a very approximate way; and then only in so far as
+subjects of higher knowledge are written about exclusively in Latin. But
+since that has ceased to be the case, all the mysteries are profaned.
+
+_Demopheles_. However that may be, I wanted to remind you that you
+should look at religion more from the practical than from the
+theoretical side. _Personified_ metaphysics may be the enemy of
+religion, but all the same _personified_ morality will be its friend.
+Perhaps the metaphysical element in all religions is false; but the
+moral element in all is true. This might perhaps be presumed from the
+fact that they all disagree in their metaphysics, but are in accord as
+regards morality.
+
+_Philalethes_. Which is an illustration of the rule of logic that false
+premises may give a true conclusion.
+
+_Demopheles_. Let me hold you to your conclusion: let me remind you that
+religion has two sides. If it can't stand when looked at from its
+theoretical, that is, its intellectual side; on the other hand, from the
+moral side, it proves itself the only means of guiding, controlling and
+mollifying those races of animals endowed with reason, whose kinship
+with the ape does not exclude a kinship with the tiger. But at the same
+time religion is, as a rule, a sufficient satisfaction for their dull
+metaphysical necessities. You don't seem to me to possess a proper idea
+of the difference, wide as the heavens asunder, the deep gulf between
+your man of learning and enlightenment, accustomed to the process of
+thinking, and the heavy, clumsy, dull and sluggish consciousness of
+humanity's beasts of burden, whose thoughts have once and for all taken
+the direction of anxiety about their livelihood, and cannot be put in
+motion in any other; whose muscular strength is so exclusively brought
+into play that the nervous power, which makes intelligence, sinks to a
+very low ebb. People like that must have something tangible which they
+can lay hold of on the slippery and thorny pathway of their life, some
+sort of beautiful fable, by means of which things can be imparted to
+them which their crude intelligence can entertain only in picture and
+parable. Profound explanations and fine distinctions are thrown away
+upon them. If you conceive religion in this light, and recollect that
+its aims are above all practical, and only in a subordinate degree
+theoretical, it will appear to you as something worthy of the highest
+respect.
+
+_Philalethes_. A respect which will finally rest upon the principle that
+the end sanctifies the means. I don't feel in favor of a compromise on a
+basis like that. Religion may be an excellent means of training the
+perverse, obtuse and ill-disposed members of the biped race: in the eyes
+of the friend of truth every fraud, even though it be a pious one, is to
+be condemned. A system of deception, a pack of lies, would be a strange
+means of inculcating virtue. The flag to which I have taken the oath is
+truth; I shall remain faithful to it everywhere, and whether I succeed
+or not, I shall fight for light and truth! If I see religion on the
+wrong side--
+
+_Demopheles_. But you won't. Religion isn't a deception: it is true and
+the most important of all truths. Because its doctrines are, as I have
+said, of such a lofty kind that the multitude can't grasp them without
+an intermediary, because, I say, its light would blind the ordinary eye,
+it comes forward wrapt in the veil of allegory and teaches, not indeed
+what is exactly true in itself, but what is true in respect of the lofty
+meaning contained in it; and, understood in this way, religion is the
+truth.
+
+_Philalethes_. It would be all right if religion were only at liberty to
+be true in a merely allegorical sense. But its contention is that it is
+downright true in the proper sense of the word. Herein lies the
+deception, and it is here that the friend of truth must take up a
+hostile position.
+
+_Demopheles_. The deception is a _sine qua non_. If religion were to
+admit that it was only the allegorical meaning in its doctrine which was
+true, it would rob itself of all efficacy. Such rigorous treatment as
+this would destroy its invaluable influence on the hearts and morals of
+mankind. Instead of insisting on that with pedantic obstinacy, look at
+its great achievements in the practical sphere, its furtherance of good
+and kindly feelings, its guidance in conduct, the support and
+consolation it gives to suffering humanity in life and death. How much
+you ought to guard against letting theoretical cavils discredit in the
+eyes of the multitude, and finally wrest from it, something which is an
+inexhaustible source of consolation and tranquillity, something which,
+in its hard lot, it needs so much, even more than we do. On that score
+alone, religion should be free from attack.
+
+_Philalethes_. With that kind of argument you could have driven Luther
+from the field, when he attacked the sale of indulgences. How many a one
+got consolation from the letters of indulgence, a consolation which
+nothing else could give, a complete tranquillity; so that he joyfully
+departed with the fullest confidence in the packet of them which he held
+in his hand at the hour of death, convinced that they were so many cards
+of admission to all the nine heavens. What is the use of grounds of
+consolation and tranquillity which are constantly overshadowed by the
+Damocles-sword of illusion? The truth, my dear sir, is the only safe
+thing; the truth alone remains steadfast and trusty; it is the only
+solid consolation; it is the indestructible diamond.
+
+_Demopheles_. Yes, if you had truth in your pocket, ready to favor us
+with it on demand. All you've got are metaphysical systems, in which
+nothing is certain but the headaches they cost. Before you take anything
+away, you must have something better to put in its place.
+
+_Philalethes_. That's what you keep on saying. To free a man from error
+is to give, not to take away. Knowledge that a thing is false is a
+truth. Error always does harm; sooner or later it will bring mischief to
+the man who harbors it. Then give up deceiving people; confess ignorance
+of what you don't know, and leave everyone to form his own articles of
+faith for himself. Perhaps they won't turn out so bad, especially as
+they'll rub one another's corners down, and mutually rectify mistakes.
+The existence of many views will at any rate lay a foundation of
+tolerance. Those who possess knowledge and capacity may betake
+themselves to the study of philosophy, or even in their own persons
+carry the history of philosophy a step further.
+
+_Demopheles_. That'll be a pretty business! A whole nation of raw
+metaphysicians, wrangling and eventually coming to blows with one
+another!
+
+_Philalethes_. Well, well, a few blows here and there are the sauce of
+life; or at any rate a very inconsiderable evil compared with such
+things as priestly dominion, plundering of the laity, persecution of
+heretics, courts of inquisition, crusades, religious wars, massacres of
+St. Bartholomew. These have been the result of popular metaphysics
+imposed from without; so I stick to the old saying that you can't get
+grapes from thistles, nor expect good to come from a pack of lies.
+
+_Demopheles_. How often must I repeat that religion is anything but a
+pack of lies? It is truth itself, only in a mythical, allegorical
+vesture. But when you spoke of your plan of everyone being his own
+founder of religion, I wanted to say that a particularism like this is
+totally opposed to human nature, and would consequently destroy all
+social order. Man is a metaphysical animal,--that is to say, he has
+paramount metaphysical necessities; accordingly, he conceives life above
+all in its metaphysical signification, and wishes to bring everything
+into line with that. Consequently, however strange it may sound in view
+of the uncertainty of all dogmas, agreement in the fundamentals of
+metaphysics is the chief thing, because a genuine and lasting bond of
+union is only possible among those who are of one opinion on these
+points. As a result of this, the main point of likeness and of contrast
+between nations is rather religion than government, or even language;
+and so the fabric of society, the State, will stand firm only when
+founded on a system of metaphysics which is acknowledged by all. This,
+of course, can only be a popular system,--that is, a religion: it
+becomes part and parcel of the constitution of the State, of all the
+public manifestations of the national life, and also of all solemn acts
+of individuals. This was the case in ancient India, among the Persians,
+Egyptians, Jews, Greeks and Romans; it is still the case in the Brahman,
+Buddhist and Mohammedan nations. In China there are three faiths, it is
+true, of which the most prevalent--Buddhism--is precisely the one which
+is not protected by the State; still, there is a saying in China,
+universally acknowledged, and of daily application, that "the three
+faiths are only one,"--that is to say, they agree in essentials. The
+Emperor confesses all three together at the same time. And Europe is the
+union of Christian States: Christianity is the basis of every one of the
+members, and the common bond of all. Hence Turkey, though geographically
+in Europe, is not properly to be reckoned as belonging to it. In the
+same way, the European princes hold their place "by the grace of God:"
+and the Pope is the vicegerent of God. Accordingly, as his throne was
+the highest, he used to wish all thrones to be regarded as held in fee
+from him. In the same way, too, Archbishops and Bishops, as such,
+possessed temporal power; and in England they still have seats and votes
+in the Upper House. Protestant princes, as such, are heads of their
+churches: in England, a few years ago, this was a girl eighteen years
+old. By the revolt from the Pope, the Reformation shattered the European
+fabric, and in a special degree dissolved the true unity of Germany by
+destroying its common religious faith. This union, which had practically
+come to an end, had, accordingly, to be restored later on by artificial
+and purely political means. You see, then, how closely connected a
+common faith is with the social order and the constitution of every
+State. Faith is everywhere the support of the laws and the constitution,
+the foundation, therefore, of the social fabric, which could hardly hold
+together at all if religion did not lend weight to the authority of
+government and the dignity of the ruler.
+
+_Philalethes_. Oh, yes, princes use God as a kind of bogey to frighten
+grown-up children to bed with, if nothing else avails: that's why they
+attach so much importance to the Deity. Very well. Let me, in passing,
+recommend our rulers to give their serious attention, regularly twice
+every year, to the fifteenth chapter of the First Book of Samuel, that
+they may be constantly reminded of what it means to prop the throne on
+the altar. Besides, since the stake, that _ultima ration theologorum_,
+has gone out of fashion, this method of government has lost its
+efficacy. For, as you know, religions are like glow-worms; they shine
+only when it is dark. A certain amount of general ignorance is the
+condition of all religions, the element in which alone they can exist.
+And as soon as astronomy, natural science, geology, history, the
+knowledge of countries and peoples have spread their light broadcast,
+and philosophy finally is permitted to say a word, every faith founded
+on miracles and revelation must disappear; and philosophy takes its
+place. In Europe the day of knowledge and science dawned towards the end
+of the fifteenth century with the appearance of the Renaissance
+Platonists: its sun rose higher in the sixteenth and seventeenth
+centuries so rich in results, and scattered the mists of the Middle Age.
+Church and Faith were compelled to disappear in the same proportion; and
+so in the eighteenth century English and French philosophers were able
+to take up an attitude of direct hostility; until, finally, under
+Frederick the Great, Kant appeared, and took away from religious belief
+the support it had previously enjoyed from philosophy: he emancipated
+the handmaid of theology, and in attacking the question with German
+thoroughness and patience, gave it an earnest instead of a frivolous
+tone. The consequence of this is that we see Christianity undermined in
+the nineteenth century, a serious faith in it almost completely gone; we
+see it fighting even for bare existence, whilst anxious princes try to
+set it up a little by artificial means, as a doctor uses a drug on a
+dying patient. In this connection there is a passage in Condorcet's
+"_Des Progres de l'esprit humain_" which looks as if written as a
+warning to our age: "the religious zeal shown by philosophers and great
+men was only a political devotion; and every religion which allows
+itself to be defended as a belief that may usefully be left to the
+people, can only hope for an agony more or less prolonged." In the whole
+course of the events which I have indicated, you may always observe that
+faith and knowledge are related as the two scales of a balance; when the
+one goes up, the other goes down. So sensitive is the balance that it
+indicates momentary influences. When, for instance, at the beginning of
+this century, those inroads of French robbers under the leadership of
+Bonaparte, and the enormous efforts necessary for driving them out and
+punishing them, had brought about a temporary neglect of science and
+consequently a certain decline in the general increase of knowledge, the
+Church immediately began to raise her head again and Faith began to show
+fresh signs of life; which, to be sure, in keeping with the times, was
+partly poetical in its nature. On the other hand, in the more than
+thirty years of peace which followed, leisure and prosperity furthered
+the building up of science and the spread of knowledge in an
+extraordinary degree: the consequence of which is what I have indicated,
+the dissolution and threatened fall of religion. Perhaps the time is
+approaching which has so often been prophesied, when religion will take
+her departure from European humanity, like a nurse which the child has
+outgrown: the child will now be given over to the instructions of a
+tutor. For there is no doubt that religious doctrines which are founded
+merely on authority, miracles and revelations, are only suited to the
+childhood of humanity. Everyone will admit that a race, the past
+duration of which on the earth all accounts, physical and historical,
+agree in placing at not more than some hundred times the life of a man
+of sixty, is as yet only in its first childhood.
+
+_Demopheles_. Instead of taking an undisguised pleasure in prophesying
+the downfall of Christianity, how I wish you would consider what a
+measureless debt of gratitude European humanity owes to it, how greatly
+it has benefited by the religion which, after a long interval, followed
+it from its old home in the East. Europe received from Christianity
+ideas which were quite new to it, the Knowledge, I mean, of the
+fundamental truth that life cannot be an end-in-itself, that the true
+end of our existence lies beyond it. The Greeks and Romans had placed
+this end altogether in our present life, so that in this sense they may
+certainly be called blind heathens. And, in keeping with this view of
+life, all their virtues can be reduced to what is serviceable to the
+community, to what is useful in fact. Aristotle says quite naively,
+_Those virtues must necessarily be the greatest which are the most
+useful to others_. So the ancients thought patriotism the highest
+virtue, although it is really a very doubtful one, since narrowness,
+prejudice, vanity and an enlightened self-interest are main elements in
+it. Just before the passage I quoted, Aristotle enumerates all the
+virtues, in order to discuss them singly. They are _Justice, Courage,
+Temperance, Magnificence, Magnanimity, Liberality, Gentleness, Good
+Sense_ and _Wisdom_. How different from the Christian virtues! Plato
+himself, incomparably the most transcendental philosopher of
+pre-Christian antiquity, knows no higher virtue than _Justice_; and he
+alone recommends it unconditionally and for its own sake, whereas the
+rest make a happy life, _vita beata_, the aim of all virtue, and moral
+conduct the way to attain it. Christianity freed European humanity from
+this shallow, crude identification of itself with the hollow, uncertain
+existence of every day,
+
+                          coelumque tueri
+  Jussit, et erectos ad sidera tollere vultus.
+
+Christianity, accordingly, does not preach mere Justice, but _the Love
+of Mankind, Compassion, Good Works, Forgiveness, Love of your Enemies,
+Patience, Humility, Resignation, Faith_ and _Hope_. It even went a step
+further, and taught that the world is of evil, and that we need
+deliverance. It preached despisal of the world, self-denial, chastity,
+giving up of one's will, that is, turning away from life and its
+illusory pleasures. It taught the healing power of pain: an instrument
+of torture is the symbol of Christianity. I am quite ready to admit that
+this earnest, this only correct view of life was thousands of years
+previously spread all over Asia in other forms, as it is still,
+independently of Christianity; but for European humanity it was a new
+and great revelation. For it is well known that the population of Europe
+consists of Asiatic races driven out as wanderers from their own homes,
+and gradually settling down in Europe; on their wanderings these races
+lost the original religion of their homes, and with it the right view of
+life: so, under a new sky, they formed religions for themselves, which
+were rather crude; the worship of Odin, for instance, the Druidic or the
+Greek religion, the metaphysical content of which was little and
+shallow. In the meantime the Greeks developed a special, one might
+almost say, an instinctive sense of beauty, belonging to them alone of
+all the nations who have ever existed on the earth, peculiar, fine and
+exact: so that their mythology took, in the mouth of their poets, and in
+the hands of their artists, an exceedingly beautiful and pleasing shape.
+On the other hand, the true and deep significance of life was lost to
+the Greeks and Romans. They lived on like grown-up children, till
+Christianity came and recalled them to the serious side of existence.
+
+_Philalethes_. And to see the effects one need only compare antiquity
+with the Middle Age; the time of Pericles, say, with the fourteenth
+century. You could scarcely believe you were dealing with the same kind
+of beings. There, the finest development of humanity, excellent
+institutions, wise laws, shrewdly apportioned offices, rationally
+ordered freedom, all the arts, including poetry and philosophy, at their
+best; the production of works which, after thousands of years, are
+unparalleled, the creations, as it were, of a higher order of beings,
+which we can never imitate; life embellished by the noblest fellowship,
+as portrayed in Xenophen's _Banquet_. Look on the other picture, if you
+can; a time at which the Church had enslaved the minds, and violence the
+bodies of men, that knights and priests might lay the whole weight of
+life upon the common beast of burden, the third estate. There, you have
+might as right, Feudalism and Fanaticism in close alliance, and in their
+train abominable ignorance and darkness of mind, a corresponding
+intolerance, discord of creeds, religious wars, crusades, inquisitions
+and persecutions; as the form of fellowship, chivalry, compounded of
+savagery and folly, with its pedantic system of ridiculous false
+pretences carried to an extreme, its degrading superstition and apish
+veneration for women. Gallantry is the residue of this veneration,
+deservedly requited as it is by feminine arrogance; it affords continual
+food for laughter to all Asiatics, and the Greeks would have joined in
+it. In the golden Middle Age the practice developed into a regular and
+methodical service of women; it imposed deeds of heroism, _cours
+d'amour_, bombastic Troubadour songs, etc.; although it is to be
+observed that these last buffooneries, which had an intellectual side,
+were chiefly at home in France; whereas amongst the material sluggish
+Germans, the knights distinguished themselves rather by drinking and
+stealing; they were good at boozing and filling their castles with
+plunder; though in the courts, to be sure, there was no lack of insipid
+love songs. What caused this utter transformation? Migration and
+Christianity.
+
+_Demopheles_. I am glad you reminded me of it. Migration was the source
+of the evil; Christianity the dam on which it broke. It was chiefly by
+Christianity that the raw, wild hordes which came flooding in were
+controlled and tamed. The savage man must first of all learn to kneel,
+to venerate, to obey; after that he can be civilized. This was done in
+Ireland by St. Patrick, in Germany by Winifred the Saxon, who was a
+genuine Boniface. It was migration of peoples, the last advance of
+Asiatic races towards Europe, followed only by the fruitless attempts of
+those under Attila, Zenghis Khan, and Timur, and as a comic afterpiece,
+by the gipsies,--it was this movement which swept away the humanity of
+the ancients. Christianity was precisely the principle which set itself
+to work against this savagery; just as later, through the whole of the
+Middle Age, the Church and its hierarchy were most necessary to set
+limits to the savage barbarism of those masters of violence, the princes
+and knights: it was what broke up the icefloes in that mighty deluge.
+Still, the chief aim of Christianity is not so much to make this life
+pleasant as to render us worthy of a better. It looks away over this
+span of time, over this fleeting dream, and seeks to lead us to eternal
+welfare. Its tendency is ethical in the highest sense of the word, a
+sense unknown in Europe till its advent; as I have shown you, by putting
+the morality and religion of the ancients side by side with those of
+Christendom.
+
+_Philalethes_. You are quite right as regards theory: but look at the
+practice! In comparison with the ages of Christianity the ancient world
+was unquestionably less cruel than the Middle Age, with its deaths by
+exquisite torture, its innumerable burnings at the stake. The ancients,
+further, were very enduring, laid great stress on justice, frequently
+sacrificed themselves for their country, showed such traces of every
+kind of magnanimity, and such genuine manliness, that to this day an
+acquaintance with their thoughts and actions is called the study of
+Humanity. The fruits of Christianity were religious wars, butcheries,
+crusades, inquisitions, extermination of the natives in America, and the
+introduction of African slaves in their place; and among the ancients
+there is nothing analogous to this, nothing that can be compared with
+it; for the slaves of the ancients, the _familia_, the _vernae_, were a
+contented race, and faithfully devoted to their masters' service, and as
+different from the miserable negroes of the sugar plantations, which are
+a disgrace to humanity, as their two colors are distinct. Those special
+moral delinquencies for which we reproach the ancients, and which are
+perhaps less uncommon now-a-days than appears on the surface to be the
+case, are trifles compared with the Christian enormities I have
+mentioned. Can you then, all considered, maintain that mankind has been
+really made morally better by Christianity?
+
+_Demopheles_. If the results haven't everywhere been in keeping with the
+purity and truth of the doctrine, it may be because the doctrine has
+been too noble, too elevated for mankind, that its aim has been placed
+too high. It was so much easier to come up to the heathen system, or to
+the Mohammedan. It is precisely what is noble and dignified that is most
+liable everywhere to misuse and fraud: _abusus optimi pessimus_. Those
+high doctrines have accordingly now and then served as a pretext for the
+most abominable proceedings, and for acts of unmitigated wickedness. The
+downfall of the institutions of the old world, as well as of its arts
+and sciences, is, as I have said, to be attributed to the inroad of
+foreign barbarians. The inevitable result of this inroad was that
+ignorance and savagery got the upper hand; consequently violence and
+knavery established their dominion, and knights and priests became a
+burden to mankind. It is partly, however, to be explained by the fact
+that the new religion made eternal and not temporal welfare the object
+of desire, taught that simplicity of heart was to be preferred to
+knowledge, and looked askance at all worldly pleasure. Now the arts and
+sciences subserve worldly pleasure; but in so far as they could be made
+serviceable to religion they were promoted, and attained a certain
+degree of perfection.
+
+_Philalethes_. In a very narrow sphere. The sciences were suspicious
+companions, and as such, were placed under restrictions: on the other
+hand, darling ignorance, that element so necessary to a system of faith,
+was carefully nourished.
+
+_Demopheles_. And yet mankind's possessions in the way of knowledge up
+to that period, which were preserved in the writings of the ancients,
+were saved from destruction by the clergy, especially by those in the
+monasteries. How would it have fared if Christianity hadn't come in just
+before the migration of peoples.
+
+_Philalethes_. It would really be a most useful inquiry to try and make,
+with the coldest impartiality, an unprejudiced, careful and accurate
+comparison of the advantages and disadvantages which may be put down to
+religion. For that, of course, a much larger knowledge of historical and
+psychological data than either of us command would be necessary.
+Academies might make it a subject for a prize essay.
+
+_Demopheles_. They'll take good care not to do so.
+
+_Philalethes_. I'm surprised to hear you say that: it's a bad look out
+for religion. However, there are academies which, in proposing a subject
+for competition, make it a secret condition that the prize is to go to
+the man who best interprets their own view. If we could only begin by
+getting a statistician to tell us how many crimes are prevented every
+year by religious, and how many by other motives, there would be very
+few of the former. If a man feels tempted to commit a crime, you may
+rely upon it that the first consideration which enters his head is the
+penalty appointed for it, and the chances that it will fall upon him:
+then comes, as a second consideration, the risk to his reputation. If I
+am not mistaken, he will ruminate by the hour on these two impediments,
+before he ever takes a thought of religious considerations. If he gets
+safely over those two first bulwarks against crime, I think religion
+alone will very rarely hold him back from it.
+
+_Demopheles_. I think that it will very often do so, especially when its
+influence works through the medium of custom. An atrocious act is at
+once felt to be repulsive. What is this but the effect of early
+impressions? Think, for instance, how often a man, especially if of
+noble birth, will make tremendous sacrifices to perform what he has
+promised, motived entirely by the fact that his father has often
+earnestly impressed upon him in his childhood that "a man of honor" or
+"a gentleman" or a "a cavalier" always keeps his word inviolate.
+
+_Philalethes_. That's no use unless there is a certain inborn
+honorableness. You mustn't ascribe to religion what results from innate
+goodness of character, by which compassion for the man who would suffer
+by his crime keeps a man from committing it. This is the genuine moral
+motive, and as such it is independent of all religions.
+
+_Demopheles_. But this is a motive which rarely affects the multitude
+unless it assumes a religious aspect. The religious aspect at any rate
+strengthens its power for good. Yet without any such natural foundation,
+religious motives alone are powerful to prevent crime. We need not be
+surprised at this in the case of the multitude, when we see that even
+people of education pass now and then under the influence, not indeed of
+religious motives, which are founded on something which is at least
+allegorically true, but of the most absurd superstition, and allow
+themselves to be guided by it all their life long; as, for instance,
+undertaking nothing on a Friday, refusing to sit down thirteen at a
+table, obeying chance omens, and the like. How much more likely is the
+multitude to be guided by such things. You can't form any adequate idea
+of the narrow limits of the mind in its raw state; it is a place of
+absolute darkness, especially when, as often happens, a bad, unjust and
+malicious heart is at the bottom of it. People in this condition--and
+they form the great bulk of humanity--must be led and controlled as well
+as may be, even if it be by really superstitious motives; until such
+time as they become susceptible to truer and better ones. As an instance
+of the direct working of religion, may be cited the fact, common enough,
+in Italy especially, of a thief restoring stolen goods, through the
+influence of his confessor, who says he won't absolve him if he doesn't.
+Think again of the case of an oath, where religion shows a most decided
+influence; whether it be that a man places himself expressly in the
+position of a purely _moral being_, and as such looks upon himself as
+solemnly appealed to, as seems to be the case in France, where the
+formula is simply _je le jure_, and also among the Quakers, whose solemn
+_yea_ or _nay_ is regarded as a substitute for the oath; or whether it
+be that a man really believes he is pronouncing something which may
+affect his eternal happiness,--a belief which is presumably only the
+investiture of the former feeling. At any rate, religious considerations
+are a means of awakening and calling out a man's moral nature. How often
+it happens that a man agrees to take a false oath, and then, when it
+comes to the point, suddenly refuses, and truth and right win the day.
+
+_Philalethes_. Oftener still false oaths are really taken, and truth and
+right trampled under foot, though all witnesses of the oath know it
+well! Still you are quite right to quote the oath as an undeniable
+example of the practical efficacy of religion. But, in spite of all
+you've said, I doubt whether the efficacy of religion goes much beyond
+this. Just think; if a public proclamation were suddenly made announcing
+the repeal of all the criminal laws; I fancy neither you nor I would
+have the courage to go home from here under the protection of religious
+motives. If, in the same way, all religions were declared untrue, we
+could, under the protection of the laws alone, go on living as before,
+without any special addition to our apprehensions or our measures of
+precaution. I will go beyond this, and say that religions have very
+frequently exercised a decidedly demoralizing influence. One may say
+generally that duties towards God and duties towards humanity are in
+inverse ratio.
+
+It is easy to let adulation of the Deity make amends for lack of proper
+behavior towards man. And so we see that in all times and in all
+countries the great majority of mankind find it much easier to beg their
+way to heaven by prayers than to deserve to go there by their actions.
+In every religion it soon comes to be the case that faith, ceremonies,
+rites and the like, are proclaimed to be more agreeable to the Divine
+will than moral actions; the former, especially if they are bound up
+with the emoluments of the clergy, gradually come to be looked upon as a
+substitute for the latter. Sacrifices in temples, the saying of masses,
+the founding of chapels, the planting of crosses by the roadside, soon
+come to be the most meritorious works, so that even great crimes are
+expiated by them, as also by penance, subjection to priestly authority,
+confessions, pilgrimages, donations to the temples and the clergy, the
+building of monasteries and the like. The consequence of all this is
+that the priests finally appear as middlemen in the corruption of the
+gods. And if matters don't go quite so far as that, where is the
+religion whose adherents don't consider prayers, praise and manifold
+acts of devotion, a substitute, at least in part, for moral conduct?
+Look at England, where by an audacious piece of priestcraft, the
+Christian Sunday, introduced by Constantine the Great as a subject for
+the Jewish Sabbath, is in a mendacious way identified with it, and takes
+its name,--and this in order that the commands of Jehovah for the
+Sabbath (that is, the day on which the Almighty had to rest from his six
+days' labor, so that it is essentially the last day of the week), might
+be applied to the Christian Sunday, the _dies solis_, the first day of
+the week which the sun opens in glory, the day of devotion and joy. The
+consequence of this fraud is that "Sabbath-breaking," or "the
+desecration of the Sabbath," that is, the slightest occupation, whether
+of business or pleasure, all games, music, sewing, worldly books, are on
+Sundays looked upon as great sins. Surely the ordinary man must believe
+that if, as his spiritual guides impress upon him, he is only constant
+in "a strict observance of the holy Sabbath," and is "a regular
+attendant at Divine Service," that is, if he only invariably idles away
+his time on Sundays, and doesn't fail to sit two hours in church to hear
+the same litany for the thousandth time and mutter it in tune with the
+others, he may reckon on indulgence in regard to those little
+peccadilloes which he occasionally allows himself. Those devils in human
+form, the slave owners and slave traders in the Free States of North
+America (they should be called the Slave States) are, as a rule,
+orthodox, pious Anglicans who would consider it a grave sin to work on
+Sundays; and having confidence in this, and their regular attendance at
+church, they hope for eternal happiness. The demoralizing tendency of
+religion is less problematical than its moral influence. How great and
+how certain that moral influence must be to make amends for the
+enormities which religions, especially the Christian and Mohammedan
+religions, have produced and spread over the earth! Think of the
+fanaticism, the endless persecutions, the religious wars, that
+sanguinary frenzy of which the ancients had no conception! think of the
+crusades, a butchery lasting two hundred years and inexcusable, its war
+cry "_It is the will of God_," its object to gain possession of the
+grave of one who preached love and sufferance! think of the cruel
+expulsion and extermination of the Moors and Jews from Spain! think of
+the orgies of blood, the inquisitions, the heretical tribunals, the
+bloody and terrible conquests of the Mohammedans in three continents, or
+those of Christianity in America, whose inhabitants were for the most
+part, and in Cuba entirely, exterminated. According to Las Cases,
+Christianity murdered twelve millions in forty years, of course all _in
+majorem Dei gloriam_, and for the propagation of the Gospel, and because
+what wasn't Christian wasn't even looked upon as human! I have, it is
+true, touched upon these matters before; but when in our day, we hear of
+_Latest News from the Kingdom of God_ [Footnote: A missionary paper, of
+which the 40th annual number appeared in 1856], we shall not be weary of
+bringing old news to mind. And above all, don't let us forget India, the
+cradle of the human race, or at least of that part of it to which we
+belong, where first Mohammedans, and then Christians, were most cruelly
+infuriated against the adherents of the original faith of mankind. The
+destruction or disfigurement of the ancient temples and idols, a
+lamentable, mischievous and barbarous act, still bears witness to the
+monotheistic fury of the Mohammedans, carried on from Marmud, the
+Ghaznevid of cursed memory, down to Aureng Zeb, the fratricide, whom the
+Portuguese Christians have zealously imitated by destruction of temples
+and the _auto de fe_ of the inquisition at Goa. Don't let us forget the
+chosen people of God, who after they had, by Jehovah's express command,
+stolen from their old and trusty friends in Egypt the gold and silver
+vessels which had been lent to them, made a murderous and plundering
+inroad into "the Promised Land," with the murderer Moses at their head,
+to tear it from the rightful owners,--again, by the same Jehovah's
+express and repeated commands, showing no mercy, exterminating the
+inhabitants, women, children and all (Joshua, ch. 9 and 10). And all
+this, simply because they weren't circumcised and didn't know Jehovah,
+which was reason enough to justify every enormity against them; just as
+for the same reason, in earlier times, the infamous knavery of the
+patriarch Jacob and his chosen people against Hamor, King of Shalem, and
+his people, is reported to his glory because the people were
+unbelievers! (Genesis xxxiii. 18.) Truly, it is the worst side of
+religions that the believers of one religion have allowed themselves
+every sin again those of another, and with the utmost ruffianism and
+cruelty persecuted them; the Mohammedans against the Christians and
+Hindoos; the Christians against the Hindoos, Mohammedans, American
+natives, Negroes, Jews, heretics, and others.
+
+Perhaps I go too far in saying _all_ religions. For the sake of truth, I
+must add that the fanatical enormities perpetrated in the name of
+religion are only to be put down to the adherents of monotheistic
+creeds, that is, the Jewish faith and its two branches, Christianity and
+Islamism. We hear of nothing of the kind in the case of Hindoos and
+Buddhists. Although it is a matter of common knowledge that about the
+fifth century of our era Buddhism was driven out by the Brahmans from
+its ancient home in the southernmost part of the Indian peninsula, and
+afterwards spread over the whole of the rest of Asia, as far as I know,
+we have no definite account of any crimes of violence, or wars, or
+cruelties, perpetrated in the course of it.
+
+That may, of course, be attributable to the obscurity which veils the
+history of those countries; but the exceedingly mild character of their
+religion, together with their unceasing inculcation of forbearance
+towards all living things, and the fact that Brahmanism by its caste
+system properly admits no proselytes, allows one to hope that their
+adherents may be acquitted of shedding blood on a large scale, and of
+cruelty in any form. Spence Hardy, in his excellent book on _Eastern
+Monachism_, praises the extraordinary tolerance of the Buddhists, and
+adds his assurance that the annals of Buddhism will furnish fewer
+instances of religious persecution than those of any other religion.
+
+As a matter of fact, it is only to monotheism that intolerance is
+essential; an only god is by his nature a jealous god, who can allow no
+other god to exist. Polytheistic gods, on the other hand, are naturally
+tolerant; they live and let live; their own colleagues are the chief
+objects of their sufferance, as being gods of the same religion. This
+toleration is afterwards extended to foreign gods, who are, accordingly,
+hospitably received, and later on admitted, in some cases, to an
+equality of rights; the chief example of which is shown by the fact,
+that the Romans willingly admitted and venerated Phrygian, Egyptian and
+other gods. Hence it is that monotheistic religions alone furnish the
+spectacle of religious wars, religious persecutions, heretical
+tribunals, that breaking of idols and destruction of images of the gods,
+that razing of Indian temples, and Egyptian colossi, which had looked on
+the sun three thousand years, just because a jealous god had said, _Thou
+shalt make no graven image_.
+
+But to return to the chief point. You are certainly right in insisting
+on the strong metaphysical needs of mankind; but religion appears to me
+to be not so much a satisfaction as an abuse of those needs. At any rate
+we have seen that in regard to the furtherance of morality, its utility
+is, for the most part, problematical, its disadvantages, and especially
+the atrocities which have followed in its train, are patent to the light
+of day. Of course it is quite a different matter if we consider the
+utility of religion as a prop of thrones; for where these are held "by
+the grace of God," throne and altar are intimately associated; and every
+wise prince who loves his throne and his family will appear at the head
+of his people as an exemplar of true religion. Even Machiavelli, in the
+eighteenth chapter of his book, most earnestly recommended religion to
+princes. Beyond this, one may say that revealed religions stand to
+philosophy exactly in the relation of "sovereigns by the grace of God,"
+to "the sovereignty of the people"; so that the two former terms of the
+parallel are in natural alliance.
+
+_Demopheles_. Oh, don't take that tone! You're going hand in hand with
+ochlocracy and anarchy, the arch enemy of all legislative order, all
+civilization and all humanity.
+
+_Philalethes_. You are right. It was only a sophism of mine, what the
+fencing master calls a feint. I retract it. But see how disputing
+sometimes makes an honest man unjust and malicious. Let us stop.
+
+_Demopheles_. I can't help regretting that, after all the trouble I've
+taken, I haven't altered your disposition in regard to religion. On the
+other hand, I can assure you that everything you have said hasn't shaken
+my conviction of its high value and necessity.
+
+_Philalethes_. I fully believe you; for, as we may read in Hudibras--
+
+  A man convinced against his will
+  Is of the same opinion still.
+
+My consolation is that, alike in controversies and in taking mineral
+waters, the after effects are the true ones.
+
+_Demopheles_. Well, I hope it'll be beneficial in your case.
+
+_Philalethes_. It might be so, if I could digest a certain Spanish
+proverb.
+
+_Demopheles_. Which is?
+
+_Philalethes. Behind the cross stands the devil_.
+
+_Demopheles_. Come, don't let us part with sarcasms. Let us rather admit
+that religion, like Janus, or better still, like the Brahman god of
+death, Yama, has two faces, and like him, one friendly, the other
+sullen. Each of us has kept his eye fixed on one alone.
+
+_Philalethes_. You are right, old fellow.
+
+
+
+
+A FEW WORDS ON PANTHEISM.
+
+
+The controversy between Theism and Pantheism might be presented in an
+allegorical or dramatic form by supposing a dialogue between two persons
+in the pit of a theatre at Milan during the performance of a piece. One
+of them, convinced that he is in Girolamo's renowned marionette-theatre,
+admires the art by which the director gets up the dolls and guides their
+movements. "Oh, you are quite mistaken," says the other, "we're in the
+Teatro della Scala; it is the manager and his troupe who are on the
+stage; they are the persons you see before you; the poet too is taking a
+part."
+
+The chief objection I have to Pantheism is that it says nothing. To call
+the world "God" is not to explain it; it is only to enrich our language
+with a superfluous synonym for the word "world." It comes to the same
+thing whether you say "the world is God," or "God is the world." But if
+you start from "God" as something that is given in experience, and has
+to be explained, and they say, "God is the world," you are affording
+what is to some extent an explanation, in so far as you are reducing
+what is unknown to what is partly known (_ignotum per notius_); but it
+is only a verbal explanation. If, however, you start from what is really
+given, that is to say, from the world, and say, "the world is God," it
+is clear that you say nothing, or at least you are explaining what is
+unknown by what is more unknown.
+
+Hence, Pantheism presupposes Theism; only in so far as you start from a
+god, that is, in so far as you possess him as something with which you
+are already familiar, can you end by identifying him with the world; and
+your purpose in doing so is to put him out of the way in a decent
+fashion. In other words, you do not start clear from the world as
+something that requires explanation; you start from God as something
+that is given, and not knowing what to do with him, you make the world
+take over his role. This is the origin of Pantheism. Taking an
+unprejudiced view of the world as it is, no one would dream of regarding
+it as a god. It must be a very ill-advised god who knows no better way
+of diverting himself than by turning into such a world as ours, such a
+mean, shabby world, there to take the form of innumerable millions who
+live indeed, but are fretted and tormented, and who manage to exist a
+while together, only by preying on one another; to bear misery, need and
+death, without measure and without object, in the form, for instance, of
+millions of negro slaves, or of the three million weavers in Europe who,
+in hunger and care, lead a miserable existence in damp rooms or the
+cheerless halls of a factory. What a pastime this for a god, who must,
+as such, be used to another mode of existence!
+
+We find accordingly that what is described as the great advance from
+Theism to Pantheism, if looked at seriously, and not simply as a masked
+negation of the sort indicated above, is a transition from what is
+unproved and hardly conceivable to what is absolutely absurd. For
+however obscure, however loose or confused may be the idea which we
+connect with the word "God," there are two predicates which are
+inseparable from it, the highest power and the highest wisdom. It is
+absolutely absurd to think that a being endowed with these qualities
+should have put himself into the position described above. Theism, on
+the other hand, is something which is merely unproved; and if it is
+difficult to look upon the infinite world as the work of a personal, and
+therefore individual, Being, the like of which we know only from our
+experience of the animal world, it is nevertheless not an absolutely
+absurd idea. That a Being, at once almighty and all-good, should create
+a world of torment is always conceivable; even though we do not know why
+he does so; and accordingly we find that when people ascribe the height
+of goodness to this Being, they set up the inscrutable nature of his
+wisdom as the refuge by which the doctrine escapes the charge of
+absurdity. Pantheism, however, assumes that the creative God is himself
+the world of infinite torment, and, in this little world alone, dies
+every second, and that entirely of his own will; which is absurd. It
+would be much more correct to identify the world with the devil, as the
+venerable author of the _Deutsche Theologie_ has, in fact, done in a
+passage of his immortal work, where he says, "_Wherefore the evil spirit
+and nature are one, and where nature is not overcome, neither is the
+evil adversary overcome_."
+
+It is manifest that the Pantheists give the Sansara the name of God. The
+same name is given by the Mystics to the Nirvana. The latter, however,
+state more about the Nirvana than they know, which is not done by the
+Buddhists, whose Nirvana is accordingly a relative nothing. It is only
+Jews, Christians, and Mohammedans who give its proper and correct
+meaning to the word "God."
+
+The expression, often heard now-a-days, "the world is an end-in-itself,"
+leaves it uncertain whether Pantheism or a simple Fatalism is to be
+taken as the explanation of it. But, whichever it be, the expression
+looks upon the world from a physical point of view only, and leaves out
+of sight its moral significance, because you cannot assume a moral
+significance without presenting the world as means to a higher end. The
+notion that the world has a physical but not a moral meaning, is the
+most mischievous error sprung from the greatest mental perversity.
+
+
+
+
+ON BOOKS AND READING.
+
+
+Ignorance is degrading only when found in company with riches. The poor
+man is restrained by poverty and need: labor occupies his thoughts, and
+takes the place of knowledge. But rich men who are ignorant live for
+their lusts only, and are like the beasts of the field; as may be seen
+every day: and they can also be reproached for not having used wealth
+and leisure for that which gives them their greatest value.
+
+When we read, another person thinks for us: we merely repeat his mental
+process. In learning to write, the pupil goes over with his pen what the
+teacher has outlined in pencil: so in reading; the greater part of the
+work of thought is already done for us. This is why it relieves us to
+take up a book after being occupied with our own thoughts. And in
+reading, the mind is, in fact, only the playground of another's
+thoughts. So it comes about that if anyone spends almost the whole day
+in reading, and by way of relaxation devotes the intervals to some
+thoughtless pastime, he gradually loses the capacity for thinking; just
+as the man who always rides, at last forgets how to walk. This is the
+case with many learned persons: they have read themselves stupid. For to
+occupy every spare moment in reading, and to do nothing but read, is
+even more paralyzing to the mind than constant manual labor, which at
+least allows those engaged in it to follow their own thoughts. A spring
+never free from the pressure of some foreign body at last loses its
+elasticity; and so does the mind if other people's thoughts are
+constantly forced upon it. Just as you can ruin the stomach and impair
+the whole body by taking too much nourishment, so you can overfill and
+choke the mind by feeding it too much. The more you read, the fewer are
+the traces left by what you have read: the mind becomes like a tablet
+crossed over and over with writing. There is no time for ruminating, and
+in no other way can you assimilate what you have read. If you read on
+and on without setting your own thoughts to work, what you have read can
+not strike root, and is generally lost. It is, in fact, just the same
+with mental as with bodily food: hardly the fifth part of what one takes
+is assimilated. The rest passes off in evaporation, respiration and the
+like.
+
+The result of all this is that thoughts put on paper are nothing more
+than footsteps in the sand: you see the way the man has gone, but to
+know what he saw on his walk, you want his eyes.
+
+There is no quality of style that can be gained by reading writers who
+possess it; whether it be persuasiveness, imagination, the gift of
+drawing comparisons, boldness, bitterness, brevity, grace, ease of
+expression or wit, unexpected contrasts, a laconic or naive manner, and
+the like. But if these qualities are already in us, exist, that is to
+say, potentially, we can call them forth and bring them to
+consciousness; we can learn the purposes to which they can be put; we
+can be strengthened in our inclination to use them, or get courage to do
+so; we can judge by examples the effect of applying them, and so acquire
+the correct use of them; and of course it is only when we have arrived
+at that point that we actually possess these qualities. The only way in
+which reading can form style is by teaching us the use to which we can
+put our own natural gifts. We must have these gifts before we begin to
+learn the use of them. Without them, reading teaches us nothing but
+cold, dead mannerisms and makes us shallow imitators.
+
+The strata of the earth preserve in rows the creatures which lived in
+former ages; and the array of books on the shelves of a library stores
+up in like manner the errors of the past and the way in which they have
+been exposed. Like those creatures, they too were full of life in their
+time, and made a great deal of noise; but now they are stiff and
+fossilized, and an object of curiosity to the literary palaeontologist
+alone.
+
+Herodotus relates that Xerxes wept at the sight of his army, which
+stretched further than the eye could reach, in the thought that of all
+these, after a hundred years, not one would be alive. And in looking
+over a huge catalogue of new books, one might weep at thinking that,
+when ten years have passed, not one of them will be heard of.
+
+It is in literature as in life: wherever you turn, you stumble at once
+upon the incorrigible mob of humanity, swarming in all directions,
+crowding and soiling everything, like flies in summer. Hence the number,
+which no man can count, of bad books, those rank weeds of literature,
+which draw nourishment from the corn and choke it. The time, money and
+attention of the public, which rightfully belong to good books and their
+noble aims, they take for themselves: they are written for the mere
+purpose of making money or procuring places. So they are not only
+useless; they do positive mischief. Nine-tenths of the whole of our
+present literature has no other aim than to get a few shillings out of
+the pockets of the public; and to this end author, publisher and
+reviewer are in league.
+
+Let me mention a crafty and wicked trick, albeit a profitable and
+successful one, practised by litterateurs, hack writers, and voluminous
+authors. In complete disregard of good taste and the true culture of the
+period, they have succeeded in getting the whole of the world of fashion
+into leading strings, so that they are all trained to read in time, and
+all the same thing, viz., _the newest books_; and that for the purpose
+of getting food for conversation in the circles in which they move. This
+is the aim served by bad novels, produced by writers who were once
+celebrated, as Spindler, Bulwer Lytton, Eugene Sue. What can be more
+miserable than the lot of a reading public like this, always bound to
+peruse the latest works of extremely commonplace persons who write for
+money only, and who are therefore never few in number? and for this
+advantage they are content to know by name only the works of the few
+superior minds of all ages and all countries. Literary newspapers, too,
+are a singularly cunning device for robbing the reading public of the
+time which, if culture is to be attained, should be devoted to the
+genuine productions of literature, instead of being occupied by the
+daily bungling commonplace persons.
+
+Hence, in regard to reading, it is a very important thing to be able to
+refrain. Skill in doing so consists in not taking into one's hands any
+book merely because at the time it happens to be extensively read; such
+as political or religious pamphlets, novels, poetry, and the like, which
+make a noise, and may even attain to several editions in the first and
+last year of their existence. Consider, rather, that the man who writes
+for fools is always sure of a large audience; be careful to limit your
+time for reading, and devote it exclusively to the works of those great
+minds of all times and countries, who o'ertop the rest of humanity,
+those whom the voice of fame points to as such. These alone really
+educate and instruct. You can never read bad literature too little, nor
+good literature too much. Bad books are intellectual poison; they
+destroy the mind. Because people always read what is new instead of the
+best of all ages, writers remain in the narrow circle of the ideas which
+happen to prevail in their time; and so the period sinks deeper and
+deeper into its own mire.
+
+There are at all times two literatures in progress, running side by
+side, but little known to each other; the one real, the other only
+apparent. The former grows into permanent literature; it is pursued by
+those who live _for_ science or poetry; its course is sober and quiet,
+but extremely slow; and it produces in Europe scarcely a dozen works in
+a century; these, however, are permanent. The other kind is pursued by
+persons who live _on_ science or poetry; it goes at a gallop with much
+noise and shouting of partisans; and every twelve-month puts a thousand
+works on the market. But after a few years one asks, Where are they?
+where is the glory which came so soon and made so much clamor? This kind
+may be called fleeting, and the other, permanent literature.
+
+In the history of politics, half a century is always a considerable
+time; the matter which goes to form them is ever on the move; there is
+always something going on. But in the history of literature there is
+often a complete standstill for the same period; nothing has happened,
+for clumsy attempts don't count. You are just where you were fifty years
+previously.
+
+To explain what I mean, let me compare the advance of knowledge among
+mankind to the course taken by a planet. The false paths on which
+humanity usually enters after every important advance are like the
+epicycles in the Ptolemaic system, and after passing through one of
+them, the world is just where it was before it entered it. But the great
+minds, who really bring the race further on its course do not accompany
+it on the epicycles it makes from time to time. This explains why
+posthumous fame is often bought at the expense of contemporary praise,
+and _vice versa_. An instance of such an epicycle is the philosophy
+started by Fichte and Schelling, and crowned by Hegel's caricature of
+it. This epicycle was a deviation from the limit to which philosophy had
+been ultimately brought by Kant; and at that point I took it up again
+afterwards, to carry it further. In the intervening period the sham
+philosophers I have mentioned and some others went through their
+epicycle, which had just come to an end; so that those who went with
+them on their course are conscious of the fact that they are exactly at
+the point from which they started.
+
+This circumstance explains why it is that, every thirty years or so,
+science, literature, and art, as expressed in the spirit of the time,
+are declared bankrupt. The errors which appear from time to time amount
+to such a height in that period that the mere weight of their absurdity
+makes the fabric fall; whilst the opposition to them has been gathering
+force at the same time. So an upset takes place, often followed by an
+error in the opposite direction. To exhibit these movements in their
+periodical return would be the true practical aim of the history of
+literature: little attention, however, is paid to it. And besides, the
+comparatively short duration of these periods makes it difficult to
+collect the data of epochs long gone by, so that it is most convenient
+to observe how the matter stands in one's own generation. An instance of
+this tendency, drawn from physical science, is supplied in the Neptunian
+geology of Werter.
+
+But let me keep strictly to the example cited above, the nearest we can
+take. In German philosophy, the brilliant epoch of Kant was immediately
+followed by a period which aimed rather at being imposing than at
+convincing. Instead of being thorough and clear, it tried to be
+dazzling, hyperbolical, and, in a special degree, unintelligible:
+instead of seeking truth, it intrigued. Philosophy could make no
+progress in this fashion; and at last the whole school and its method
+became bankrupt. For the effrontery of Hegel and his fellows came to
+such a pass,--whether because they talked such sophisticated nonsense,
+or were so unscrupulously puffed, or because the entire aim of this
+pretty piece of work was quite obvious,--that in the end there was
+nothing to prevent charlatanry of the whole business from becoming
+manifest to everybody: and when, in consequence of certain disclosures,
+the favor it had enjoyed in high quarters was withdrawn, the system was
+openly ridiculed. This most miserable of all the meagre philosophies
+that have ever existed came to grief, and dragged down with it into the
+abysm of discredit, the systems of Fichte and Schelling which had
+preceded it. And so, as far as Germany is concerned, the total
+philosophical incompetence of the first half of the century following
+upon Kant is quite plain: and still the Germans boast of their talent
+for philosophy in comparison with foreigners, especially since an
+English writer has been so maliciously ironical as to call them "a
+nation of thinkers."
+
+For an example of the general system of epicycles drawn from the history
+of art, look at the school of sculpture which flourished in the last
+century and took its name from Bernini, more especially at the
+development of it which prevailed in France. The ideal of this school
+was not antique beauty, but commonplace nature: instead of the
+simplicity and grace of ancient art, it represented the manners of a
+French minuet.
+
+This tendency became bankrupt when, under Winkelman's direction, a
+return was made to the antique school. The history of painting furnishes
+an illustration in the first quarter of the century, when art was looked
+upon merely as a means and instrument of mediaeval religious sentiment,
+and its themes consequently drawn from ecclesiastical subjects alone:
+these, however, were treated by painters who had none of the true
+earnestness of faith, and in their delusion they followed Francesco
+Francia, Pietro Perugino, Angelico da Fiesole and others like them,
+rating them higher even than the really great masters who followed. It
+was in view of this terror, and because in poetry an analogous aim had
+at the same time found favor, that Goethe wrote his parable
+_Pfaffenspiel_. This school, too, got the reputation of being whimsical,
+became bankrupt, and was followed by a return to nature, which
+proclaimed itself in _genre_ pictures and scenes of life of every kind,
+even though it now and then strayed into what was vulgar.
+
+The progress of the human mind in literature is similar. The history of
+literature is for the most part like the catalogue of a museum of
+deformities; the spirit in which they keep best is pigskin. The few
+creatures that have been born in goodly shape need not be looked for
+there. They are still alive, and are everywhere to be met with in the
+world, immortal, and with their years ever green. They alone form what I
+have called real literature; the history of which, poor as it is in
+persons, we learn from our youth up out of the mouths of all educated
+people, before compilations recount it for us.
+
+As an antidote to the prevailing monomania for reading literary
+histories, in order to be able to chatter about everything, without
+having any real knowledge at all, let me refer to a passage in
+Lichtenberg's works (vol. II., p. 302), which is well worth perusal.
+
+I believe that the over-minute acquaintance with the history of science
+and learning, which is such a prevalent feature of our day, is very
+prejudicial to the advance of knowledge itself. There is pleasure in
+following up this history; but as a matter of fact, it leaves the mind,
+not empty indeed, but without any power of its own, just because it
+makes it so full. Whoever has felt the desire, not to fill up his mind,
+but to strengthen it, to develop his faculties and aptitudes, and
+generally, to enlarge his powers, will have found that there is nothing
+so weakening as intercourse with a so-called litterateur, on a matter of
+knowledge on which he has not thought at all, though he knows a thousand
+little facts appertaining to its history and literature. It is like
+reading a cookery-book when you are hungry. I believe that so-called
+literary history will never thrive amongst thoughtful people, who are
+conscious of their own worth and the worth of real knowledge. These
+people are more given to employing their own reason than to troubling
+themselves to know how others have employed theirs. The worst of it is
+that, as you will find, the more knowledge takes the direction of
+literary research, the less the power of promoting knowledge becomes;
+the only thing that increases is pride in the possession of it. Such
+persons believe that they possess knowledge in a greater degree than
+those who really possess it. It is surely a well-founded remark, that
+knowledge never makes its possessor proud. Those alone let themselves be
+blown out with pride, who incapable of extending knowledge in their own
+persons, occupy themselves with clearing up dark points in its history,
+or are able to recount what others have done. They are proud, because
+they consider this occupation, which is mostly of a mechanical nature,
+the practice of knowledge. I could illustrate what I mean by examples,
+but it would be an odious task.
+
+Still, I wish some one would attempt a _tragical_ history of literature,
+giving the way in which the writers and artists, who form the proudest
+possession of the various nations which have given them birth, have been
+treated by them during their lives. Such a history would exhibit the
+ceaseless warfare, which what was good and genuine in all times and
+countries has had to wage with what was bad and perverse. It would tell
+of the martyrdom of almost all those who truly enlightened humanity, of
+almost all the great masters of every kind of art: it would show us how,
+with few exceptions, they were tormented to death, without recognition,
+without sympathy, without followers; how they lived in poverty and
+misery, whilst fame, honor, and riches, were the lot of the unworthy;
+how their fate was that of Esau, who while he was hunting and getting
+venison for his father, was robbed of the blessing by Jacob, disguised
+in his brother's clothes, how, in spite of all, they were kept up by the
+love of their work, until at last the bitter fight of the teacher of
+humanity is over, until the immortal laurel is held out to him, and the
+hour strikes when it can be said:
+
+  Der sehwere Panzer wird zum Fluegelkleide
+  Kurz ist der Schmerz, unendlich ist die Freude.
+
+
+
+
+PHYSIOGNOMY.
+
+
+That the outer man is a picture of the inner, and the face an expression
+and revelation of the whole character, is a presumption likely enough in
+itself, and therefore a safe one to go by; evidenced as it is by the
+fact that people are always anxious to see anyone who has made himself
+famous by good or evil, or as the author of some extraordinary work; or
+if they cannot get a sight of him, to hear at any rate from others what
+he looks like. So people go to places where they may expect to see the
+person who interests them; the press, especially in England, endeavors
+to give a minute and striking description of his appearance; painters
+and engravers lose no time in putting him visibly before us; and finally
+photography, on that very account of such high value, affords the most
+complete satisfaction of our curiosity. It is also a fact that in
+private life everyone criticises the physiognomy of those he comes
+across, first of all secretly trying to discern their intellectual and
+moral character from their features. This would be a useless proceeding
+if, as some foolish people fancy, the exterior of a man is a matter of
+no account; if, as they think, the soul is one thing and the body
+another, and the body related to the soul merely as the coat to the man
+himself.
+
+On the contrary, every human face is a hieroglyphic, and a hieroglyphic,
+too, which admits of being deciphered, the alphabet of which we carry
+about with us already perfected. As a matter of fact, the face of a man
+gives us a fuller and more interesting information than his tongue; for
+his face is the compendium of all he will ever say, as it is the one
+record of all his thoughts and endeavors. And, moreover, the tongue
+tells the thought of one man only, whereas the face expresses a thought
+of nature itself: so that everyone is worth attentive observation, even
+though everyone may not be worth talking to. And if every individual is
+worth observation as a single thought of nature, how much more so is
+beauty, since it is a higher and more general conception of nature, is,
+in fact, her thought of a species. This is why beauty is so captivating:
+it is a fundamental thought of nature: whereas the individual is only a
+by-thought, a corollary.
+
+In private, people always proceed upon the principle that a man is what
+he looks; and the principle is a right one, only the difficulty lies in
+its application. For though the art of applying the principle is partly
+innate and may be partly gained by experience, no one is a master of it,
+and even the most experienced is not infallible. But for all that,
+whatever Figaro may say, it is not the face which deceives; it is we who
+deceive ourselves in reading in it what is not there.
+
+The deciphering of a face is certainly a great and difficult art, and
+the principles of it can never be learnt in the abstract. The first
+condition of success is to maintain a purely objective point of view,
+which is no easy matter. For, as soon as the faintest trace of anything
+subjective is present, whether dislike or favor, or fear or hope, or
+even the thought of the impression we ourselves are making upon the
+object of our attention the characters we are trying to decipher become
+confused and corrupt. The sound of a language is really appreciated only
+by one who does not understand it, and that because, in thinking of the
+signification of a word, we pay no regard to the sign itself. So, in the
+same way, a physiognomy is correctly gauged only by one to whom it is
+still strange, who has not grown accustomed to the face by constantly
+meeting and conversing with the man himself. It is, therefore, strictly
+speaking, only the first sight of a man which affords that purely
+objective view which is necessary for deciphering his features. An odor
+affects us only when we first come in contact with it, and the first
+glass of wine is the one which gives us its true taste: in the same way,
+it is only at the first encounter that a face makes its full impression
+upon us. Consequently the first impression should be carefully attended
+to and noted, even written down if the subject of it is of personal
+importance, provided, of course, that one can trust one's own sense of
+physiognomy. Subsequent acquaintance and intercourse will obliterate the
+impression, but time will one day prove whether it is true.
+
+Let us, however, not conceal from ourselves the fact that this first
+impression is for the most part extremely unedifying. How poor most
+faces are! With the exception of those that are beautiful, good-natured,
+or intellectual, that is to say, the very few and far between, I believe
+a person of any fine feeling scarcely ever sees a new face without a
+sensation akin to a shock, for the reason that it presents a new and
+surprising combination of unedifying elements. To tell the truth, it is,
+as a rule, a sorry sight. There are some people whose faces bear the
+stamp of such artless vulgarity and baseness of character, such an
+animal limitation of intelligence, that one wonders how they can appear
+in public with such a countenance, instead of wearing a mask. There are
+faces, indeed, the very sight of which produces a feeling of pollution.
+One cannot, therefore, take it amiss of people, whose privileged
+position admits of it, if they manage to live in retirement and
+completely free from the painful sensation of "seeing new faces." The
+metaphysical explanation of this circumstance rests upon the
+consideration that the individuality of a man is precisely that by the
+very existence of which he should be reclaimed and corrected. If, on the
+other hand, a psychological explanation is satisfactory, let any one ask
+himself what kind of physiognomy he may expect in those who have all
+their life long, except on the rarest occasions, harbored nothing but
+petty, base and miserable thoughts, and vulgar, selfish, envious, wicked
+and malicious desires. Every one of these thoughts and desires has set
+its mark upon the face during the time it lasted, and by constant
+repetition, all these marks have in course of time become furrows and
+blotches, so to speak. Consequently, most people's appearance is such as
+to produce a shock at first sight; and it is only gradually that one
+gets accustomed to it, that is to say, becomes so deadened to the
+impression that it has no more effect on one.
+
+And that the prevailing facial expression is the result of a long
+process of innumerable, fleeting and characteristic contractions of the
+features is just the reason why intellectual countenances are of gradual
+formation. It is, indeed, only in old age that intellectual men attain
+their sublime expression, whilst portraits of them in their youth show
+only the first traces of it. But on the other hand, what I have just
+said about the shock which the first sight of a face generally produces,
+is in keeping with the remark that it is only at that first sight that
+it makes its true and full impression. For to get a purely objective and
+uncorrupted impression of it, we must stand in no kind of relation to
+the person; if possible, we must not yet have spoken with him. For every
+conversation places us to some extent upon a friendly footing,
+establishes a certain _rapport_, a mutual subjective relation, which is
+at once unfavorable to an objective point of view. And as everyone's
+endeavor is to win esteem or friendship for himself, the man who is
+under observation will at once employ all those arts of dissimulation in
+which he is already versed, and corrupt us with his airs, hypocrisies
+and flatteries; so that what the first look clearly showed will soon be
+seen by us no more.
+
+This fact is at the bottom of the saying that "most people gain by
+further acquaintance"; it ought, however, to run, "delude us by it." It
+is only when, later on, the bad qualities manifest themselves, that our
+first judgment as a rule receives its justification and makes good its
+scornful verdict. It may be that "a further acquaintance" is an
+unfriendly one, and if that is so, we do not find in this case either
+that people gain by it. Another reason why people apparently gain on a
+nearer acquaintance is that the man whose first aspect warns us from
+him, as soon as we converse with him, no longer shows his own being and
+character, but also his education; that is, not only what he really is
+by nature, but also what he has appropriated to himself out of the
+common wealth of mankind. Three-fourths of what he says belongs not to
+him, but to the sources from which he obtained it; so that we are often
+surprised to hear a minotaur speak so humanly. If we make a still closer
+acquaintance, the animal nature, of which his face gave promise, will
+manifest itself "in all its splendor." If one is gifted with an acute
+sense for physiognomy, one should take special note of those verdicts
+which preceded a closer acquaintance and were therefore genuine. For the
+face of a man is the exact impression of what he is; and if he deceives
+us, that is our fault, not his. What a man says, on the other hand, is
+what he thinks, more often what he has learned, or it may be even, what
+he pretends to think. And besides this, when we talk to him, or even
+hear him talking to others, we pay no attention to his physiognomy
+proper. It is the underlying substance, the fundamental _datum_, and we
+disregard it; what interests us is its pathognomy, its play of feature
+during conversation. This, however, is so arranged as to turn the good
+side upwards.
+
+When Socrates said to a young man who was introduced to him to have his
+capabilities tested, "Talk in order that I may see you," if indeed by
+"seeing" he did not simply mean "hearing," he was right, so far as it is
+only in conversation that the features and especially the eyes become
+animated, and the intellectual resources and capacities set their mark
+upon the countenance. This puts us in a position to form a provisional
+notion of the degree and capacity of intelligence; which was in that
+case Socrates' aim. But in this connection it is to be observed,
+firstly, that the rule does not apply to moral qualities, which lie
+deeper, and in the second place, that what from an objective point of
+view we gain by the clearer development of the countenance in
+conversation, we lose from a subjective standpoint on account of the
+personal relation into which the speaker at once enters in regard to us,
+and which produces a slight fascination, so that, as explained above, we
+are not left impartial observers. Consequently from the last point of
+view we might say with greater accuracy, "Do not speak in order that I
+may see you."
+
+For to get a pure and fundamental conception of a man's physiognomy, we
+must observe him when he is alone and left to himself. Society of any
+kind and conversation throw a reflection upon him which is not his own,
+generally to his advantage; as he is thereby placed in a state of action
+and reaction which sets him off. But alone and left to himself, plunged
+in the depths of his own thoughts and sensations, he is wholly himself,
+and a penetrating eye for physiognomy can at one glance take a general
+view of his entire character. For his face, looked at by and in itself,
+expresses the keynote of all his thoughts and endeavors, the _arret
+irrevocable_, the irrevocable decree of his destiny, the consciousness
+of which only comes to him when he is alone.
+
+The study of physiognomy is one of the chief means of a knowledge of
+mankind, because the cast of a man's face is the only sphere in which
+his arts of dissimulation are of no avail, since these arts extended
+only to that play of feature which is akin to mimicry. And that is why I
+recommend such a study to be undertaken when the subject of it is alone
+and given up to his own thoughts, and before he is spoken to: and this
+partly for the reason that it is only in such a condition that
+inspection of the physiognomy pure and simple is possible, because
+conversation at once lets in a pathognomical element, in which a man can
+apply the arts of dissimulation which he has learned: partly again
+because personal contact, even of the very slightest kind, gives a
+certain bias and so corrupts the judgment of the observer.
+
+And in regard to the study of physiognomy in general, it is further to
+be observed that intellectual capacity is much easier of discernment
+than moral character. The former naturally takes a much more outward
+direction, and expresses itself not only in the face and the play of
+feature, but also in the gait, down even to the very slightest movement.
+One could perhaps discriminate from behind between a blockhead, a fool
+and a man of genius. The blockhead would be discerned by the torpidity
+and sluggishness of all his movements: folly sets its mark upon every
+gesture, and so does intellect and a studious nature. Hence that remark
+of La Bruyere that there is nothing so slight, so simple or
+imperceptible but that our way of doing it enters in and betrays us: a
+fool neither comes nor goes, nor sits down, nor gets up, nor holds his
+tongue, nor moves about in the same way as an intelligent man. (And this
+is, be it observed by way of parenthesis, the explanation of that sure
+and certain instinct which, according to Helvetius, ordinary folk
+possess of discerning people of genius, and of getting out of their
+way.)
+
+The chief reason for this is that, the larger and more developed the
+brain, and the thinner, in relation to it, the spine and nerves, the
+greater is the intellect; and not the intellect alone, but at the same
+time the mobility and pliancy of all the limbs; because the brain
+controls them more immediately and resolutely; so that everything hangs
+more upon a single thread, every movement of which gives a precise
+expression to its purpose.
+
+This is analogous to, nay, is immediately connected with the fact that
+the higher an animal stands in the scale of development, the easier it
+becomes to kill it by wounding a single spot. Take, for example,
+batrachia: they are slow, cumbrous and sluggish in their movements; they
+are unintelligent, and, at the same time, extremely tenacious of life;
+the reason of which is that, with a very small brain, their spine and
+nerves are very thick. Now gait and movement of the arms are mainly
+functions of the brain; our limbs receive their motion and every little
+modification of it from the brain through the medium of the spine.
+
+This is why conscious movements fatigue us: the sensation of fatigue,
+like that of pain, has its seat in the brain, not, as people commonly
+suppose, in the limbs themselves; hence motion induces sleep.
+
+On the other hand those motions which are not excited by the brain, that
+is, the unconscious movements of organic life, of the heart, of the
+lungs, etc., go on in their course without producing fatigue. And as
+thought, equally with motion, is a function of the brain, the character
+of the brain's activity is expressed equally in both, according to the
+constitution of the individual; stupid people move like lay-figures,
+while every joint of an intelligent man is eloquent.
+
+But gesture and movement are not nearly so good an index of intellectual
+qualities as the face, the shape and size of the brain, the contraction
+and movement of the features, and above all the eye,--from the small,
+dull, dead-looking eye of a pig up through all gradations to the
+irradiating, flashing eyes of a genius.
+
+The look of good sense and prudence, even of the best kind, differs from
+that of genius, in that the former bears the stamp of subjection to the
+will, while the latter is free from it.
+
+And therefore one can well believe the anecdote told by Squarzafichi in
+his life of Petrarch, and taken from Joseph Brivius, a contemporary of
+the poet, how once at the court of the Visconti, when Petrarch and other
+noblemen and gentlemen were present, Galeazzo Visconti told his son, who
+was then a mere boy (he was afterwards first Duke of Milan), to pick out
+the wisest of the company; how the boy looked at them all for a little,
+and then took Petrarch by the hand and led him up to his father, to the
+great admiration of all present. For so clearly does nature set the mark
+of her dignity on the privileged among mankind that even a child can
+discern it.
+
+Therefore, I should advise my sagacious countrymen, if ever again they
+wish to trumpet about for thirty years a very commonplace person as a
+great genius, not to choose for the purpose such a beerhouse-keeper
+physiognomy as was possessed by that philosopher, upon whose face nature
+had written, in her clearest characters, the familiar inscription,
+"commonplace person."
+
+But what applies to intellectual capacity will not apply to moral
+qualities, to character. It is more difficult to discern its
+physiognomy, because, being of a metaphysical nature, it lies
+incomparably deeper.
+
+It is true that moral character is also connected with the constitution,
+with the organism, but not so immediately or in such direct connection
+with definite parts of its system as is intellectual capacity.
+
+Hence while everyone makes a show of his intelligence and endeavors to
+exhibit it at every opportunity, as something with which he is in
+general quite contented, few expose their moral qualities freely, and
+most people intentionally cover them up; and long practice makes the
+concealment perfect. In the meantime, as I explained above, wicked
+thoughts and worthless efforts gradually set their mask upon the face,
+especially the eyes. So that, judging by physiognomy, it is easy to
+warrant that a given man will never produce an immortal work; but not
+that he will never commit a great crime.
+
+
+
+
+PSYCHOLOGICAL OBSERVATIONS.
+
+
+For every animal, and more especially for man, a certain conformity and
+proportion between the will and the intellect is necessary for existing
+or making any progress in the world. The more precise and correct the
+proportion which nature establishes, the more easy, safe and agreeable
+will be the passage through the world. Still, if the right point is only
+approximately reached, it will be enough to ward off destruction. There
+are, then, certain limits within which the said proportion may vary, and
+yet preserve a correct standard of conformity. The normal standard is as
+follows. The object of the intellect is to light and lead the will on
+its path, and therefore, the greater the force, impetus and passion,
+which spurs on the will from within, the more complete and luminous must
+be the intellect which is attached to it, that the vehement strife of
+the will, the glow of passion, and the intensity of the emotions, may
+not lead man astray, or urge him on to ill considered, false or ruinous
+action; this will, inevitably, be the result, if the will is very
+violent and the intellect very weak. On the other hand, a phlegmatic
+character, a weak and languid will, can get on and hold its own with a
+small amount of intellect; what is naturally moderate needs only
+moderate support. The general tendency of a want of proportion between
+the will and the intellect, in other words, of any variation from the
+normal proportion I have mentioned, is to produce unhappiness, whether
+it be that the will is greater than the intellect, or the intellect
+greater than the will. Especially is this the case when the intellect is
+developed to an abnormal degree of strength and superiority, so as to be
+out of all proportion to the will, a condition which is the essence of
+real genius; the intellect is then not only more than enough for the
+needs and aims of life, it is absolutely prejudicial to them. The result
+is that, in youth, excessive energy in grasping the objective world,
+accompanied by a vivid imagination and a total lack of experience, makes
+the mind susceptible, and an easy prey to extravagant ideas, nay, even
+to chimeras; and the result is an eccentric and phantastic character.
+And when, in later years, this state of mind yields and passes away
+under the teaching of experience, still the genius never feels himself
+at home in the common world of every day and the ordinary business of
+life; he will never take his place in it, and accommodate himself to it
+as accurately as the person of moral intellect; he will be much more
+likely to make curious mistakes. For the ordinary mind feels itself so
+completely at home in the narrow circle of its ideas and views of the
+world that no one can get the better of it in that sphere; its faculties
+remain true to their original purpose, viz., to promote the service of
+the will; it devotes itself steadfastly to this end, and abjures
+extravagant aims. The genius, on the other hand, is at bottom a
+_monstrum per excessum_; just as, conversely, the passionate, violent
+and unintelligent man, the brainless barbarian, is a _monstrum per
+defectum_.
+
+       *       *       *       *       *
+
+_The will to live_, which forms the inmost core of every living being,
+exhibits itself most conspicuously in the higher order of animals, that
+is, the cleverer ones; and so in them the nature of the will may be seen
+and examined most clearly. For in the lower orders its activity is not
+so evident; it has a lower degree of objectivation; whereas, in the
+class which stands above the higher order of animals, that is, in men,
+reason enters in; and with reason comes discretion, and with discretion,
+the capacity of dissimulation, which throws a veil over the operations
+of the will. And in mankind, consequently, the will appears without its
+mask only in the affections and the passions. And this is the reason why
+passion, when it speaks, always wins credence, no matter what the
+passion may be; and rightly so. For the same reason the passions are the
+main theme of poets and the stalking horse of actors. The
+conspicuousness of the will in the lower order of animals explains the
+delight we take in dogs, apes, cats, etc.; it is the entirely naive way
+in which they express themselves that gives us so much pleasure.
+
+The sight of any free animal going about its business undisturbed,
+seeking its food, or looking after its young, or mixing in the company
+of its kind, all the time being exactly what it ought to be and can
+be,--what a strange pleasure it gives us! Even if it is only a bird, I
+can watch it for a long time with delight; or a water rat or a hedgehog;
+or better still, a weasel, a deer, or a stag. The main reason why we
+take so much pleasure in looking at animals is that we like to see our
+own nature in such a simplified form. There is only one mendacious being
+in the world, and that is man. Every other is true and sincere, and
+makes no attempt to conceal what it is, expressing its feelings just as
+they are.
+
+       *       *       *       *       *
+
+Many things are put down to the force of habit which are rather to be
+attributed to the constancy and immutability of original, innate
+character, according to which under like circumstances we always do the
+same thing: whether it happens for the first or the hundredth time, it
+is in virtue of the same necessity. Real force of habit, as a matter of
+fact, rests upon that indolent, passive disposition which seeks to
+relieve the intellect and the will of a fresh choice, and so makes us do
+what we did yesterday and have done a hundred times before, and of which
+we know that it will attain its object. But the truth of the matter lies
+deeper, and a more precise explanation of it can be given than appears
+at first sight. Bodies which may be moved by mechanical means only are
+subject to the power of inertia; and applied to bodies which may be
+acted on by motives, this power becomes the force of habit. The actions
+which we perform by mere habit come about, in fact, without any
+individual separate motive brought into play for the particular case:
+hence, in performing them, we really do not think about them. A motive
+was present only on the first few occasions on which the action
+happened, which has since become a habit: the secondary after-effect of
+this motive is the present habit, and it is sufficient to enable the
+action to continue: just as when a body had been set in motion by a
+push, it requires no more pushing in order to continue its motion; it
+will go on to all eternity, if it meets with no friction. It is the same
+in the case of animals: training is a habit which is forced upon them.
+The horse goes on drawing his cart quite contentedly, without having to
+be urged on: the motion is the continued effect of those strokes of the
+whip, which urged him on at first: by the law of inertia they have
+become perpetuated as habit. All this is really more than a mere
+parable: it is the underlying identity of the will at very different
+degrees of its objectivation, in virtue of which the same law of motion
+takes such different forms.
+
+       *       *       *       *       *
+
+_Vive muchos anos_ is the ordinary greeting in Spain, and all over the
+earth it is quite customary to wish people a long life. It is presumably
+not a knowledge of life which directs such a wish; it is rather
+knowledge of what man is in his inmost nature, _the will to live_.
+
+The wish which everyone has that he may be remembered after his
+death,--a wish which rises to the longing for posthumous glory in the
+case of those whose aims are high,--seems to me to spring from this
+clinging to life. When the time comes which cuts a man off from every
+possibility of real existence, he strives after a life which is still
+attainable, even though it be a shadowy and ideal one.
+
+       *       *       *       *       *
+
+The deep grief we feel at the loss of a friend arises from the feeling
+that in every individual there is something which no words can express,
+something which is peculiarly his own and therefore irreparable. _Omne
+individuum ineffabile_.
+
+       *       *       *       *       *
+
+We may come to look upon the death of our enemies and adversaries, even
+long after it has occurred, with just as much regret as we feel for that
+of our friends, viz., when we miss them as witnesses of our brilliant
+success.
+
+       *       *       *       *       *
+
+That the sudden announcement of a very happy event may easily prove
+fatal rests upon the fact that happiness and misery depend merely on the
+proportion which our claims bear to what we get. Accordingly, the good
+things we possess, or are certain of getting, are not felt to be such;
+because all pleasure is in fact of a negative nature and effects the
+relief of pain, while pain or evil is what is really positive; it is the
+object of immediate sensation. With the possession or certain
+expectation of good things our demands rises, and increases our capacity
+for further possession and larger expectations. But if we are depressed
+by continual misfortune, and our claims reduced to a minimum, the sudden
+advent of happiness finds no capacity for enjoying it. Neutralized by an
+absence of pre-existing claims, its effects are apparently positive, and
+so its whole force is brought into play; hence it may possibly break our
+feelings, _i.e._, be fatal to them. And so, as is well known, one must
+be careful in announcing great happiness. First, one must get the person
+to hope for it, then open up the prospect of it, then communicate part
+of it, and at last make it fully known. Every portion of the good news
+loses its efficacy, because it is anticipated by a demand, and room is
+left for an increase in it. In view of all this, it may be said that our
+stomach for good fortune is bottomless, but the entrance to it is
+narrow. These remarks are not applicable to great misfortunes in the
+same way. They are more seldom fatal, because hope always sets itself
+against them. That an analogous part is not played by fear in the case
+of happiness results from the fact that we are instinctively more
+inclined to hope than to fear; just as our eyes turn of themselves
+towards light rather than darkness.
+
+       *       *       *       *       *
+
+Hope is the result of confusing the desire that something should take
+place with the probability that it will. Perhaps no man is free from
+this folly of the heart, which deranges the intellect's correct
+appreciation of probability to such an extent that, if the chances are a
+thousand to one against it, yet the event is thought a likely one. Still
+in spite of this, a sudden misfortune is like a death stroke, whilst a
+hope that is always disappointed and still never dies, is like death by
+prolonged torture.
+
+He who has lost all hope has also lost all fear; this is the meaning of
+the expression "desperate." It is natural to a man to believe what he
+wishes to be true, and to believe it because he wishes it, If this
+characteristic of our nature, at once beneficial and assuaging, is
+rooted out by many hard blows of fate, and a man comes, conversely, to a
+condition in which he believes a thing must happen because he does not
+wish it, and what he wishes to happen can never be, just because he
+wishes it, this is in reality the state described as "desperation."
+
+       *       *       *       *       *
+
+That we are so often deceived in others is not because our judgment is
+at fault, but because in general, as Bacon says, _intellectus luminis
+sicci non est, sed recipit infusionem a voluntate et affectibus_: that
+is to say, trifles unconsciously bias us for or against a person from
+the very beginning. It may also be explained by our not abiding by the
+qualities which we really discover; we go on to conclude the presence of
+others which we think inseparable from them, or the absence of those
+which we consider incompatible. For instance, when we perceive
+generosity, we infer justice; from piety, we infer honesty; from lying,
+deception; from deception, stealing, etc.; a procedure which opens the
+door to many false views, partly because human nature is so strange,
+partly because our standpoint is so one-sided. It is true, indeed, that
+character always forms a consistent and connected whole; but the roots
+of all its qualities lie too deep to allow of our concluding from
+particular data in a given case whether certain qualities can or cannot
+exist together.
+
+       *       *       *       *       *
+
+We often happen to say things that may in some way or other be
+prejudicial to us; but we keep silent about things that might make us
+look ridiculous; because in this case effect follows very quickly on
+cause.
+
+       *       *       *       *       *
+
+The pain of an unfulfilled wish is small in comparison with that of
+repentance; for the one stands in the presence of the vast open future,
+whilst the other has the irrevocable past closed behind it.
+
+       *       *       *       *       *
+
+_Geduld, patientia_, patience, especially the Spanish _sufrimiento_, is
+strongly connected with the notion of _suffering_. It is therefore a
+passive state, just as the opposite is an active state of the mind, with
+which, when great, patience is incompatible. It is the innate virtue of
+a phlegmatic, indolent, and spiritless people, as also of women. But
+that it is nevertheless so very useful and necessary is a sign that the
+world is very badly constituted.
+
+       *       *       *       *       *
+
+Money is human happiness in the abstract: he, then, who is no longer
+capable of enjoying human happiness in the concrete, devotes his heart
+entirely to money.
+
+       *       *       *       *       *
+
+Obstinacy is the result of the will forcing itself into the place of the
+intellect.
+
+       *       *       *       *       *
+
+If you want to find out your real opinion of anyone, observe the
+impression made upon you by the first sight of a letter from him.
+
+       *       *       *       *       *
+
+The course of our individual life and the events in it, as far as their
+true meaning and connection is concerned, may be compared to a piece of
+rough mosaic. So long as you stand close in front of it, you cannot get
+a right view of the objects presented, nor perceive their significance
+or beauty. Both come in sight only when you stand a little way off. And
+in the same way you often understand the true connection of important
+events in your life, not while they are going on, nor soon after they
+are past, but only a considerable time afterwards.
+
+Is this so, because we require the magnifying effect of imagination? or
+because we can get a general view only from a distance? or because the
+school of experience makes our judgment ripe? Perhaps all of these
+together: but it is certain that we often view in the right light the
+actions of others, and occasionally even our own, only after the lapse
+of years. And as it is in one's own life, so it is in history.
+
+Happy circumstances in life are like certain groups of trees. Seen from
+a distance they look very well: but go up to them and amongst them, and
+the beauty vanishes; you don't know where it can be; it is only trees
+you see. And so it is that we often envy the lot of others.
+
+       *       *       *       *       *
+
+The doctor sees all the weakness of mankind, the lawyer all the
+wickedness, the theologian all the stupidity.
+
+       *       *       *       *       *
+
+A person of phlegmatic disposition who is a blockhead, would, with a
+sanguine nature, be a fool.
+
+       *       *       *       *       *
+
+Now and then one learns something, but one forgets the whole day long.
+
+Moreover our memory is like a sieve, the holes of which in time get
+larger and larger: the older we get, the quicker anything entrusted to
+it slips from the memory, whereas, what was fixed fast in it in early
+days is there still. The memory of an old man gets clearer and clearer,
+the further it goes back, and less clear the nearer it approaches the
+present time; so that his memory, like his eyes, becomes short-sighted.
+
+       *       *       *       *       *
+
+In the process of learning you may be apprehensive about bewildering and
+confusing the memory, but not about overloading it, in the strict sense
+of the word. The faculty for remembering is not diminished in proportion
+to what one has learnt, just as little as the number of moulds in which
+you cast sand, lessens its capacity for being cast in new moulds. In
+this sense the memory is bottomless. And yet the greater and more
+various any one's knowledge, the longer he takes to find out anything
+that may suddenly be asked him; because he is like a shopkeeper who has
+to get the article wanted from a large and multifarious store; or, more
+strictly speaking, because out of many possible trains of thought he has
+to recall exactly that one which, as a result of previous training,
+leads to the matter in question. For the memory is not a repository of
+things you wish to preserve, but a mere dexterity of the intellectual
+powers; hence the mind always contains its sum of knowledge only
+potentially, never actually.
+
+It sometimes happens that my memory will not reproduce some word in a
+foreign language, or a name, or some artistic expression, although I
+know it very well. After I have bothered myself in vain about it for a
+longer or a shorter time, I give up thinking about it altogether. An
+hour or two afterwards, in rare cases even later still, sometimes only
+after four or five weeks, the word I was trying to recall occurs to me
+while I am thinking of something else, as suddenly as if some one had
+whispered it to me. After noticing this phenomenon with wonder for very
+many years, I have come to think that the probable explanation of it is
+as follows. After the troublesome and unsuccessful search, my will
+retains its craving to know the word, and so sets a watch for it in the
+intellect. Later on, in the course and play of thought, some word by
+chance occurs having the same initial letters or some other resemblance
+to the word which is sought; then the sentinel springs forward and
+supplies what is wanting to make up the word, seizes it, and suddenly
+brings it up in triumph, without my knowing where and how he got it; so
+it seems as if some one had whispered it to me. It is the same process
+as that adopted by a teacher towards a child who cannot repeat a word;
+the teacher just suggests the first letter of the word, or even the
+second too; then the child remembers it. In default of this process, you
+can end by going methodically through all the letters of the alphabet.
+
+In the ordinary man, injustice rouses a passionate desire for vengeance;
+and it has often been said that vengeance is sweet. How many sacrifices
+have been made just to enjoy the feeling of vengeance, without any
+intention of causing an amount of injury equivalent to what one has
+suffered. The bitter death of the centaur Nessus was sweetened by the
+certainty that he had used his last moments to work out an extremely
+clever vengeance. Walter Scott expresses the same human inclination in
+language as true as it is strong: "Vengeance is the sweetest morsel to
+the mouth that ever was cooked in hell!" I shall now attempt a
+psychological explanation of it.
+
+Suffering which falls to our lot in the course of nature, or by chance,
+or fate, does not, _ceteris paribus_, seem so painful as suffering which
+is inflicted on us by the arbitrary will of another. This is because we
+look upon nature and chance as the fundamental masters of the world; we
+see that the blow we received from them might just as well have fallen
+on another. In the case of suffering which springs from this source, we
+bewail the common lot of humanity rather than our own misfortune. But
+that it is the arbitrary will of another which inflicts the suffering,
+is a peculiarly bitter addition to the pain or injury it causes, viz.,
+the consciousness that some one else is superior to us, whether by force
+or cunning, while we lie helpless. If amends are possible, amends heal
+the injury; but that bitter addition, "and it was you who did that to
+me," which is often more painful than the injury itself, is only to be
+neutralized by vengeance. By inflicting injury on the one who has
+injured us, whether we do it by force or cunning, is to show our
+superiority to him, and to annul the proof of his superiority to us.
+That gives our hearts the satisfaction towards which it yearns. So where
+there is a great deal of pride and vanity, there also will there be a
+great desire of vengeance. But as the fulfillment of every wish brings
+with it more or less of a sense of disappointment, so it is with
+vengeance. The delight we hope to get from it is mostly embittered by
+compassion. Vengeance taken will often tear the heart and torment the
+conscience: the motive to it is no longer active, and what remains is
+the evidence of our malice.
+
+
+
+
+THE CHRISTIAN SYSTEM.
+
+
+When the Church says that, in the dogmas of religion, reason is totally
+incompetent and blind, and its use to be reprehended, it is in reality
+attesting the fact that these dogmas are allegorical in their nature,
+and are not to be judged by the standard which reason, taking all things
+_sensu proprio_, can alone apply. Now the absurdities of a dogma are
+just the mark and sign of what is allegorical and mythical in it. In the
+case under consideration, however, the absurdities spring from the fact
+that two such heterogeneous doctrines as those of the Old and New
+Testaments had to be combined. The great allegory was of gradual growth.
+Suggested by external and adventitious circumstances, it was developed
+by the interpretation put upon them, an interpretation in quiet touch
+with certain deep-lying truths only half realized. The allegory was
+finally completed by Augustine, who penetrated deepest into its meaning,
+and so was able to conceive it as a systematic whole and supply its
+defects. Hence the Augustinian doctrine, confirmed by Luther, is the
+complete form of Christianity; and the Protestants of to-day, who take
+Revelation _sensu proprio_ and confine it to a single individual, are in
+error in looking upon the first beginnings of Christianity as its most
+perfect expression. But the bad thing about all religions is that,
+instead of being able to confess their allegorical nature, they have to
+conceal it; accordingly, they parade their doctrine in all seriousness
+as true _sensu proprio_, and as absurdities form an essential part of
+these doctrines, you have the great mischief of a continual fraud. And,
+what is worse, the day arrives when they are no longer true _sensu
+proprio_, and then there is an end of them; so that, in that respect, it
+would be better to admit their allegorical nature at once. But the
+difficulty is to teach the multitude that something can be both true and
+untrue at the same time. And as all religions are in a greater or less
+degree of this nature, we must recognize the fact that mankind cannot
+get on without a certain amount of absurdity, that absurdity is an
+element in its existence, and illusion indispensable; as indeed other
+aspects of life testify. I have said that the combination of the Old
+Testament with the New gives rise to absurdities. Among the examples
+which illustrate what I mean, I may cite the Christian doctrine of
+Predestination and Grace, as formulated by Augustine and adopted from
+him by Luther; according to which one man is endowed with grace and
+another is not. Grace, then, comes to be a privilege received at birth
+and brought ready into the world; a privilege, too, in a matter second
+to none in importance. What is obnoxious and absurd in this doctrine may
+be traced to the idea contained in the Old Testament, that man is the
+creation of an external will, which called him into existence out of
+nothing. It is quite true that genuine moral excellence is really
+innate; but the meaning of the Christian doctrine is expressed in
+another and more rational way by the theory of metempsychosis, common to
+Brahmans and Buddhists. According to this theory, the qualities which
+distinguish one man from another are received at birth, are brought,
+that is to say, from another world and a former life; these qualities
+are not an external gift of grace, but are the fruits of the acts
+committed in that other world. But Augustine's dogma of Predestination
+is connected with another dogma, namely, that the mass of humanity is
+corrupt and doomed to eternal damnation, that very few will be found
+righteous and attain salvation, and that only in consequence of the gift
+of grace, and because they are predestined to be saved; whilst the
+remainder will be overwhelmed by the perdition they have deserved, viz.,
+eternal torment in hell. Taken in its ordinary meaning, the dogma is
+revolting, for it comes to this: it condemns a man, who may be, perhaps,
+scarcely twenty years of age, to expiate his errors, or even his
+unbelief, in everlasting torment; nay, more, it makes this almost
+universal damnation the natural effect of original sin, and therefore
+the necessary consequence of the Fall. This is a result which must have
+been foreseen by him who made mankind, and who, in the first place, made
+them not better than they are, and secondly, set a trap for them into
+which he must have known they would fall; for he made the whole world,
+and nothing is hidden from him. According to this doctrine, then, God
+created out of nothing a weak race prone to sin, in order to give them
+over to endless torment. And, as a last characteristic, we are told that
+this God, who prescribes forbearance and forgiveness of every fault,
+exercises none himself, but does the exact opposite; for a punishment
+which comes at the end of all things, when the world is over and done
+with, cannot have for its object either to improve or deter, and is
+therefore pure vengeance. So that, on this view, the whole race is
+actually destined to eternal torture and damnation, and created
+expressly for this end, the only exception being those few persons who
+are rescued by election of grace, from what motive one does not know.
+
+Putting these aside, it looks as if the Blessed Lord had created the
+world for the benefit of the devil! it would have been so much better
+not to have made it at all. So much, then, for a dogma taken _sensu
+proprio_. But look at it _sensu allegorico_, and the whole matter
+becomes capable of a satisfactory interpretation. What is absurd and
+revolting in this dogma is, in the main, as I said, the simple outcome
+of Jewish theism, with its "creation out of nothing," and really foolish
+and paradoxical denial of the doctrine of metempsychosis which is
+involved in that idea, a doctrine which is natural, to a certain extent
+self-evident, and, with the exception of the Jews, accepted by nearly
+the whole human race at all times. To remove the enormous evil arising
+from Augustine's dogma, and to modify its revolting nature, Pope Gregory
+I., in the sixth century, very prudently matured the doctrine of
+_Purgatory_, the essence of which already existed in Origen (cf. Bayle's
+article on Origen, note B.). The doctrine was regularly incorporated
+into the faith of the Church, so that the original view was much
+modified, and a certain substitute provided for the doctrine of
+metempsychosis; for both the one and the other admit a process of
+purification. To the same end, the doctrine of "the Restoration of all
+things" [Greek: apokatastasis] was established, according to which, in
+the last act of the Human Comedy, the sinners one and all will be
+reinstated _in integrum_. It is only Protestants, with their obstinate
+belief in the Bible, who cannot be induced to give up eternal punishment
+in hell. If one were spiteful, one might say, "much good may it do
+them," but it is consoling to think that they really do not believe the
+doctrine; they leave it alone, thinking in their hearts, "It can't be so
+bad as all that."
+
+The rigid and systematic character of his mind led Augustine, in his
+austere dogmatism and his resolute definition of doctrines only just
+indicated in the Bible and, as a matter of fact, resting on very vague
+grounds, to give hard outlines to these doctrines and to put a harsh
+construction on Christianity: the result of which is that his views
+offend us, and just as in his day Pelagianism arose to combat them, so
+now in our day Rationalism does the same. Take, for example, the case as
+he states it generally in the _De Civitate Dei_, Bk. xii. ch. 21. It
+comes to this: God creates a being out of nothing, forbids him some
+things, and enjoins others upon him; and because these commands are not
+obeyed, he tortures him to all eternity with every conceivable anguish;
+and for this purpose, binds soul and body inseparably together, so that,
+instead, of the torment destroying this being by splitting him up into
+his elements, and so setting him free, he may live to eternal pain. This
+poor creature, formed out of nothing! At least, he has a claim on his
+original nothing: he should be assured, as a matter of right, of this
+last retreat, which, in any case, cannot be a very evil one: it is what
+he has inherited. I, at any rate, cannot help sympathizing with him. If
+you add to this Augustine's remaining doctrines, that all this does not
+depend on the man's own sins and omissions, but was already predestined
+to happen, one really is at a loss what to think. Our highly educated
+Rationalists say, to be sure, "It's all false, it's a mere bugbear;
+we're in a state of constant progress, step by step raising ourselves to
+ever greater perfection." Ah! what a pity we didn't begin sooner; we
+should already have been there.
+
+In the Christian system the devil is a personage of the greatest
+importance. God is described as absolutely good, wise and powerful; and
+unless he were counterbalanced by the devil, it would be impossible to
+see where the innumerable and measureless evils, which predominate in
+the world, come from, if there were no devil to account for them. And
+since the Rationalists have done away with the devil, the damage
+inflicted on the other side has gone on growing, and is becoming more
+and more palpable; as might have been foreseen, and was foreseen, by the
+orthodox. The fact is, you cannot take away one pillar from a building
+without endangering the rest of it. And this confirms the view, which
+has been established on other grounds, that Jehovah is a transformation
+of Ormuzd, and Satan of the Ahriman who must be taken in connection with
+him. Ormuzd himself is a transformation of Indra.
+
+Christianity has this peculiar disadvantage, that, unlike other
+religions, it is not a pure system of doctrine: its chief and essential
+feature is that it is a history, a series of events, a collection of
+facts, a statement of the actions and sufferings of individuals: it is
+this history which constitutes dogma, and belief in it is salvation.
+Other religions, Buddhism, for instance, have, it is true, historical
+appendages, the life, namely, of their founders: this, however, is not
+part and parcel of the dogma but is taken along with it. For example,
+the Lalitavistara may be compared with the Gospel so far as it contains
+the life of Sakya-muni, the Buddha of the present period of the world's
+history: but this is something which is quite separate and different
+from the dogma, from the system itself: and for this reason; the lives
+of former Buddhas were quite other, and those of the future will be
+quite other, than the life of the Buddha of to-day. The dogma is by no
+means one with the career of its founder; it does not rest on individual
+persons or events; it is something universal and equally valid at all
+times. The Lalitavistara is not, then, a gospel in the Christian sense
+of the word; it is not the joyful message of an act of redemption; it is
+the career of him who has shown how each one may redeem himself. The
+historical constitution of Christianity makes the Chinese laugh at
+missionaries as story-tellers.
+
+I may mention here another fundamental error of Christianity, an error
+which cannot be explained away, and the mischievous consequences of
+which are obvious every day: I mean the unnatural distinction
+Christianity makes between man and the animal world to which he really
+belongs. It sets up man as all-important, and looks upon animals as
+merely things. Brahmanism and Buddhism, on the other hand, true to the
+facts, recognize in a positive way that man is related generally to the
+whole of nature, and specially and principally to animal nature; and in
+their systems man is always represented by the theory of metempsychosis
+and otherwise, as closely connected with the animal world. The important
+part played by animals all through Buddhism and Brahmanism, compared
+with the total disregard of them in Judaism and Christianity, puts an
+end to any question as to which system is nearer perfection, however
+much we in Europe may have become accustomed to the absurdity of the
+claim. Christianity contains, in fact, a great and essential
+imperfection in limiting its precepts to man, and in refusing rights to
+the entire animal world. As religion fails to protect animals against
+the rough, unfeeling and often more than bestial multitude, the duty
+falls to the police; and as the police are unequal to the task,
+societies for the protection of animals are now formed all over Europe
+and America. In the whole of uncircumcised Asia, such a procedure would
+be the most superfluous thing in the world, because animals are there
+sufficiently protected by religion, which even makes them objects of
+charity. How such charitable feelings bear fruit may be seen, to take an
+example, in the great hospital for animals at Surat, whither Christians,
+Mohammedans and Jews can send their sick beasts, which, if cured, are
+very rightly not restored to their owners. In the same way when a
+Brahman or a Buddhist has a slice of good luck, a happy issue in any
+affair, instead of mumbling a _Te Deum_, he goes to the market-place and
+buys birds and opens their cages at the city gate; a thing which may be
+frequently seen in Astrachan, where the adherents of every religion meet
+together: and so on in a hundred similar ways. On the other hand, look
+at the revolting ruffianism with which our Christian public treats its
+animals; killing them for no object at all, and laughing over it, or
+mutilating or torturing them: even its horses, who form its most direct
+means of livelihood, are strained to the utmost in their old age, and
+the last strength worked out of their poor bones until they succumb at
+last under the whip. One might say with truth, Mankind are the devils of
+the earth, and the animals the souls they torment. But what can you
+expect from the masses, when there are men of education, zoologists
+even, who, instead of admitting what is so familiar to them, the
+essential identity of man and animal, are bigoted and stupid enough to
+offer a zealous opposition to their honest and rational colleagues, when
+they class man under the proper head as an animal, or demonstrate the
+resemblance between him and the chimpanzee or ourang-outang. It is a
+revolting thing that a writer who is so pious and Christian in his
+sentiments as Jung Stilling should use a simile like this, in his
+_Scenen aus dem Geisterreich_. (Bk. II. sc. i., p. 15.) "Suddenly the
+skeleton shriveled up into an indescribably hideous and dwarf-like form,
+just as when you bring a large spider into the focus of a burning glass,
+and watch the purulent blood hiss and bubble in the heat." This man of
+God then was guilty of such infamy! or looked on quietly when another
+was committing it! in either case it comes to the same thing here. So
+little harm did he think of it that he tells us of it in passing, and
+without a trace of emotion. Such are the effects of the first chapter of
+Genesis, and, in fact, of the whole of the Jewish conception of nature.
+The standard recognized by the Hindus and Buddhists is the Mahavakya
+(the great word),--"tat-twam-asi" (this is thyself), which may always be
+spoken of every animal, to keep us in mind of the identity of his inmost
+being with ours. Perfection of morality, indeed! Nonsense.
+
+The fundamental characteristics of the Jewish religion are realism and
+optimism, views of the world which are closely allied; they form, in
+fact, the conditions of theism. For theism looks upon the material world
+as absolutely real, and regards life as a pleasant gift bestowed upon
+us. On the other hand, the fundamental characteristics of the Brahman
+and Buddhist religions are idealism and pessimism, which look upon the
+existence of the world as in the nature of a dream, and life as the
+result of our sins. In the doctrines of the Zendavesta, from which, as
+is well known, Judaism sprang, the pessimistic element is represented by
+Ahriman. In Judaism, Ahriman has as Satan only a subordinate position;
+but, like Ahriman, he is the lord of snakes, scorpions, and vermin. But
+the Jewish system forthwith employs Satan to correct its fundamental
+error of optimism, and in the _Fall_ introduces the element of
+pessimism, a doctrine demanded by the most obvious facts of the world.
+There is no truer idea in Judaism than this, although it transfers to
+the course of existence what must be represented as its foundation and
+antecedent.
+
+The New Testament, on the other hand, must be in some way traceable to
+an Indian source: its ethical system, its ascetic view of morality, its
+pessimism, and its Avatar, are all thoroughly Indian. It is its morality
+which places it in a position of such emphatic and essential antagonism
+to the Old Testament, so that the story of the Fall is the only possible
+point of connection between the two. For when the Indian doctrine was
+imported into the land of promise, two very different things had to be
+combined: on the one hand the consciousness of the corruption and misery
+of the world, its need of deliverance and salvation through an Avatar,
+together with a morality based on self-denial and repentance; on the
+other hand the Jewish doctrine of Monotheism, with its corollary that
+"all things are very good" [Greek: panta kala lian]. And the task
+succeeded as far as it could, as far, that is, as it was possible to
+combine two such heterogeneous and antagonistic creeds.
+
+As ivy clings for the support and stay it wants to a rough-hewn post,
+everywhere conforming to its irregularities and showing their outline,
+but at the same time covering them with life and grace, and changing the
+former aspect into one that is pleasing to the eye; so the Christian
+faith, sprung from the wisdom of India, overspreads the old trunk of
+rude Judaism, a tree of alien growth; the original form must in part
+remain, but it suffers a complete change and becomes full of life and
+truth, so that it appears to be the same tree, but is really another.
+
+Judaism had presented the Creator as separated from the world, which he
+produced out of nothing. Christianity identifies this Creator with the
+Saviour, and through him, with humanity: he stands as their
+representative; they are redeemed in him, just as they fell in Adam, and
+have lain ever since in the bonds of iniquity, corruption, suffering and
+death. Such is the view taken by Christianity in common with Buddhism;
+the world can no longer be looked at in the light of Jewish optimism,
+which found "all things very good": nay, in the Christian scheme, the
+devil is named as its Prince or Ruler ([Greek: ho archon tou
+kosmoutoutou.] John 12, 33). The world is no longer an end, but a means:
+and the realm of everlasting joy lies beyond it and the grave.
+Resignation in this world and direction of all our hopes to a better,
+form the spirit of Christianity. The way to this end is opened by the
+Atonement, that is the Redemption from this world and its ways. And in
+the moral system, instead of the law of vengeance, there is the command
+to love your enemy; instead of the promise of innumerable posterity, the
+assurance of eternal life; instead of visiting the sins of the fathers
+upon the children to the third and fourth generations, the Holy Spirit
+governs and overshadows all.
+
+We see, then, that the doctrines of the Old Testament are rectified and
+their meaning changed by those of the New, so that, in the most
+important and essential matters, an agreement is brought about between
+them and the old religions of India. Everything which is true in
+Christianity may also be found in Brahmanism and Buddhism. But in
+Hinduism and Buddhism you will look in vain for any parallel to the
+Jewish doctrines of "a nothing quickened into life," or of "a world made
+in time," which cannot be humble enough in its thanks and praises to
+Jehovah for an ephemeral existence full of misery, anguish and need.
+
+Whoever seriously thinks that superhuman beings have ever given our race
+information as to the aim of its existence and that of the world, is
+still in his childhood. There is no other revelation than the thoughts
+of the wise, even though these thoughts, liable to error as is the lot
+of everything human, are often clothed in strange allegories and myths
+under the name of religion. So far, then, it is a matter of indifference
+whether a man lives and dies in reliance on his own or another's
+thoughts; for it is never more than human thought, human opinion, which
+he trusts. Still, instead of trusting what their own minds tell them,
+men have as a rule a weakness for trusting others who pretend to
+supernatural sources of knowledge. And in view of the enormous
+intellectual inequality between man and man, it is easy to see that the
+thoughts of one mind might appear as in some sense a revelation to
+another.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK THE ESSAYS OF ARTHUR SCHOPENHAUER;
+RELIGION, A DIALOGUE, ETC.***
+
+
+******* This file should be named 10833.txt or 10833.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.net/1/0/8/3/10833
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.net/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.net/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.net/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***

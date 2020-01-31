@@ -1,0 +1,11 @@
+/keynote
+
+/latex/*.sty
+/latex/*.bib
+/latex/*.bst
+/latex/*.aux
+/latex/*.log
+/latex/*.tex
+/latex/*.gz
+
+*.numbers
