@@ -44,11 +44,13 @@ void get_n_grams(std::unordered_map<std::string, int>& n_grams, std::ifstream& i
             for(int i = 0; i < s.size() - n + 1; ++i)
             {
                 std::string w;
-                for(int j = 0; j < n; j++) {
+                for(int j = 0; j < n; j++)
+                {
                     w += s[i+j];
                 }
 
-                if (is_n_gram_good(w)) {
+                if (is_n_gram_good(w))
+                {
                     n_grams[w]++;
                 }
             }
