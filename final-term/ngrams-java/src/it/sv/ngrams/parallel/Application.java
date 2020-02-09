@@ -16,7 +16,10 @@ public class Application {
 
   public static void main(String[] args) throws InterruptedException {
 
+    // map for the input arguments
     Map<String, String> arguments = new HashMap<>();
+
+    // shared data structures
     BlockingQueue<String> lines = new ArrayBlockingQueue<>(10000000);
     MyMap ngrams = new MyMap();
     ConcurrentMap<String, Boolean> doneBooks = new ConcurrentHashMap<>();
@@ -72,6 +75,8 @@ public class Application {
     System.out.println("Execution time (parallel version): " + duration + " milliseconds");
 
     ngrams.printReport();
+    // System.out.println("\n\n");
+    // ngrams.printElements();
 
   }
 }

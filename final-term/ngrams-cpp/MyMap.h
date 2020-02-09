@@ -5,7 +5,6 @@
 #ifndef BIGRAM_FINAL_TERM_CPP_MYMAP_H
 #define BIGRAM_FINAL_TERM_CPP_MYMAP_H
 
-#include <map>
 #include <mutex>
 #include <unordered_map>
 
@@ -17,15 +16,20 @@ private:
 
 public:
 
-    void merge(std::unordered_map<std::string, int> mapToMerge) {
+    /**
+     * Method used to merge the thread's local map with the global shared map.
+     *
+     * @param map_to_merge: thread's map to merge with the global one.
+     */
+    void merge(std::unordered_map<std::string, int> map_to_merge)
+    {
         std::unordered_map<std::string, int>::iterator it;
-
-        for ( it = mapToMerge.begin(); it != mapToMerge.end(); it++ ) {
-
+        for ( it = map_to_merge.begin(); it != map_to_merge.end(); it++ )
+        {
             std::unique_lock<std::mutex> lk(mut);
             auto global_it = map.find(it->first);
-            if(global_it != map.end()) {
-                // map.operator[](global_it->first) = global_it->second + it->second;
+            if(global_it != map.end())
+            {
                 map[global_it->first] = global_it->second + it->second;
             } else {
                 map.insert(std::pair<std::string, int>(it->first, it->second));
@@ -34,38 +38,64 @@ public:
         }
     }
 
-    std::unordered_map<std::string, int> getMap() {
+    /**
+     * Getter method to obtain the map object.
+     *
+     * @return: hash map object
+     */
+    std::unordered_map<std::string, int> get_map()
+    {
         return map;
     }
 
-    void printReport() {
+    /**
+     * Print a report of elements contained in the map.
+     *
+     */
+    void print_report()
+    {
         std::lock_guard<std::mutex> lk(mut);
         std::unordered_map<std::string, int>::iterator it;
         long long count = 0;
-        for (it = map.begin(); it != map.end(); it++) {
+        for (it = map.begin(); it != map.end(); it++)
+        {
             count += it->second;
         }
-        printf("count: %lld \n", count);
 
+        printf("count: %lld \n", count);
         printf("qu: %d \n", map["qu"]);
     }
 
-    bool contains(std::string key) {
+    bool contains(const std::string& key)
+    {
         std::lock_guard<std::mutex> lk(mut);
         return map.count(key) == 1;
     }
 
-    void insert(std::string key, int value) {
+    /**
+     * Insert a new pair (key, value) in the map, in a mutually exclusive mode.
+     *
+     * @param key: string
+     * @param value: integer
+     */
+    void insert(const std::string& key, int value)
+    {
         std::lock_guard<std::mutex> lk(mut);
         map.insert(std::pair<std::string, int>(key, value));
     }
 
-/*    void printElements() {
+    /**
+     * Print all the elements contained in the map.
+     *
+     */
+    void print_elements()
+    {
         std::unordered_map<std::string, int>::iterator it;
-        for ( it = map.begin(); it != map.end(); it++ ) {
+        for ( it = map.begin(); it != map.end(); it++ )
+        {
             std::cout << "ngram: " << it->first << " - value: " << it->second << std::endl;
         }
-    }*/
+    }
 
 };
 

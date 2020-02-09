@@ -12,12 +12,15 @@ import java.util.stream.Stream;
 class Producer implements Runnable {
   private int id;
   private int consumerNo;
-  private int linesNo;
+  private int linesNo = 0;
 
   private Stream<String> stream;
+  private String pathPart;
+
+  // shared data structures
   private BlockingQueue<String> lines;
   private ConcurrentMap<String, Boolean> doneBooks;
-  private String pathPart;
+
   private AtomicInteger activeProducers;
 
   Producer(int id,
@@ -30,7 +33,6 @@ class Producer implements Runnable {
     this.id = id;
     this.consumerNo = consumerNo;
     this.lines = lines;
-    this.linesNo = 0;
     this.doneBooks = doneBooks;
     this.pathPart = pathPart;
     this.activeProducers = activeProducers;
@@ -39,17 +41,14 @@ class Producer implements Runnable {
 
   public void run() {
     System.out.println("Producer " + id + " start work");
-    // String directory = "/Users/stefano/Desktop/done-books/1,000,000_lines/";
+
     String directory = "/Volumes/Disco Esterno/parallel-v2/done-books/" + pathPart + "_lines/";
-    //String directory = "/Users/stefano/Desktop/done-books/" + pathPart + "_lines/";
     File folder = new File(directory);
     for (final File fileEntry : Objects.requireNonNull(folder.listFiles())) {
-      if(!doneBooks.containsKey(fileEntry.getName())) {
-        doneBooks.putIfAbsent(fileEntry.getName(), true);
+      if(doneBooks.putIfAbsent(fileEntry.getName(), true) == null) {
         try {
           stream = Files.lines(Paths.get(directory + fileEntry.getName()));
-          Object[] line = stream.toArray();
-          for (Object token : line) {
+          for (Object token : stream.toArray()) {
             lines.put(token.toString());
             ++ linesNo;
           }
@@ -59,7 +58,6 @@ class Producer implements Runnable {
           stream.close();
         }
       }
-
     }
     System.out.println("Producer " + id +  " added " + linesNo + " lines");
 
@@ -67,7 +65,9 @@ class Producer implements Runnable {
       for(int i = 0; i < consumerNo; i++) {
         try {
           lines.put(Application.POISON_PILL);
-        } catch (Exception e ){}
+        } catch (Exception e ){
+          e.printStackTrace();
+        }
       }
     }
     this.activeProducers.getAndDecrement();

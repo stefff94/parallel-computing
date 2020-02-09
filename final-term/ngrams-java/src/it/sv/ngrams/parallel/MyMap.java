@@ -1,5 +1,6 @@
 package it.sv.ngrams.parallel;
 
+import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.atomic.AtomicLong;
@@ -12,15 +13,22 @@ public class MyMap {
     this.map = new ConcurrentHashMap<>();
   }
 
-  public void addOne(String key) {
-    if (!map.containsKey(key)) {
-      map.putIfAbsent(key, 1);
-    } else {
-      int v;
-      do {
-        v = map.get(key);
-      } while (!map.replace(key, v, v+1));
-    }
+  /**
+   * Method used to merge the private map of a single threads
+   *
+   * @param mapToMerge map to merge with the private ConcurrentMap map.
+   */
+  public void merge(Map<String, Integer> mapToMerge) {
+    mapToMerge.forEach(this::addValue);
+  }
+
+  private void addValue(String key, int value) {
+      if (map.putIfAbsent(key, value) != null) {
+        int v;
+        do {
+          v = map.get(key);
+        } while (!map.replace(key, v, v+value));
+      }
   }
 
   public int get(String key) {
@@ -34,6 +42,10 @@ public class MyMap {
     System.out.println("count: " + count.toString());
 
     System.out.println("qu: " + map.get("qu"));
+  }
+
+  public void printElements() {
+    map.forEach( (key, value) -> System.out.println("key: " + key + " - value: " + value));
   }
 
 }

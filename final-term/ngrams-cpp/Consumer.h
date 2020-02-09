@@ -7,85 +7,107 @@
 
 #endif //BIGRAM_FINAL_TERM_CPP_CONSUMER_H
 
-#include <map>
 #include <string>
-#include <regex>
-#include <mutex>
 #include "MyMap.h"
 #include "MyQueue.h"
 
 class Consumer {
-public:
-
 private:
     int id;
     int n;
-    bool canWork;
-    std::string poisonPill;
-    std::unordered_map<std::string, int> ngrams;
+    bool can_work;
+    std::string poison_pill;
 
-    MyMap* global_ngrams;
+    // private hash map
+    std::unordered_map<std::string, int> n_grams;
+
+    // pointers to shared data structures
+    MyMap* global_n_grams;
     MyQueue* lines;
 
-    void consume() {
+    /**
+     * Core method of the consumer thread. It process each line, extracted from the shared queue,
+     * and calculate the ngrams.
+     *
+     */
+    void consume()
+    {
         printf("Consumer %d start work\n", id);
-        while(canWork) {
-            if(!lines->empty()) {
+        while(can_work)
+        {
+            if(!lines->empty())
+            {
                 std::string s;
-
                 lines->wait_and_pop(s);
+                if(s == poison_pill)
+                {
+                    can_work = false;
 
-                if(s == poisonPill) {
-                    canWork = false;
                     // finalize work
-                    global_ngrams->merge(ngrams);
+                    global_n_grams->merge(n_grams);
+
                 } else {
-                    processString(s);
+                    process_string(s);
                 }
             }
         }
         printf("Consumer %d stop work\n", id);
     }
 
-    void processString(std::string s) {
+    /**
+     * Method used to process the single line.
+     *
+     * @param s: line extracted from the shared queue.
+     */
+    void process_string(std::string s)
+    {
         std::transform(s.begin(), s.end(), s.begin(), ::tolower);
-        s.erase( std::remove(s.begin(), s.end(), '\r'), s.end() );
-        s.erase( std::remove(s.begin(), s.end(), '\xbf'), s.end() );
-
-        if (s.size() >= n) {
-            for(int i = 0; i < s.size() - n + 1; ++i) {
+        if (s.size() >= n)
+        {
+            for(int i = 0; i < s.size() - n + 1; ++i)
+            {
                 std::string w;
-                for(int j = 0; j < n; j++) {
+                for(int j = 0; j < n; j++)
+                {
                     w += s[i+j];
                 }
 
-                if (isNgramGood(w)) {
-                    ngrams[w]++;
+                if (is_n_gram_good(w))
+                {
+                    n_grams[w]++;
                 }
             }
         }
     }
 
-    static bool isNgramGood(std::string s) {
-        std::string const rule = " ^[^,.-;:?!«»_'-*()@]+$\"";
-        for (char i : rule) {
-            if (s.find(i) != std::string::npos )
+    /**
+     * Method used to check if an n-gram is valid.
+     * @param s: string that contains the n-gram to check
+     * @return (true) if it is valid, (false) otherwise.
+     */
+    static bool is_n_gram_good(std::string s)
+    {
+        for(char& c : s) {
+            if (!isalpha(c)) {
                 return false;
+            }
         }
         return true;
     }
 
 public:
-    Consumer(int id, int n, std::string pp, MyMap* gn, MyQueue* q) {
+    Consumer(int id, int n, std::string pp, MyMap* gn, MyQueue* q)
+    {
         this->id = id;
         this->n = n;
         lines = q;
-        poisonPill = pp;
-        canWork = true;
-        global_ngrams = gn;
+        poison_pill = pp;
+        can_work = true;
+        global_n_grams = gn;
     }
 
-    void operator()(){
+    void operator()()
+    {
         consume();
     }
 

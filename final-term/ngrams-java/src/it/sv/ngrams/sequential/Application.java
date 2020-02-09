@@ -17,6 +17,7 @@ public class Application {
 
   public static void main(String[] args) throws IOException {
 
+    // map for the input arguments
     Map<String, String> arguments = new HashMap<>();
 
     for (String arg : args) {
@@ -39,10 +40,8 @@ public class Application {
     }
     String directory = "/Volumes/Disco Esterno/parallel-v2/done-books/" + pathPart + "_lines/";
 
-    // setup stream for read file
     long startTime = System.currentTimeMillis();
     System.out.println("Sequential worker start");
-
 
     File folder = new File(directory);
     for (final File fileEntry : Objects.requireNonNull(folder.listFiles())) {
@@ -59,20 +58,24 @@ public class Application {
     System.out.println("Execution time (sequential version): " + duration + " milliseconds");
 
     AtomicLong count = new AtomicLong();
-
     ngrams.forEach((key, value) -> count.addAndGet(value));
 
-    System.out.println(count.toString());
+    System.out.println("count: " + count.toString());
+    System.out.println("qu: " + ngrams.get("qu"));
 
-    System.out.println(ngrams.get("qu"));
+    // System.out.println("\n\n");
 
-    /*System.out.println("---------------------------------------------------------------------------------------------");
-    for (Map.Entry<String, Integer> entry : ngrams.entrySet()) {
-      System.out.println(entry.getKey() + ": " + entry.getValue());
-    }*/
+    // ngrams.forEach((key, value) -> System.out.println("key: " + key + " - value: " + value));
+
   }
 
-  public static void getNgrams(Map<String, Integer> ngrams, int n, Stream<String> stream) {
+  /**
+   * Static method used to extract the desired n-grams from the current line
+   * @param ngrams: map to count the n-grams
+   * @param n: n-grams to extract
+   * @param stream: contains the current line
+   */
+  private static void getNgrams(Map<String, Integer> ngrams, int n, Stream<String> stream) {
     stream.forEach(s -> {
       s = s.toLowerCase();
       char[] sToChar = s.toCharArray();
@@ -81,9 +84,9 @@ public class Application {
         for (int j = 0; j < n; j++) {
           w.append(sToChar[i + j]);
         }
-        if (isNgramGood(w.toString(), " ^[^,.-;:?!«»_'-*()@]+$\"")) {
+        if (isNgramGood(w.toString())) {
           if(ngrams.get(w.toString()) != null) {
-            Integer partial = ngrams.get(w.toString());
+            int partial = ngrams.get(w.toString());
             ngrams.replace(w.toString(), partial + 1);
           } else {
             ngrams.put(w.toString(), 1);
@@ -93,10 +96,17 @@ public class Application {
     });
   }
 
-  private static boolean isNgramGood(String s, String rule) {
-    for (int i = 0; i < rule.length(); ++i) {
-      if (s.contains(String.valueOf(rule.charAt(i))))
+  /**
+   * Method used to check if the n-gram is valid
+   * @param s n-gram to validate
+   * @return (true) if the n-gram is valid, (false) otherwise
+   */
+  private static boolean isNgramGood(String s) {
+    char[] sToChar = s.toCharArray();
+    for (char c: sToChar) {
+      if (!Character.isLetter(c)) {
         return false;
+      }
     }
     return true;
   }

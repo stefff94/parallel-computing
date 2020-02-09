@@ -18,20 +18,40 @@ private:
 
 public:
 
-    void push(std::string new_value) {
+    /**
+     * Method used to push a new value into the shared queue,
+     * with a mutually exclusive execution.
+     *
+     * @param new_value: string to insert
+     */
+    void push(const std::string& new_value)
+    {
         std::lock_guard<std::mutex> lk(mut);
         data_queue.push(new_value);
         data_cond.notify_one();
     }
 
-    void wait_and_pop(std::string& value) {
+    /**
+     * Method used to pop a value from the shared queue.
+     * If it is empty, the thread wait until it is notified.
+     *
+     * @param value: reference to string object to insert the extracted value.
+     */
+    void wait_and_pop(std::string& value)
+    {
         std::unique_lock<std::mutex> lk(mut);
         data_cond.wait(lk, [this]{return !data_queue.empty();});
         value = data_queue.front();
         data_queue.pop();
     }
 
-    bool empty() {
+    /**
+     * Method used to know if the queue is empty, in mutually exclusive mode.
+     *
+     * @return
+     */
+    bool empty()
+    {
         std::lock_guard<std::mutex> lk(mut);
         return data_queue.empty();
     }
