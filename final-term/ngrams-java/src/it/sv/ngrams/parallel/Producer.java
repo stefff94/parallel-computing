@@ -41,8 +41,8 @@ class Producer implements Runnable {
 
   public void run() {
     System.out.println("Producer " + id + " start work");
-
-    String directory = "/Volumes/Disco Esterno/parallel-v2/done-books/" + pathPart + "_lines/";
+    
+    String directory = "../done-books/" + pathPart + "_lines/";
     File folder = new File(directory);
     for (final File fileEntry : Objects.requireNonNull(folder.listFiles())) {
       if(doneBooks.putIfAbsent(fileEntry.getName(), true) == null) {

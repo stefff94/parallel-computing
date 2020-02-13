@@ -84,7 +84,7 @@ public:
             const std::string& path_part, std::atomic<int>* a_p)
     {
         this->id = id;
-        current_directory = "/Volumes/Disco Esterno/parallel-v2/done-books/" + path_part + "_lines";
+        current_directory = "../../done-books/" + path_part + "_lines";
         consumer_no = c_no;
         poison_pill = pp;
         shared_queue = sq;
