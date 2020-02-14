@@ -8,8 +8,6 @@ This project contains a sequential version written in C+ and two parallel versio
 
 ### Run Sequential version
 
-(lines parameter should be: 10,000 - 100,000 - 1,000,000 - 6,000,000)
-
 ```
 ./k-means-sequential elements_no=100000 clusters_no=4   
 ```
