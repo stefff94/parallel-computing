@@ -87,7 +87,7 @@ int main(int argc, char* argv[])
         lines = arguments[LINES];
     }
 
-    std::string currentDirectory = "/Volumes/Disco Esterno/parallel-v2/done-books/" + lines + "_lines/";
+    std::string current_directory = "../../done-books/" + lines + "_lines";
 
     // hash map to store the n-grams
     std::unordered_map<std::string, int> n_grams;
@@ -95,7 +95,7 @@ int main(int argc, char* argv[])
     auto t1 = std::chrono::high_resolution_clock::now();
     printf("Sequential worker start \n");
 
-    for (const auto & entry : std::__fs::filesystem::directory_iterator(currentDirectory))
+    for (const auto & entry : std::__fs::filesystem::directory_iterator(current_directory))
     {
         std::ifstream infile(entry.path());
 
