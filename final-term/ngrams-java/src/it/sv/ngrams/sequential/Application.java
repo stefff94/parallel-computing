@@ -38,8 +38,15 @@ public class Application {
     if (arguments.containsKey(LINES)) {
       pathPart = arguments.get(LINES);
     }
-    String directory = "/Volumes/Disco Esterno/parallel-v2/done-books/" + pathPart + "_lines/";
-
+    String path = System.getProperty("user.dir");
+    String directory = null;
+    if (path.contains("/ngrams-java/out/production/ngrams-java")) {
+      directory = path.replace("/ngrams-java/out/production/ngrams-java", "");
+    } else if (path.contains("/ngrams-java")) {
+      directory = path.replace("/ngrams-java", "");
+    }
+    directory += "/done-books/" + pathPart + "_lines/";
+    
     long startTime = System.currentTimeMillis();
     System.out.println("Sequential worker start");
 

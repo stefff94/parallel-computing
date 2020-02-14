@@ -52,13 +52,20 @@ public class Application {
     if (arguments.containsKey(LINES)) {
       pathPart = arguments.get(LINES);
     }
+    String path = System.getProperty("user.dir");
+    if (path.contains("/ngrams-java/out/production/ngrams-java")) {
+      path = path.replace("/ngrams-java/out/production/ngrams-java", "");
+    } else if (path.contains("/ngrams-java")) {
+      path = path.replace("/ngrams-java", "");
+    }
+    path += "/done-books/" + pathPart + "_lines/";
 
     long startTime = System.currentTimeMillis();
     ExecutorService executor = Executors.newFixedThreadPool(producersNo + consumersNo);
 
     AtomicInteger activeProducers = new AtomicInteger(0);
     for (int i = 0; i < producersNo; ++i) {
-      executor.execute(new Producer(i, lines, consumersNo, doneBooks, pathPart, activeProducers));
+      executor.execute(new Producer(i, lines, consumersNo, doneBooks, path, activeProducers));
     }
 
     for (int i = 0; i < consumersNo; i++) {

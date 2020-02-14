@@ -15,7 +15,7 @@ class Producer implements Runnable {
   private int linesNo = 0;
 
   private Stream<String> stream;
-  private String pathPart;
+  private String path;
 
   // shared data structures
   private BlockingQueue<String> lines;
@@ -27,14 +27,14 @@ class Producer implements Runnable {
           BlockingQueue<String> lines,
           int consumerNo,
           ConcurrentMap<String, Boolean> doneBooks,
-          String pathPart,
+          String path,
           AtomicInteger activeProducers)
   {
     this.id = id;
     this.consumerNo = consumerNo;
     this.lines = lines;
     this.doneBooks = doneBooks;
-    this.pathPart = pathPart;
+    this.path = path;
     this.activeProducers = activeProducers;
     this.activeProducers.getAndIncrement();
   }
@@ -42,7 +42,8 @@ class Producer implements Runnable {
   public void run() {
     System.out.println("Producer " + id + " start work");
     
-    String directory = "../done-books/" + pathPart + "_lines/";
+    // String directory = "../done-books/" + pathPart + "_lines/";
+    String directory = path;
     File folder = new File(directory);
     for (final File fileEntry : Objects.requireNonNull(folder.listFiles())) {
       if(doneBooks.putIfAbsent(fileEntry.getName(), true) == null) {
