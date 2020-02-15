@@ -4,7 +4,7 @@ This project contains a sequential version written in C+ and two parallel versio
 
 ### Following steps show how to run the applications by command line
 
-#### First clone the project and move to main directory. 
+#### First clone the project, build it and move to ```cmake-build-debug``` directory. 
 
 ### Run Sequential version
 
