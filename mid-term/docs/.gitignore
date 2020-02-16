@@ -6,3 +6,6 @@
 
 /miscellaneous
 
+*.key
+*.numbers
+
